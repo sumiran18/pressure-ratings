@@ -1,0 +1,7 @@
+definition,tight_finishes,runouts,extras,fulltosses,dead_chase_pct,order
+Calibrated leverage (chosen),0.866,1.44,1.11,1.32,7,1
+Exact leverage,0.844,1.33,1.00,1.21,5,2
+80% leverage + 20% squeeze,0.846,1.46,1.09,1.32,6,3
+60% leverage + 25% squeeze + 15% stakes,0.807,1.24,1.03,1.13,6,4
+Squeeze only (published formula),0.766,0.90,1.00,1.02,86,5
+"Squeeze, off in dead games",0.636,0.99,0.93,1.02,12,6

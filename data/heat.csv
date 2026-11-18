@@ -1,0 +1,280 @@
+innings,overid,wk_before,pi,balls,innings_n
+1,1,0,44.3,4744,Batting first
+1,1,1,37.3,370,Batting first
+1,2,0,58.8,3823,Batting first
+1,2,1,54.5,1116,Batting first
+1,2,2,39.2,154,Batting first
+1,3,0,71.2,2745,Batting first
+1,3,1,69.3,1767,Batting first
+1,3,2,37.1,452,Batting first
+1,3,3,21.1,68,Batting first
+1,4,0,69.8,1957,Batting first
+1,4,1,66.7,1984,Batting first
+1,4,2,44.7,851,Batting first
+1,4,3,29.8,218,Batting first
+1,5,0,70.7,1380,Batting first
+1,5,1,72.1,2034,Batting first
+1,5,2,56.1,1123,Batting first
+1,5,3,41.1,388,Batting first
+1,5,4,23.0,97,Batting first
+1,6,0,59.6,1037,Batting first
+1,6,1,69.1,1843,Batting first
+1,6,2,60.2,1299,Batting first
+1,6,3,40.2,639,Batting first
+1,6,4,24.8,189,Batting first
+1,7,0,28.1,809,Batting first
+1,7,1,32.7,1614,Batting first
+1,7,2,35.8,1375,Batting first
+1,7,3,23.8,833,Batting first
+1,7,4,21.3,288,Batting first
+1,7,5,19.4,59,Batting first
+1,8,0,35.8,638,Batting first
+1,8,1,28.8,1467,Batting first
+1,8,2,34.5,1395,Batting first
+1,8,3,29.7,951,Batting first
+1,8,4,22.7,426,Batting first
+1,8,5,20.9,125,Batting first
+1,9,0,33.5,471,Batting first
+1,9,1,45.7,1232,Batting first
+1,9,2,30.5,1453,Batting first
+1,9,3,30.8,1037,Batting first
+1,9,4,23.9,574,Batting first
+1,9,5,17.4,204,Batting first
+1,9,6,15.6,39,Batting first
+1,10,0,29.6,371,Batting first
+1,10,1,42.6,999,Batting first
+1,10,2,33.0,1469,Batting first
+1,10,3,35.6,1096,Batting first
+1,10,4,25.5,721,Batting first
+1,10,5,19.9,284,Batting first
+1,10,6,17.8,67,Batting first
+1,11,0,26.5,238,Batting first
+1,11,1,40.8,874,Batting first
+1,11,2,37.0,1392,Batting first
+1,11,3,34.3,1147,Batting first
+1,11,4,29.3,873,Batting first
+1,11,5,26.0,373,Batting first
+1,11,6,18.8,108,Batting first
+1,11,7,14.0,42,Batting first
+1,12,0,29.1,155,Batting first
+1,12,1,44.5,693,Batting first
+1,12,2,42.3,1291,Batting first
+1,12,3,36.6,1205,Batting first
+1,12,4,34.3,921,Batting first
+1,12,5,26.3,537,Batting first
+1,12,6,21.0,149,Batting first
+1,12,7,12.4,83,Batting first
+1,13,0,40.3,101,Batting first
+1,13,1,47.3,537,Batting first
+1,13,2,46.8,1164,Batting first
+1,13,3,35.8,1238,Batting first
+1,13,4,30.3,1016,Batting first
+1,13,5,26.1,665,Batting first
+1,13,6,26.2,209,Batting first
+1,13,7,20.2,101,Batting first
+1,13,8,10.3,37,Batting first
+1,14,0,47.0,80,Batting first
+1,14,1,46.0,369,Batting first
+1,14,2,43.2,913,Batting first
+1,14,3,36.9,1268,Batting first
+1,14,4,37.0,1115,Batting first
+1,14,5,30.7,814,Batting first
+1,14,6,26.7,278,Batting first
+1,14,7,25.2,124,Batting first
+1,14,8,17.4,73,Batting first
+1,15,0,54.5,60,Batting first
+1,15,1,49.0,273,Batting first
+1,15,2,41.2,628,Batting first
+1,15,3,42.4,1214,Batting first
+1,15,4,43.6,1191,Batting first
+1,15,5,36.8,978,Batting first
+1,15,6,30.4,365,Batting first
+1,15,7,28.6,166,Batting first
+1,15,8,23.6,107,Batting first
+1,15,9,14.5,31,Batting first
+1,16,0,47.4,42,Batting first
+1,16,1,45.8,200,Batting first
+1,16,2,40.5,497,Batting first
+1,16,3,47.1,1020,Batting first
+1,16,4,44.8,1309,Batting first
+1,16,5,37.3,1078,Batting first
+1,16,6,34.4,532,Batting first
+1,16,7,33.6,199,Batting first
+1,16,8,28.4,136,Batting first
+1,16,9,14.8,66,Batting first
+1,17,1,36.0,155,Batting first
+1,17,2,42.0,390,Batting first
+1,17,3,53.1,859,Batting first
+1,17,4,47.6,1312,Batting first
+1,17,5,53.3,1106,Batting first
+1,17,6,46.1,716,Batting first
+1,17,7,29.7,287,Batting first
+1,17,8,34.3,190,Batting first
+1,17,9,19.0,79,Batting first
+1,18,1,44.7,107,Batting first
+1,18,2,43.5,282,Batting first
+1,18,3,49.8,671,Batting first
+1,18,4,50.0,1141,Batting first
+1,18,5,49.8,1206,Batting first
+1,18,6,52.1,849,Batting first
+1,18,7,40.6,444,Batting first
+1,18,8,36.7,257,Batting first
+1,18,9,24.8,127,Batting first
+1,19,1,45.4,51,Batting first
+1,19,2,40.9,208,Batting first
+1,19,3,47.0,522,Batting first
+1,19,4,53.3,906,Batting first
+1,19,5,57.8,1213,Batting first
+1,19,6,52.4,951,Batting first
+1,19,7,49.2,598,Batting first
+1,19,8,48.9,389,Batting first
+1,19,9,40.9,257,Batting first
+1,20,2,49.9,150,Batting first
+1,20,3,46.7,387,Batting first
+1,20,4,58.1,604,Batting first
+1,20,5,58.7,1022,Batting first
+1,20,6,59.3,1008,Batting first
+1,20,7,58.4,689,Batting first
+1,20,8,54.6,616,Batting first
+1,20,9,46.8,414,Batting first
+2,1,0,63.7,4559,Chasing
+2,1,1,60.5,503,Chasing
+2,2,0,63.5,3451,Chasing
+2,2,1,64.0,1413,Chasing
+2,2,2,44.0,244,Chasing
+2,3,0,62.8,2541,Chasing
+2,3,1,64.7,1780,Chasing
+2,3,2,49.6,616,Chasing
+2,3,3,40.3,98,Chasing
+2,4,0,62.9,1924,Chasing
+2,4,1,64.6,1868,Chasing
+2,4,2,55.6,958,Chasing
+2,4,3,43.3,268,Chasing
+2,4,4,18.3,37,Chasing
+2,5,0,61.2,1376,Chasing
+2,5,1,64.3,1831,Chasing
+2,5,2,60.4,1226,Chasing
+2,5,3,45.4,510,Chasing
+2,5,4,25.6,97,Chasing
+2,6,0,58.5,1016,Chasing
+2,6,1,63.3,1643,Chasing
+2,6,2,66.6,1333,Chasing
+2,6,3,46.8,773,Chasing
+2,6,4,32.5,203,Chasing
+2,6,5,20.5,62,Chasing
+2,7,0,51.6,702,Chasing
+2,7,1,52.9,1504,Chasing
+2,7,2,62.8,1393,Chasing
+2,7,3,51.2,916,Chasing
+2,7,4,32.1,360,Chasing
+2,7,5,21.7,95,Chasing
+2,8,0,53.8,515,Chasing
+2,8,1,51.0,1398,Chasing
+2,8,2,63.9,1367,Chasing
+2,8,3,52.8,1015,Chasing
+2,8,4,37.0,492,Chasing
+2,8,5,24.4,174,Chasing
+2,8,6,19.6,38,Chasing
+2,9,0,47.9,380,Chasing
+2,9,1,51.5,1153,Chasing
+2,9,2,63.6,1403,Chasing
+2,9,3,57.5,1080,Chasing
+2,9,4,41.4,636,Chasing
+2,9,5,29.8,247,Chasing
+2,9,6,16.9,64,Chasing
+2,10,0,49.3,294,Chasing
+2,10,1,50.0,886,Chasing
+2,10,2,62.2,1392,Chasing
+2,10,3,61.2,1112,Chasing
+2,10,4,44.9,785,Chasing
+2,10,5,32.9,333,Chasing
+2,10,6,20.3,98,Chasing
+2,10,7,6.9,48,Chasing
+2,11,0,50.5,224,Chasing
+2,11,1,49.4,715,Chasing
+2,11,2,59.4,1167,Chasing
+2,11,3,65.6,1244,Chasing
+2,11,4,49.7,838,Chasing
+2,11,5,34.1,456,Chasing
+2,11,6,29.6,167,Chasing
+2,11,7,12.9,70,Chasing
+2,12,0,44.4,154,Chasing
+2,12,1,50.3,607,Chasing
+2,12,2,54.0,1012,Chasing
+2,12,3,66.4,1239,Chasing
+2,12,4,60.5,876,Chasing
+2,12,5,38.2,576,Chasing
+2,12,6,29.9,250,Chasing
+2,12,7,27.1,127,Chasing
+2,12,8,1.8,37,Chasing
+2,13,0,41.5,98,Chasing
+2,13,1,46.5,471,Chasing
+2,13,2,51.9,892,Chasing
+2,13,3,63.3,1192,Chasing
+2,13,4,67.8,877,Chasing
+2,13,5,47.0,674,Chasing
+2,13,6,27.5,348,Chasing
+2,13,7,29.2,211,Chasing
+2,13,8,4.7,65,Chasing
+2,14,0,50.1,62,Chasing
+2,14,1,38.4,359,Chasing
+2,14,2,50.2,730,Chasing
+2,14,3,59.7,1051,Chasing
+2,14,4,68.1,1019,Chasing
+2,14,5,55.0,697,Chasing
+2,14,6,33.0,437,Chasing
+2,14,7,27.4,264,Chasing
+2,14,8,10.5,125,Chasing
+2,14,9,2.6,39,Chasing
+2,15,0,48.9,49,Chasing
+2,15,1,36.5,252,Chasing
+2,15,2,42.2,612,Chasing
+2,15,3,58.9,872,Chasing
+2,15,4,69.8,1004,Chasing
+2,15,5,59.4,825,Chasing
+2,15,6,51.9,446,Chasing
+2,15,7,28.7,369,Chasing
+2,15,8,14.3,169,Chasing
+2,15,9,2.4,67,Chasing
+2,16,1,33.2,166,Chasing
+2,16,2,38.4,469,Chasing
+2,16,3,53.7,765,Chasing
+2,16,4,67.3,866,Chasing
+2,16,5,62.5,855,Chasing
+2,16,6,59.7,601,Chasing
+2,16,7,36.3,385,Chasing
+2,16,8,15.9,280,Chasing
+2,16,9,2.8,122,Chasing
+2,17,1,17.3,92,Chasing
+2,17,2,36.1,322,Chasing
+2,17,3,52.8,584,Chasing
+2,17,4,64.6,779,Chasing
+2,17,5,64.0,828,Chasing
+2,17,6,65.4,626,Chasing
+2,17,7,43.1,464,Chasing
+2,17,8,22.5,397,Chasing
+2,17,9,4.0,158,Chasing
+2,18,1,11.3,35,Chasing
+2,18,2,41.0,210,Chasing
+2,18,3,48.0,407,Chasing
+2,18,4,61.9,628,Chasing
+2,18,5,61.9,723,Chasing
+2,18,6,62.0,688,Chasing
+2,18,7,54.2,499,Chasing
+2,18,8,34.6,451,Chasing
+2,18,9,8.4,260,Chasing
+2,19,2,42.4,81,Chasing
+2,19,3,53.9,231,Chasing
+2,19,4,63.5,405,Chasing
+2,19,5,64.1,527,Chasing
+2,19,6,59.2,692,Chasing
+2,19,7,56.9,514,Chasing
+2,19,8,40.4,465,Chasing
+2,19,9,16.3,415,Chasing
+2,20,3,70.8,77,Chasing
+2,20,4,74.1,163,Chasing
+2,20,5,58.9,282,Chasing
+2,20,6,58.1,375,Chasing
+2,20,7,45.5,501,Chasing
+2,20,8,37.0,480,Chasing
+2,20,9,21.9,420,Chasing

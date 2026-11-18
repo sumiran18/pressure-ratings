@@ -1,0 +1,16 @@
+n,match_id,match_date,comp_name,stage,fixture,ob,situation,wk_before,striker_name,bowler_name,outcome,pi,li_cal,wp_cal,swing
+1,45512,2025-09-26,Asia Cup 2025,Super 4,Sri Lanka v India,20.6,3 needed off 1,5,Dasun Shanaka,Harshit Rana,2 runs,100.0,32.91,49,14.7
+2,48027,2025-11-21,Asia Cup Rising Stars 2025,Semi Final,India A v Bangladesh A,20.6,4 needed off 1,6,Harsh Dubey,Rakibul Hasan,3 runs,100.0,30.05,33,34.1
+3,48029,2025-11-23,Asia Cup Rising Stars 2025,Final,Bangladesh A v Pakistan A,20.6,2 needed off 1,9,Abdul Saqlain,Ahmed Daniyal,dot ball,100.0,25.03,52,-1.8
+4,14126,2022-04-21,IPL 2022,League,Chennai Super Kings v Mumbai Indians,20.6,4 needed off 1,7,Mahendra Singh Dhoni,Jaydev Unadkat,4 runs,100.0,33.57,49,72.3
+5,20193,2023-04-09,IPL 2023,League,Kolkata Knight Riders v Gujarat Titans,20.6,4 needed off 1,7,Rinku Singh,Yash Dayal,6 runs,100.0,32.89,42,68.5
+6,14133,2022-04-27,IPL 2022,League,Gujarat Titans v Sunrisers Hyderabad,20.6,3 needed off 1,5,Rashid Khan,Marco Jansen,6 runs,100.0,32.85,44,64.0
+7,40745,2025-05-03,IPL 2025,League,Chennai Super Kings v Royal Challengers Bengaluru,20.7,4 needed off 1,5,Shivam Dube,Yash Dayal,1 run,100.0,32.61,49,-26.5
+8,40729,2025-04-19,IPL 2025,League,Rajasthan Royals v Lucknow Super Giants,20.6,4 needed off 1,5,Shubham Dubey,Avesh Khan,1 run,100.0,32.57,48,-23.2
+9,20221,2023-04-30,IPL 2023,League,Punjab Kings v Chennai Super Kings,20.6,3 needed off 1,6,Sikandar Raza,Matheesha Pathirana,3 runs,100.0,32.55,50,70.0
+10,20232,2023-05-07,IPL 2023,League,Sunrisers Hyderabad v Rajasthan Royals,20.7,4 needed off 1,6,Abdul Samad,Sandeep Sharma,6 runs,100.0,32.14,43,65.4
+11,32621,2024-05-19,Netherlands Tri-Nation T20I Series 2024,Others,Netherlands v Ireland,20.7,3 needed off 1,8,Tim Pringle,Mark Adair,1 run,99.99,31.99,39,-31.8
+12,40746,2025-05-04,IPL 2025,League,Rajasthan Royals v Kolkata Knight Riders,20.6,3 needed off 1,7,Shubham Dubey,Vaibhav Arora,WICKET (RunOut),99.99,31.91,49,-41.5
+13,29982,2024-02-21,Australia in New Zealand T20I Series 2024,Others,Australia v New Zealand,20.7,4 needed off 1,4,Tim David,Tim Southee,4 runs,99.99,31.74,43,69.2
+14,28962,2024-01-17,Afghanistan in India T20I Series 2024,Others,Afghanistan v India,20.8,3 needed off 1,6,Gulbadin Naib,Mukesh Kumar,2 runs,99.99,31.47,53,5.4
+15,41511,2025-08-02,Pakistan in West Indies T20I Series 2025,Others,West Indies v Pakistan,20.6,4 needed off 1,8,Jason Holder,Shaheen Afridi,"wide / no-ball, 1",99.99,31.18,36,0.0

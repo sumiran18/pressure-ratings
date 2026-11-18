@@ -1,0 +1,1261 @@
+player_id,role,kind,balls,runs,outs,rate
+6281,bat,Cover Drive,128,306,10,239.1
+6931,bat,Pull shot,125,280,7,224.0
+47,bat,Flick,116,254,4,219.0
+1699,bat,Flick,114,210,4,184.2
+818,bat,Pull shot,110,273,7,248.2
+47,bat,Pull shot,110,222,9,201.8
+6819,bat,Cover Drive,107,189,1,176.6
+6288,bat,Worked,107,89,3,83.2
+23450,bat,Worked,106,106,0,100.0
+47,bat,Worked,105,99,0,94.3
+7897,bat,Pull shot,102,212,4,207.8
+4117,bat,Pull shot,101,184,10,182.2
+47,bat,Cover Drive,100,159,3,159.0
+6288,bat,Pull shot,97,220,3,226.8
+5553,bat,Pull shot,97,232,7,239.2
+6281,bat,Pull shot,96,235,10,244.8
+7897,bat,Worked,95,79,1,83.2
+813,bat,Cover Drive,95,173,4,182.1
+6819,bat,Square Cut,93,152,1,163.4
+6931,bat,Worked,90,88,1,97.8
+813,bat,Worked,89,68,2,76.4
+6288,bat,Cover Drive,88,191,3,217.0
+3125,bat,Pull shot,86,171,5,198.8
+6819,bat,Pull shot,86,211,8,245.3
+953,bat,Pull shot,83,175,5,210.8
+126,bat,Pull shot,81,199,8,245.7
+813,bat,Pull shot,80,216,5,270.0
+3672,bat,Pull shot,79,145,6,183.5
+818,bat,Cover Drive,79,124,3,157.0
+6931,bat,Square Cut,76,73,4,96.1
+4117,bat,Cover Drive,75,102,6,136.0
+23450,bat,Square Cut,75,134,1,178.7
+3605,bat,Cover Drive,73,114,3,156.2
+2258,bat,Pull shot,73,181,9,247.9
+23450,bat,Pull shot,72,112,4,155.6
+5553,bat,Cover Drive,72,134,3,186.1
+6288,bat,Flick,71,154,5,216.9
+6288,bat,Square Cut,71,125,1,176.1
+813,bat,Off Drive,70,135,2,192.9
+1699,bat,Cover Drive,70,129,2,184.3
+1699,bat,Square Cut,70,113,1,161.4
+47,bat,Off Drive,69,95,4,137.7
+8647,bat,Worked,69,66,0,95.7
+3024,bat,Pull shot,69,130,3,188.4
+6651,bat,Worked,68,69,0,101.5
+2367,bat,Pull shot,67,168,6,250.7
+5939,bat,Cover Drive,67,94,2,140.3
+220,bat,Pull shot,66,164,0,248.5
+1077,bat,Pull shot,66,127,1,192.4
+5553,bat,Off Drive,66,126,3,190.9
+2258,bat,Cover Drive,65,86,4,132.3
+126,bat,Flick,65,126,4,193.8
+2258,bat,Off Drive,64,102,5,159.4
+6281,bat,Square drive,64,133,2,207.8
+3330,bat,Cover Drive,64,121,0,189.1
+953,bat,Worked,64,62,0,96.9
+3647,bat,Worked,63,66,0,104.8
+6819,bat,Off Drive,63,94,3,149.2
+4117,bat,Flick,63,102,4,161.9
+4117,bat,Frontfoot defensive,63,14,1,22.2
+3672,bat,Worked,63,62,0,98.4
+3024,bat,Flick,62,76,1,122.6
+953,bat,Cover Drive,62,100,6,161.3
+6281,bat,Off Drive,62,111,4,179.0
+126,bat,Worked,61,44,1,72.1
+1077,bat,Cover Drive,60,96,4,160.0
+7216,bat,Worked,60,58,1,96.7
+3125,bat,Square Cut,60,92,2,153.3
+6281,bat,Square Cut,60,106,1,176.7
+2921,bat,Worked,59,59,1,100.0
+6931,bat,Cover Drive,59,115,0,194.9
+3330,bat,Pull shot,58,80,6,137.9
+4117,bat,Square Cut,58,84,3,144.8
+6288,bat,Push,58,42,0,72.4
+23450,bat,Flick,58,116,1,200.0
+6819,bat,Flick,57,85,0,149.1
+7897,bat,Flick,57,72,4,126.3
+126,bat,Cover Drive,56,127,3,226.8
+88,bat,Cover Drive,56,78,4,139.3
+953,bat,Square Cut,55,68,1,123.6
+3954,bat,Square drive,55,82,1,149.1
+3647,bat,Cover Drive,55,96,1,174.5
+1699,bat,Square drive,55,94,1,170.9
+7897,bat,Cover Drive,54,112,5,207.4
+2671,bat,Worked,54,48,2,88.9
+1699,bat,Worked,54,51,1,94.4
+23450,bat,Cover Drive,54,104,0,192.6
+2367,bat,Cover Drive,54,80,2,148.1
+5553,bat,Worked,54,48,0,88.9
+4369,bat,Cover Drive,53,84,1,158.5
+6819,bat,Square drive,53,97,3,183.0
+7260,bat,Pull shot,53,101,3,190.6
+3639,bat,Pull shot,52,88,3,169.2
+4117,bat,On drive,52,91,1,175.0
+3297,bat,Pull shot,52,110,4,211.5
+126,bat,Frontfoot defensive,52,11,3,21.2
+2258,bat,Worked,52,41,1,78.8
+6448,bat,Cover Drive,51,63,1,123.5
+6396,bat,Pull shot,51,117,8,229.4
+47,bat,On drive,51,73,0,143.1
+6281,bat,Worked,51,50,0,98.0
+20702,bat,Worked,51,50,1,98.0
+7216,bat,Pull shot,50,133,4,266.0
+7897,bat,Off Drive,50,88,3,176.0
+2485,bat,Pull shot,50,100,2,200.0
+3647,bat,Flick,50,84,5,168.0
+2485,bat,Flick,49,84,3,171.4
+953,bat,Flick,48,77,3,160.4
+3024,bat,Worked,48,49,0,102.1
+3605,bat,Off Drive,48,42,3,87.5
+4755,bat,Pull shot,48,112,0,233.3
+2101,bat,Pull shot,48,122,3,254.2
+3605,bat,Worked,48,37,1,77.1
+5939,bat,On drive,47,94,1,200.0
+7897,bat,Square drive,47,47,0,100.0
+4986,bat,Pull shot,47,103,4,219.1
+4780,bat,Worked,47,32,1,68.1
+3954,bat,Cover Drive,47,55,1,117.0
+3672,bat,Backfoot defensive,47,10,1,21.3
+2416,bat,Pull shot,46,101,5,219.6
+953,bat,On drive,46,68,2,147.8
+4007,bat,Worked,46,41,0,89.1
+88,bat,Worked,46,39,0,84.8
+1699,bat,On drive,46,75,1,163.0
+7900,bat,Pull shot,46,78,2,169.6
+7216,bat,Cover Drive,46,87,1,189.1
+818,bat,Off Drive,46,73,2,158.7
+6931,bat,Off Drive,45,74,3,164.4
+3125,bat,Frontfoot defensive,45,13,2,28.9
+6423,bat,Pull shot,45,109,4,242.2
+167,bat,Worked,45,44,0,97.8
+1077,bat,Flick,45,73,5,162.2
+4007,bat,Cover Drive,45,70,2,155.6
+768,bat,Cover Drive,45,105,1,233.3
+88,bat,Pull shot,44,121,2,275.0
+2876,bat,Pull shot,44,70,4,159.1
+4736,bat,Pull shot,44,121,1,275.0
+2485,bat,Cover Drive,44,50,5,113.6
+813,bat,Flick,44,58,3,131.8
+50284,bat,Pull shot,44,162,4,368.2
+4106,bat,Pull shot,44,109,3,247.7
+20702,bat,Cover Drive,44,61,0,138.6
+3125,bat,Cover Drive,44,91,1,206.8
+818,bat,Frontfoot defensive,43,18,3,41.9
+818,bat,Worked,43,29,0,67.4
+8647,bat,Cover Drive,43,71,4,165.1
+2367,bat,Square Cut,43,54,0,125.6
+6931,bat,Flick,43,102,3,237.2
+3639,bat,Cover Drive,43,70,3,162.8
+6423,bat,Worked,43,37,0,86.0
+5939,bat,Off Drive,42,54,4,128.6
+3605,bat,On drive,42,61,0,145.2
+2101,bat,Cover Drive,42,50,1,119.0
+4246,bat,Worked,42,36,0,85.7
+5939,bat,Pull shot,42,106,4,252.4
+2984,bat,Pull shot,42,85,3,202.4
+2876,bat,Cover Drive,42,56,4,133.3
+1481,bat,Worked,41,30,0,73.2
+6651,bat,Square Cut,41,49,0,119.5
+50284,bat,Cover Drive,41,114,0,278.0
+5553,bat,On drive,41,83,2,202.4
+3647,bat,Pull shot,41,87,2,212.2
+3672,bat,Square Cut,41,53,3,129.3
+813,bat,Push,41,18,1,43.9
+818,bat,Square drive,40,70,0,175.0
+3700,bat,Pull shot,40,81,3,202.5
+2258,bat,Push,40,21,0,52.5
+796,bat,Pull shot,40,95,2,237.5
+7900,bat,Worked,40,34,2,85.0
+768,bat,Pull shot,40,87,1,217.5
+2485,bat,Worked,40,37,1,92.5
+3639,bat,Off Drive,40,71,1,177.5
+2921,bat,Pull shot,40,85,2,212.5
+3091,bat,Off Drive,39,62,0,159.0
+4755,bat,Worked,39,30,1,76.9
+4755,bat,Cover Drive,39,55,2,141.0
+2258,bat,Square Cut,39,43,5,110.3
+4409,bat,Worked,39,43,0,110.3
+2921,bat,Square Cut,39,37,3,94.9
+3605,bat,Square Cut,39,60,0,153.8
+4007,bat,Off Drive,39,66,1,169.2
+443,bat,Pull shot,39,96,4,246.2
+220,bat,Square Cut,39,46,2,117.9
+6314,bat,Pull shot,38,65,3,171.1
+1941,bat,Flick,38,62,3,163.2
+6059,bat,Worked,38,45,0,118.4
+2671,bat,Pull shot,38,78,4,205.3
+3605,bat,Flick,38,77,4,202.6
+6272,bat,Cover Drive,38,69,2,181.6
+3125,bat,Off Drive,38,62,4,163.2
+1941,bat,Pull shot,37,73,0,197.3
+1596,bat,Cover Drive,37,47,2,127.0
+6396,bat,Cover Drive,37,60,1,162.2
+6423,bat,Flick,37,51,2,137.8
+3297,bat,Cover Drive,37,58,3,156.8
+152,bat,Pull shot,37,75,1,202.7
+2876,bat,Worked,37,34,0,91.9
+4708,bat,Pull shot,37,77,1,208.1
+7690,bat,Cover Drive,37,55,3,148.6
+7216,bat,Off Drive,37,43,3,116.2
+3330,bat,Off Drive,37,46,3,124.3
+5553,bat,Flick,37,68,1,183.8
+126,bat,Square Cut,37,49,1,132.4
+4007,bat,Flick,36,57,4,158.3
+23450,bat,Square drive,36,55,1,152.8
+1077,bat,Square Cut,36,44,0,122.2
+2876,bat,On drive,36,52,2,144.4
+7900,bat,Square Cut,36,50,1,138.9
+4812,bat,On drive,36,49,1,136.1
+7216,bat,Square Cut,36,44,1,122.2
+7260,bat,Square Cut,36,34,0,94.4
+4409,bat,Cover Drive,35,76,0,217.1
+2639,bat,Cover Drive,35,47,4,134.3
+7901,bat,Worked,35,26,0,74.3
+6272,bat,Worked,35,29,0,82.9
+3024,bat,Off Drive,35,46,2,131.4
+3024,bat,Sweep Shot,35,45,1,128.6
+3916,bat,Cover Drive,35,74,3,211.4
+6314,bat,Flick,35,58,3,165.7
+3330,bat,Flick,34,55,0,161.8
+4007,bat,Pull shot,34,66,4,194.1
+6314,bat,Cover Drive,34,63,2,185.3
+3672,bat,Square drive,34,46,0,135.3
+2367,bat,Flick,34,77,2,226.5
+4260,bat,Pull shot,34,89,1,261.8
+6059,bat,Cover Drive,34,46,1,135.3
+3330,bat,Square Cut,34,46,2,135.3
+24017,bat,Cover Drive,34,37,1,108.8
+2101,bat,Square Cut,34,50,1,147.1
+2485,bat,On drive,34,56,0,164.7
+4986,bat,Worked,34,24,3,70.6
+152,bat,Worked,34,31,0,91.2
+4703,bat,Square Cut,34,50,0,147.1
+3024,bat,On drive,34,57,1,167.6
+8647,bat,Pull shot,33,95,0,287.9
+8647,bat,Frontfoot defensive,33,8,0,24.2
+220,bat,Cover Drive,33,53,0,160.6
+6674,bat,Pull shot,33,62,2,187.9
+2921,bat,Off Drive,33,58,1,175.8
+3297,bat,Worked,33,33,3,100.0
+3125,bat,Worked,33,35,2,106.1
+6460,bat,Worked,33,36,0,109.1
+3954,bat,Pull shot,33,63,5,190.9
+7690,bat,Pull shot,33,72,6,218.2
+24017,bat,Worked,33,21,1,63.6
+3672,bat,Steer,33,36,1,109.1
+4391,bat,Pull shot,33,83,1,251.5
+88,bat,Off Drive,33,57,1,172.7
+6448,bat,Square drive,33,42,0,127.3
+2416,bat,Cover Drive,33,60,0,181.8
+2921,bat,Cover Drive,33,54,3,163.6
+167,bat,Flick,32,59,1,184.4
+3639,bat,Flick,32,34,3,106.2
+1205,bat,Pull shot,32,64,3,200.0
+2101,bat,Worked,32,26,0,81.2
+6314,bat,Square Cut,32,49,3,153.1
+24017,bat,Square drive,32,44,1,137.5
+22565,bat,Worked,32,25,1,78.1
+6396,bat,Off Drive,32,48,2,150.0
+6396,bat,Flick,32,77,1,240.6
+1077,bat,Worked,32,23,1,71.9
+6674,bat,Frontfoot defensive,32,11,1,34.4
+4703,bat,Pull shot,32,46,3,143.8
+1440,bat,Pull shot,32,70,2,218.8
+3639,bat,On drive,31,46,5,148.4
+4369,bat,Worked,31,24,0,77.4
+220,bat,Worked,31,28,0,90.3
+2490,bat,Pull shot,31,63,4,203.2
+3374,bat,Pull shot,31,68,2,219.4
+4823,bat,Pull shot,31,77,3,248.4
+796,bat,Cover Drive,31,39,0,125.8
+4853,bat,Cover Drive,31,50,2,161.3
+1941,bat,Cover Drive,31,41,3,132.3
+3330,bat,On drive,31,48,3,154.8
+5939,bat,Worked,31,32,0,103.2
+2101,bat,Flick,31,67,2,216.1
+7216,bat,On drive,31,47,4,151.6
+6280,bat,Worked,31,34,0,109.7
+2984,bat,Cover Drive,31,55,1,177.4
+1077,bat,Off Drive,31,63,0,203.2
+4986,bat,Flick,31,50,1,161.3
+8101,bat,Pull shot,31,65,2,209.7
+3647,bat,Off Drive,30,44,0,146.7
+3647,bat,On drive,30,54,0,180.0
+6674,bat,Worked,30,23,0,76.7
+6423,bat,Cover Drive,30,56,1,186.7
+3091,bat,Cover Drive,30,39,2,130.0
+6651,bat,Flick,30,51,5,170.0
+768,bat,Worked,30,32,0,106.7
+6396,bat,On drive,30,67,0,223.3
+4814,bat,Worked,30,28,0,93.3
+7260,bat,Worked,30,29,0,96.7
+24017,bat,Square Cut,30,42,1,140.0
+2671,bat,Frontfoot defensive,30,9,0,30.0
+8647,bat,Square drive,30,29,0,96.7
+4986,bat,Frontfoot defensive,30,18,2,60.0
+4106,bat,Worked,30,30,0,100.0
+3727,bat,Pull shot,30,46,2,153.3
+6059,bat,Push,30,25,0,83.3
+2671,bat,Cover Drive,30,65,0,216.7
+2367,bat,Off Drive,30,43,1,143.3
+6059,bat,Pull shot,30,68,5,226.7
+6674,bat,Square Cut,30,36,0,120.0
+2485,bat,Square Cut,29,42,1,144.8
+25669,bat,Cover Drive,29,71,1,244.8
+2436,bat,Pull shot,29,50,2,172.4
+25669,bat,Pull shot,29,88,6,303.4
+2921,bat,Frontfoot defensive,29,7,0,24.1
+8101,bat,Off Drive,29,60,1,206.9
+6448,bat,Worked,29,23,0,79.3
+2639,bat,Pull shot,29,63,3,217.2
+2436,bat,Worked,29,22,0,75.9
+8647,bat,Off Drive,29,43,3,148.3
+838,bat,Pull shot,29,63,3,217.2
+4409,bat,Pull shot,29,63,5,217.2
+2876,bat,Off Drive,29,43,3,148.3
+4895,bat,Worked,29,21,1,72.4
+4755,bat,Off Drive,29,38,3,131.0
+2367,bat,Square drive,29,58,1,200.0
+4853,bat,Pull shot,29,57,1,196.6
+109,bat,Pull shot,28,35,4,125.0
+4854,bat,Pull shot,28,74,0,264.3
+2101,bat,Square drive,28,37,0,132.1
+4780,bat,Cover Drive,28,31,3,110.7
+2639,bat,Off Drive,28,34,2,121.4
+6725,bat,Cover Drive,28,42,0,150.0
+6314,bat,Worked,28,29,0,103.6
+22565,bat,Pull shot,28,34,1,121.4
+6651,bat,Pull shot,28,59,0,210.7
+3297,bat,Flick,28,49,5,175.0
+24017,bat,Off Drive,28,24,3,85.7
+22565,bat,Square Cut,28,47,0,167.9
+3700,bat,Worked,28,23,0,82.1
+3639,bat,Square Cut,28,28,1,100.0
+152,bat,Flick,28,34,2,121.4
+838,bat,Cover Drive,27,36,2,133.3
+2416,bat,On drive,27,32,1,118.5
+4812,bat,Cover Drive,27,27,3,100.0
+4847,bat,Pull shot,27,82,1,303.7
+2984,bat,Worked,27,27,0,100.0
+3916,bat,Pull shot,27,51,1,188.9
+7059,bat,Pull shot,27,50,2,185.2
+7690,bat,Square Cut,27,24,2,88.9
+4986,bat,Cover Drive,27,64,1,237.0
+4708,bat,Square Cut,27,24,1,88.9
+7901,bat,Push,27,14,0,51.9
+167,bat,Pull shot,27,59,2,218.5
+88,bat,On drive,27,52,4,192.6
+7900,bat,Cover Drive,26,41,1,157.7
+1941,bat,Off Drive,26,26,3,100.0
+6725,bat,Square drive,26,30,0,115.4
+1941,bat,Worked,26,20,0,76.9
+1941,bat,Frontfoot defensive,26,9,1,34.6
+6059,bat,Square Cut,26,39,1,150.0
+5039,bat,Worked,26,25,0,96.2
+2416,bat,Frontfoot defensive,26,5,1,19.2
+4895,bat,Pull shot,26,38,4,146.2
+7901,bat,Cover Drive,26,47,1,180.8
+20702,bat,Off Drive,26,32,3,123.1
+3926,bat,Pull shot,26,35,5,134.6
+3091,bat,Pull shot,26,70,4,269.2
+2416,bat,Backfoot defensive,25,7,2,28.0
+1481,bat,Pull shot,25,44,0,176.0
+4106,bat,On drive,25,60,2,240.0
+443,bat,Worked,25,15,0,60.0
+20702,bat,Push,25,16,0,64.0
+6674,bat,Cover Drive,25,38,2,152.0
+6725,bat,Pull shot,25,63,3,252.0
+6725,bat,Square Cut,25,38,1,152.0
+728,bat,Cover Drive,25,30,1,120.0
+768,bat,Off Drive,25,49,2,196.0
+7260,bat,On drive,25,50,1,200.0
+6651,bat,Cover Drive,25,38,0,152.0
+4260,bat,Cover Drive,25,55,1,220.0
+4369,bat,Pull shot,25,49,3,196.0
+6448,bat,Push,25,9,0,36.0
+88,bat,Flick,25,50,3,200.0
+3374,bat,Cover Drive,25,43,0,172.0
+1440,bat,Square Cut,25,47,0,188.0
+2671,bat,Push,25,14,1,56.0
+2671,bat,Square Cut,25,41,1,164.0
+1440,bat,Frontfoot defensive,25,5,2,20.0
+7059,bat,Cover Drive,24,30,3,125.0
+23311,bat,Worked,24,20,0,83.3
+7544,bat,Flick,24,35,1,145.8
+7544,bat,Pull shot,24,52,2,216.7
+7901,bat,Pull shot,24,47,2,195.8
+8600,bat,Worked,24,16,2,66.7
+37052,bat,Pull shot,24,60,2,250.0
+6448,bat,On drive,24,28,2,116.7
+4409,bat,On drive,24,29,0,120.8
+2984,bat,Off Drive,24,37,1,154.2
+3648,bat,Cover Drive,24,18,1,75.0
+3954,bat,Off Drive,24,10,4,41.7
+4007,bat,On drive,24,81,0,337.5
+4219,bat,Worked,24,18,1,75.0
+4391,bat,Cover Drive,24,36,1,150.0
+4703,bat,Worked,24,22,0,91.7
+6448,bat,Off Drive,24,23,2,95.8
+4736,bat,Cover Drive,24,36,0,150.0
+4755,bat,Flick,24,39,1,162.5
+4755,bat,Square drive,24,22,0,91.7
+2463,bat,Worked,24,20,0,83.3
+6314,bat,Backfoot defensive,24,4,1,16.7
+768,bat,Flick,24,43,0,179.2
+152,bat,Square Cut,24,36,0,150.0
+2984,bat,Square drive,23,31,3,134.8
+6272,bat,Pull shot,23,50,4,217.4
+220,bat,Backfoot defensive,23,6,1,26.1
+4219,bat,Pull shot,23,26,1,113.0
+1440,bat,Worked,23,21,0,91.3
+3954,bat,Worked,23,17,0,73.9
+3700,bat,On drive,23,46,2,200.0
+4260,bat,Worked,23,22,0,95.7
+24017,bat,Pull shot,23,63,5,273.9
+4853,bat,Worked,23,23,0,100.0
+109,bat,Cover Drive,23,38,2,165.2
+2436,bat,On drive,23,46,3,200.0
+4260,bat,Off Drive,23,33,2,143.5
+4260,bat,On drive,23,39,2,169.6
+3926,bat,Cover Drive,23,47,0,204.3
+4260,bat,Push,23,14,0,60.9
+2416,bat,Off Drive,23,50,2,217.4
+4823,bat,Worked,23,19,0,82.6
+6460,bat,Square Cut,23,21,2,91.3
+5039,bat,Square drive,23,50,2,217.4
+37052,bat,Cover Drive,23,40,3,173.9
+3648,bat,Off Drive,23,26,0,113.0
+6396,bat,Slog,23,88,2,382.6
+4703,bat,Cover Drive,23,24,0,104.3
+22565,bat,Off Drive,22,41,0,186.4
+37052,bat,Worked,22,11,1,50.0
+7059,bat,Worked,22,19,0,86.4
+22565,bat,Cover Drive,22,35,2,159.1
+2639,bat,On drive,22,62,0,281.8
+6423,bat,Off Drive,22,34,2,154.5
+7544,bat,Cover Drive,22,29,0,131.8
+4854,bat,Flick,22,32,1,145.5
+167,bat,Cover Drive,22,25,2,113.6
+23311,bat,Pull shot,22,45,3,204.5
+1327,bat,Pull shot,22,47,2,213.6
+3297,bat,On drive,22,64,3,290.9
+3727,bat,Off Drive,22,21,1,95.5
+6059,bat,Frontfoot defensive,22,9,0,40.9
+2639,bat,Square Cut,22,39,1,177.3
+2876,bat,Steer,22,26,1,118.2
+7900,bat,Push,22,6,0,27.3
+4736,bat,Worked,22,17,0,77.3
+4812,bat,Worked,22,15,0,68.2
+4708,bat,Cover Drive,22,49,1,222.7
+7900,bat,Off Drive,22,23,3,104.5
+167,bat,Square drive,22,31,1,140.9
+4823,bat,Off Drive,22,23,2,104.5
+4246,bat,Pull shot,22,60,2,272.7
+6423,bat,Frontfoot defensive,22,5,0,22.7
+220,bat,Push,21,13,0,61.9
+7690,bat,Flick,21,24,2,114.3
+4847,bat,Cover Drive,21,48,2,228.6
+7690,bat,Worked,21,15,0,71.4
+4823,bat,Square drive,21,14,0,66.7
+4823,bat,Cover Drive,21,34,0,161.9
+3954,bat,Square Cut,21,33,2,157.1
+4854,bat,Cover Drive,21,23,1,109.5
+4986,bat,Off Drive,21,46,1,219.0
+2639,bat,Worked,21,18,0,85.7
+167,bat,Square Cut,21,25,1,119.0
+5939,bat,Square Cut,21,36,0,171.4
+768,bat,Frontfoot defensive,21,7,1,33.3
+4814,bat,Frontfoot defensive,21,8,0,38.1
+3374,bat,Off Drive,21,28,2,133.3
+3297,bat,Slog,21,32,2,152.4
+4391,bat,Worked,21,20,0,95.2
+8600,bat,Pull shot,21,27,1,128.6
+3700,bat,Cover Drive,21,26,1,123.8
+3091,bat,Worked,21,10,1,47.6
+50284,bat,Push,21,5,0,23.8
+50284,bat,Flick,21,48,1,228.6
+4219,bat,Off Drive,20,32,1,160.0
+4246,bat,Cover Drive,20,38,1,190.0
+2436,bat,Square Cut,20,21,0,105.0
+7260,bat,Frontfoot defensive,20,1,3,5.0
+4854,bat,Square Cut,20,38,0,190.0
+728,bat,Pull shot,20,24,1,120.0
+4736,bat,Square drive,20,35,1,175.0
+25669,bat,Square drive,20,44,0,220.0
+22565,bat,Push,20,6,0,30.0
+838,bat,Worked,20,20,0,100.0
+3648,bat,Flick,20,22,0,110.0
+6725,bat,Worked,20,19,1,95.0
+838,bat,Flick,20,47,0,235.0
+23311,bat,Cover Drive,20,28,0,140.0
+3916,bat,Off Drive,20,38,1,190.0
+4780,bat,Frontfoot defensive,20,3,0,15.0
+3727,bat,Cover Drive,20,35,0,175.0
+1205,bat,Square Cut,20,34,0,170.0
+2436,bat,Cover Drive,20,43,1,215.0
+4780,bat,Pull shot,20,45,2,225.0
+992,bat,Pull shot,20,22,4,110.0
+1205,bat,Cover Drive,20,43,1,215.0
+992,bat,Worked,19,13,0,68.4
+4409,bat,Off Drive,19,15,2,78.9
+2984,bat,Flick,19,29,1,152.6
+23311,bat,Square Cut,19,30,1,157.9
+4219,bat,Cover Drive,19,25,0,131.6
+6460,bat,Cover Drive,19,37,1,194.7
+6460,bat,Pull shot,19,32,3,168.4
+728,bat,Flick,19,21,4,110.5
+7690,bat,Off Drive,19,13,1,68.4
+1440,bat,Steer,19,23,1,121.1
+2436,bat,Off Drive,19,26,1,136.8
+4854,bat,Square drive,19,24,1,126.3
+1596,bat,On drive,19,49,1,257.9
+4780,bat,Backfoot defensive,19,2,0,10.5
+3374,bat,Worked,19,16,0,84.2
+20702,bat,Pull shot,19,35,1,184.2
+4853,bat,Off Drive,19,28,1,147.4
+20702,bat,Square drive,19,27,0,142.1
+4369,bat,Off Drive,19,44,0,231.6
+2756,bat,Flick,19,37,0,194.7
+4369,bat,Backfoot defensive,19,9,0,47.4
+8600,bat,Frontfoot defensive,19,6,0,31.6
+7059,bat,Flick,19,31,0,163.2
+4847,bat,Flick,19,36,4,189.5
+6651,bat,Square drive,18,19,0,105.6
+3489,bat,Worked,18,10,0,55.6
+4736,bat,Flick,18,33,1,183.3
+1596,bat,Pull shot,18,43,1,238.9
+4854,bat,Off Drive,18,21,2,116.7
+3926,bat,Square Cut,18,18,1,100.0
+3700,bat,Square Cut,18,26,0,144.4
+4780,bat,Push,18,6,0,33.3
+4812,bat,Backfoot defensive,18,7,0,38.9
+3489,bat,Cover Drive,18,39,0,216.7
+7901,bat,Sweep Shot,18,44,0,244.4
+4823,bat,Flick,18,37,2,205.6
+7901,bat,Square Cut,18,21,2,116.7
+3091,bat,Push,18,2,1,11.1
+23311,bat,Square drive,18,12,1,66.7
+6725,bat,Off Drive,18,41,1,227.8
+4391,bat,On drive,17,29,2,170.6
+2756,bat,Pull shot,17,52,1,305.9
+4812,bat,Pull shot,17,40,1,235.3
+728,bat,Backfoot defensive,17,5,1,29.4
+4369,bat,Square drive,17,23,0,135.3
+4219,bat,Flick,17,48,0,282.4
+4853,bat,Square drive,17,25,1,147.1
+4246,bat,Square Cut,17,18,0,105.9
+5039,bat,Pull shot,17,37,4,217.6
+2490,bat,Off Drive,17,21,3,123.5
+1440,bat,Sweep Shot,17,32,2,188.2
+7544,bat,Off Drive,17,21,5,123.5
+3926,bat,Worked,17,14,0,82.4
+23311,bat,On drive,17,30,1,176.5
+2463,bat,Cover Drive,17,23,1,135.3
+6674,bat,Off Drive,17,47,4,276.5
+7059,bat,On drive,17,28,2,164.7
+37052,bat,Off Drive,17,39,1,229.4
+50284,bat,UpperCut,17,33,1,194.1
+152,bat,On drive,17,19,1,111.8
+2490,bat,Frontfoot defensive,17,6,0,35.3
+2490,bat,Cover Drive,17,46,1,270.6
+50284,bat,On drive,17,59,3,347.1
+7059,bat,Off Drive,17,15,0,88.2
+992,bat,Cover Drive,17,21,2,123.5
+4812,bat,Square Cut,16,33,0,206.2
+796,bat,Flick,16,24,1,150.0
+1327,bat,Square Cut,16,24,1,150.0
+7260,bat,Off Drive,16,21,1,131.2
+796,bat,Worked,16,13,0,81.2
+4391,bat,Off Drive,16,22,0,137.5
+3374,bat,Flick,16,17,2,106.2
+4391,bat,Slog,16,29,2,181.2
+4409,bat,Flick,16,21,1,131.2
+4703,bat,Flick,16,24,1,150.0
+25669,bat,Worked,16,14,0,87.5
+4736,bat,Square Cut,16,13,0,81.2
+3700,bat,Square drive,16,25,0,156.2
+1596,bat,Flick,16,26,0,162.5
+4219,bat,On drive,16,17,4,106.2
+6272,bat,Square Cut,16,24,1,150.0
+6272,bat,Square drive,16,32,0,200.0
+2756,bat,Worked,16,15,0,93.8
+443,bat,Cover Drive,16,38,1,237.5
+6272,bat,Flick,15,15,2,100.0
+8600,bat,Reverse Sweep,15,25,0,166.7
+4106,bat,Flick,15,22,1,146.7
+109,bat,Backfoot defensive,15,5,0,33.3
+4106,bat,Frontfoot defensive,15,7,0,46.7
+1205,bat,Flick,15,27,0,180.0
+838,bat,Off Drive,15,25,3,166.7
+443,bat,Square drive,15,16,0,106.7
+6280,bat,Pull shot,15,34,2,226.7
+6280,bat,Square Cut,15,29,1,193.3
+3648,bat,Worked,15,11,0,73.3
+4847,bat,On drive,15,32,2,213.3
+2463,bat,Pull shot,15,25,1,166.7
+4895,bat,Cover Drive,15,28,0,186.7
+4895,bat,Backfoot defensive,15,0,2,0.0
+4246,bat,Sweep Shot,15,15,1,100.0
+7544,bat,Square Cut,15,20,0,133.3
+3926,bat,Flick,15,27,0,180.0
+3916,bat,On drive,15,17,0,113.3
+1596,bat,Backfoot defensive,14,3,0,21.4
+37052,bat,Flick,14,28,3,200.0
+6460,bat,Frontfoot defensive,14,7,0,50.0
+4895,bat,Frontfoot defensive,14,1,0,7.1
+4814,bat,Sweep Shot,14,23,2,164.3
+5039,bat,Off Drive,14,30,0,214.3
+443,bat,Off Drive,14,8,5,57.1
+4106,bat,Straight Drive,14,56,2,400.0
+4708,bat,Flick,14,25,0,178.6
+3374,bat,On drive,14,24,0,171.4
+3648,bat,On drive,14,27,2,192.9
+4246,bat,Square drive,14,24,1,171.4
+5039,bat,Flick,14,23,2,164.3
+443,bat,Flick,14,15,1,107.1
+3091,bat,Flick,14,17,1,121.4
+4814,bat,Flick,14,35,0,250.0
+1327,bat,On drive,14,35,1,250.0
+3916,bat,Worked,14,9,0,64.3
+4853,bat,Backfoot defensive,14,3,0,21.4
+2756,bat,Cover Drive,14,22,0,157.1
+3648,bat,Square drive,14,17,0,121.4
+3926,bat,Frontfoot defensive,14,16,0,114.3
+7544,bat,On drive,14,19,3,135.7
+5039,bat,Backfoot defensive,14,3,0,21.4
+1596,bat,Push,14,10,0,71.4
+109,bat,Worked,14,9,0,64.3
+3489,bat,Flick,14,24,1,171.4
+3489,bat,Push,13,8,0,61.5
+3916,bat,Flick,13,12,1,92.3
+3727,bat,Flick,13,29,1,223.1
+3727,bat,Push,13,5,0,38.5
+3489,bat,Steer,13,11,0,84.6
+152,bat,Slog,13,24,3,184.6
+2490,bat,Worked,13,7,1,53.8
+2463,bat,Flick,13,15,0,115.4
+37052,bat,On drive,13,20,2,153.8
+25669,bat,Flick,13,24,2,184.6
+109,bat,Flick,13,28,0,215.4
+8600,bat,Sweep Shot,13,15,1,115.4
+8101,bat,Square drive,13,15,2,115.4
+8101,bat,Cover Drive,13,23,0,176.9
+1481,bat,Square Cut,13,25,0,192.3
+728,bat,Worked,13,10,0,76.9
+4703,bat,Frontfoot defensive,13,5,0,38.5
+4814,bat,Cover Drive,13,18,0,138.5
+796,bat,Backfoot defensive,13,10,0,76.9
+4847,bat,Off Drive,13,34,1,261.5
+1205,bat,Frontfoot defensive,13,4,1,30.8
+2756,bat,Square drive,13,18,0,138.5
+3727,bat,On drive,12,13,2,108.3
+4708,bat,Worked,12,12,0,100.0
+6280,bat,Cover Drive,12,24,1,200.0
+838,bat,Push,12,6,1,50.0
+6460,bat,Flick,12,19,0,158.3
+2756,bat,Off Drive,12,21,0,175.0
+2463,bat,Frontfoot defensive,12,1,0,8.3
+2463,bat,Off Drive,12,12,1,100.0
+992,bat,Square Cut,12,16,1,133.3
+1205,bat,Worked,12,12,0,100.0
+2490,bat,Square Cut,12,14,0,116.7
+1327,bat,Slog,12,31,1,258.3
+1481,bat,Reverse Sweep,11,36,0,327.3
+796,bat,Frontfoot defensive,11,3,0,27.3
+109,bat,Square drive,11,21,0,190.9
+8101,bat,Flick,11,25,0,227.3
+1327,bat,Worked,11,5,1,45.5
+1481,bat,Flick,11,17,3,154.5
+1481,bat,Frontfoot defensive,11,5,0,45.5
+6280,bat,Square drive,11,24,0,218.2
+6280,bat,On drive,11,20,0,181.8
+4708,bat,Off Drive,11,24,1,218.2
+992,bat,Off Drive,11,29,0,263.6
+992,bat,Flick,11,12,0,109.1
+4814,bat,Pull shot,11,31,0,281.8
+8600,bat,Flick,11,17,3,154.5
+1327,bat,Cover Drive,11,22,1,200.0
+4895,bat,Slog Sweep,10,6,6,60.0
+4847,bat,Straight Drive,10,23,0,230.0
+3489,bat,Pull shot,9,17,1,188.9
+25669,bat,Off Drive,9,22,1,244.4
+8101,bat,UpperCut,9,23,0,255.6
+728,bat,Off Drive,8,3,0,37.5
+1612,bowl,Leg Break,497,697,33,8.4
+2876,bowl,Orthodox,480,602,28,7.5
+2417,bowl,Orthodox,462,607,24,7.9
+7503,bowl,Googly,384,497,20,7.8
+4722,bowl,Googly,352,424,24,7.2
+4101,bowl,Orthodox,350,443,25,7.6
+4722,bowl,Leg Break,334,401,17,7.2
+2490,bowl,Orthodox,332,369,24,6.7
+6256,bowl,Googly,322,429,23,8.0
+152,bowl,Orthodox,292,401,11,8.2
+305,bowl,Off Break,262,313,10,7.2
+4219,bowl,Orthodox,257,303,11,7.1
+19316,bowl,Carrom,255,313,13,7.4
+4900,bowl,Leg Break,244,332,11,8.2
+7967,bowl,Googly,235,319,11,8.1
+6512,bowl,Off Break,233,307,15,7.9
+3644,bowl,Chinaman,232,292,13,7.6
+2876,bowl,Arm ball,228,270,11,7.1
+4900,bowl,Googly,226,327,22,8.7
+7503,bowl,Leg Break,224,358,7,9.6
+1596,bowl,Off Break,220,321,17,8.8
+1107,bowl,Off Break,212,295,11,8.3
+781,bowl,Off Break,211,241,16,6.9
+6161,bowl,Leg Break,209,337,3,9.7
+2261,bowl,Off Cutter,206,307,11,8.9
+19316,bowl,Off Break,200,251,4,7.5
+5837,bowl,Off Break,190,249,10,7.9
+305,bowl,Carrom,189,281,7,8.9
+3276,bowl,Orthodox,187,235,9,7.5
+6450,bowl,Carrom,186,221,15,7.1
+838,bowl,Off Break,183,272,8,8.9
+360,bowl,Out Swing,180,188,8,6.3
+781,bowl,Carrom,179,190,4,6.4
+2636,bowl,Leg Break,179,249,10,8.3
+7325,bowl,Orthodox,175,241,10,8.3
+2687,bowl,Off Break,172,237,7,8.3
+5944,bowl,Out Swing,163,221,6,8.1
+2984,bowl,Off Break,161,161,9,6.0
+360,bowl,Inswing,159,167,11,6.3
+4823,bowl,Off Break,157,249,7,9.5
+7364,bowl,Seamed In,149,194,7,7.8
+2526,bowl,Leg Break,144,233,6,9.7
+4658,bowl,Orthodox,144,200,7,8.3
+5944,bowl,Inswing,143,200,9,8.4
+7472,bowl,Orthodox,142,231,3,9.8
+6464,bowl,Out Swing,140,194,9,8.3
+3644,bowl,Googly,140,152,13,6.5
+4373,bowl,Off Cutter,139,217,9,9.4
+2417,bowl,Arm ball,128,167,11,7.8
+6256,bowl,Leg Break,126,169,8,8.0
+7967,bowl,Chinaman,125,193,6,9.3
+5944,bowl,Seamed In,125,168,4,8.1
+36982,bowl,Leg Break,123,163,1,8.0
+479,bowl,Leg Break,121,148,5,7.3
+7503,bowl,Flipper,112,173,4,9.3
+4219,bowl,Arm ball,111,121,8,6.5
+2320,bowl,Inswing,109,131,6,7.2
+7690,bowl,Carrom,109,96,6,5.3
+3653,bowl,Seamed In,107,129,4,7.2
+5979,bowl,Carrom,106,94,5,5.3
+32862,bowl,Carrom,104,139,11,8.0
+4692,bowl,Seamed In,104,141,6,8.1
+3275,bowl,Seamed In,104,147,7,8.5
+6464,bowl,Inswing,102,155,5,9.1
+2933,bowl,Off Cutter,102,132,6,7.8
+4489,bowl,Seamed In,102,133,5,7.8
+29888,bowl,Off Cutter,101,184,9,10.9
+3330,bowl,Seamed In,100,132,1,7.9
+6676,bowl,Seamed In,100,149,8,8.9
+3330,bowl,Off Cutter,98,176,4,10.8
+2633,bowl,Off Cutter,96,150,6,9.4
+6676,bowl,Out Swing,95,104,3,6.6
+8746,bowl,Inswing,95,151,2,9.5
+4373,bowl,Seamed Out,94,90,5,5.7
+1813,bowl,Out Swing,93,105,7,6.8
+7690,bowl,Off Break,93,111,5,7.2
+36982,bowl,Googly,92,134,4,8.7
+830,bowl,Seamed In,91,109,11,7.2
+3653,bowl,Seamed Out,91,139,4,9.2
+1566,bowl,Seamed In,91,112,7,7.4
+2633,bowl,Seamed In,91,103,8,6.8
+5944,bowl,Seamed Out,91,127,6,8.4
+6523,bowl,Seamed In,89,100,1,6.7
+2320,bowl,Out Swing,88,127,4,8.7
+6464,bowl,Full Toss,88,158,5,10.8
+6676,bowl,Inswing,88,124,4,8.5
+6464,bowl,Seamed Out,87,146,4,10.1
+830,bowl,Seamed Out,87,109,6,7.5
+6355,bowl,Inswing,85,78,2,5.5
+6464,bowl,Seamed In,83,145,2,10.5
+2681,bowl,Seamed In,82,105,2,7.7
+5939,bowl,Seamed In,81,86,4,6.4
+6806,bowl,Off Cutter,81,158,3,11.7
+3628,bowl,Seamed In,80,101,2,7.6
+6450,bowl,Googly,80,104,3,7.8
+7322,bowl,Out Swing,79,124,4,9.4
+2320,bowl,Seamed In,78,109,5,8.4
+6464,bowl,Off Cutter,78,140,6,10.8
+1612,bowl,Googly,78,125,4,9.6
+5441,bowl,Seamed In,75,91,3,7.3
+8746,bowl,Out Swing,75,121,4,9.7
+2636,bowl,Googly,74,79,6,6.4
+1758,bowl,Seamed In,74,72,7,5.8
+3628,bowl,Seamed Out,73,98,7,8.1
+6355,bowl,Out Swing,73,71,6,5.8
+6161,bowl,Googly,72,84,3,7.0
+6726,bowl,Off Cutter,72,101,6,8.4
+3275,bowl,Seamed Out,72,114,2,9.5
+3628,bowl,Out Swing,71,124,4,10.5
+4816,bowl,Out Swing,70,108,4,9.3
+1566,bowl,Out Swing,70,110,3,9.4
+4409,bowl,Off Cutter,69,118,2,10.3
+3330,bowl,Seamed Out,69,89,5,7.7
+2261,bowl,Seamed In,67,111,4,9.9
+2633,bowl,Full Toss,67,122,2,10.9
+5809,bowl,Seamed In,66,87,2,7.9
+3330,bowl,Out Swing,66,90,4,8.2
+6726,bowl,Seamed In,65,77,2,7.1
+2526,bowl,Googly,64,88,6,8.2
+360,bowl,Seamed Out,64,106,2,9.9
+3653,bowl,Full Toss,64,119,4,11.2
+39657,bowl,Off Cutter,64,77,5,7.2
+3298,bowl,Seamed In,64,107,2,10.0
+4641,bowl,Off Cutter,63,72,3,6.9
+830,bowl,Out Swing,62,91,4,8.8
+7920,bowl,Back of Hand,62,70,4,6.8
+1813,bowl,Knuckle,62,87,1,8.4
+2933,bowl,Out Swing,62,56,2,5.4
+2639,bowl,Seamed In,61,80,2,7.9
+4816,bowl,Inswing,61,86,4,8.5
+479,bowl,Googly,61,75,4,7.4
+5979,bowl,Googly,61,64,6,6.3
+5979,bowl,Leg Break,61,69,2,6.8
+278,bowl,Seamed In,60,79,4,7.9
+7240,bowl,Inswing,60,67,4,6.7
+4816,bowl,Off Cutter,59,92,4,9.4
+829,bowl,Out Swing,59,102,3,10.4
+3628,bowl,Inswing,59,92,2,9.4
+2933,bowl,Inswing,59,62,2,6.3
+6669,bowl,Off Cutter,58,97,7,10.0
+1813,bowl,Inswing,58,77,0,8.0
+2933,bowl,Seamed In,58,83,1,8.6
+3298,bowl,Out Swing,58,78,7,8.1
+152,bowl,Arm ball,58,60,3,6.2
+4373,bowl,Seamed In,56,52,1,5.6
+3298,bowl,Inswing,56,88,4,9.4
+5379,bowl,Seamed In,56,56,3,6.0
+27964,bowl,Out Swing,56,95,3,10.2
+6726,bowl,Seamed Out,56,104,3,11.1
+7905,bowl,Seamed In,56,56,3,6.0
+4489,bowl,Seamed Out,55,97,4,10.6
+2633,bowl,Straight,55,123,5,13.4
+5939,bowl,Off Cutter,54,84,4,9.3
+2261,bowl,Full Toss,54,71,2,7.9
+7364,bowl,Off Cutter,54,105,3,11.7
+6806,bowl,Seamed In,53,85,1,9.6
+29888,bowl,Seamed In,53,60,2,6.8
+360,bowl,Leg Cut,53,113,1,12.8
+360,bowl,Full Toss,53,78,2,8.8
+6676,bowl,Seamed Out,53,91,3,10.3
+830,bowl,Inswing,53,52,4,5.9
+7240,bowl,Out Swing,53,64,1,7.2
+2633,bowl,Seamed Out,52,72,0,8.3
+6806,bowl,Out Swing,52,48,1,5.5
+5041,bowl,Seamed In,52,82,2,9.5
+4874,bowl,Seamed Out,51,65,3,7.6
+4692,bowl,Seamed Out,50,83,2,10.0
+5809,bowl,Off Cutter,49,83,1,10.2
+22920,bowl,Inswing,49,59,4,7.2
+3653,bowl,Yorker,49,39,2,4.8
+5379,bowl,Out Swing,49,51,2,6.2
+2933,bowl,Full Toss,48,79,1,9.9
+7240,bowl,Off Cutter,48,63,3,7.9
+1566,bowl,Seamed Out,48,52,2,6.5
+1566,bowl,Inswing,48,69,4,8.6
+4837,bowl,Off Cutter,47,80,6,10.2
+32862,bowl,Off Break,47,53,0,6.8
+2399,bowl,Seamed In,47,69,2,8.8
+3174,bowl,Seamed In,47,64,1,8.2
+2320,bowl,Seamed Out,46,61,2,8.0
+4265,bowl,Full Toss,46,108,4,14.1
+6676,bowl,Off Cutter,46,76,1,9.9
+2399,bowl,Leg Cut,46,90,5,11.7
+4692,bowl,Leg Cut,45,57,3,7.6
+7322,bowl,Inswing,45,61,2,8.1
+4837,bowl,Seamed Out,45,94,0,12.5
+3653,bowl,Straight,45,79,3,10.5
+6726,bowl,Straight,44,96,0,13.1
+6523,bowl,Seamed Out,44,55,1,7.5
+19312,bowl,Out Swing,44,71,1,9.7
+2681,bowl,Seamed Out,44,54,3,7.4
+1758,bowl,Inswing,44,71,3,9.7
+6355,bowl,Off Cutter,43,53,6,7.4
+2681,bowl,Inswing,43,39,5,5.4
+22920,bowl,Out Swing,43,49,2,6.8
+360,bowl,Knuckle,43,74,5,10.3
+7808,bowl,Seamed In,43,46,4,6.4
+3653,bowl,Leg Cut,42,87,3,12.4
+6450,bowl,Off Break,42,45,0,6.4
+1318,bowl,Seamed Out,41,76,4,11.1
+7270,bowl,Seamed In,41,72,1,10.5
+4489,bowl,Off Cutter,41,68,1,10.0
+5379,bowl,Inswing,41,44,0,6.4
+6676,bowl,Straight,41,69,0,10.1
+2639,bowl,Off Cutter,41,60,4,8.8
+6806,bowl,Full Toss,41,81,2,11.9
+6806,bowl,Seamed Out,41,56,3,8.2
+5944,bowl,Off Cutter,41,66,2,9.7
+7920,bowl,Straight,41,47,3,6.9
+4101,bowl,Arm ball,41,32,2,4.7
+403,bowl,Seamed In,40,58,1,8.7
+6806,bowl,Inswing,40,81,3,12.2
+3298,bowl,Seamed Out,40,89,1,13.4
+7344,bowl,Out Swing,40,54,1,8.1
+2633,bowl,Out Swing,40,55,5,8.2
+2933,bowl,Yorker,39,31,3,4.8
+5041,bowl,Full Toss,39,73,2,11.2
+4373,bowl,Out Swing,39,50,3,7.7
+8661,bowl,Off Cutter,39,65,1,10.0
+3174,bowl,Out Swing,39,65,1,10.0
+6523,bowl,Straight,39,50,2,7.7
+7094,bowl,Seamed In,39,69,1,10.6
+278,bowl,Out Swing,39,46,1,7.1
+7905,bowl,Seamed Out,39,74,4,11.4
+5041,bowl,Inswing,38,43,3,6.8
+1318,bowl,Seamed In,38,50,3,7.9
+829,bowl,Inswing,38,68,0,10.7
+7808,bowl,Off Cutter,38,81,1,12.8
+19312,bowl,Off Cutter,38,61,2,9.6
+1612,bowl,Slider,38,49,2,7.7
+6256,bowl,Quicker Ball,38,52,1,8.2
+4265,bowl,Seamed Out,38,50,1,7.9
+2681,bowl,Off Cutter,38,45,2,7.1
+4874,bowl,Straight,38,44,3,6.9
+1318,bowl,Straight,38,77,1,12.2
+6287,bowl,Off Cutter,37,66,4,10.7
+3330,bowl,Inswing,37,49,2,7.9
+7364,bowl,Seamed Out,37,33,3,5.4
+2320,bowl,Full Toss,36,64,0,10.7
+38855,bowl,Out Swing,36,64,1,10.7
+4409,bowl,Seamed In,36,65,0,10.8
+22920,bowl,Off Cutter,36,59,3,9.8
+5041,bowl,Seamed Out,36,47,2,7.8
+2847,bowl,Off Cutter,36,66,3,11.0
+6355,bowl,Seamed Out,36,33,1,5.5
+4409,bowl,Straight,36,70,1,11.7
+7344,bowl,Inswing,36,29,0,4.8
+2847,bowl,Knuckle,35,53,1,9.1
+8661,bowl,Seamed Out,35,40,1,6.9
+7808,bowl,Inswing,35,67,0,11.5
+2320,bowl,Off Cutter,35,64,3,11.0
+2847,bowl,Inswing,35,76,1,13.0
+4874,bowl,Inswing,35,37,1,6.3
+5441,bowl,Seamed Out,34,34,1,6.0
+1612,bowl,Flipper,34,39,3,6.9
+6669,bowl,Seamed Out,34,56,1,9.9
+6355,bowl,Full Toss,34,40,4,7.1
+2984,bowl,Carrom,34,35,2,6.2
+2399,bowl,Seamed Out,34,34,1,6.0
+403,bowl,Seamed Out,34,56,3,9.9
+2847,bowl,Full Toss,34,66,5,11.6
+6355,bowl,Seamed In,33,51,1,9.3
+1813,bowl,Seamed Out,33,48,1,8.7
+3697,bowl,Out Swing,33,40,1,7.3
+7322,bowl,Back of Hand,33,70,1,12.7
+4816,bowl,Seamed In,33,40,3,7.3
+4816,bowl,Seamed Out,33,49,0,8.9
+2411,bowl,Full Toss,33,87,3,15.8
+5809,bowl,Inswing,33,49,4,8.9
+4409,bowl,Seamed Out,33,59,0,10.7
+2639,bowl,Seamed Out,32,57,3,10.7
+3697,bowl,Seamed In,32,30,2,5.6
+3174,bowl,Seamed Out,32,52,1,9.8
+2399,bowl,Inswing,32,43,0,8.1
+38855,bowl,Off Cutter,32,60,1,11.2
+1318,bowl,Off Cutter,32,88,2,16.5
+4874,bowl,Out Swing,32,55,0,10.3
+5837,bowl,Arm ball,32,23,3,4.3
+4874,bowl,Seamed In,32,52,4,9.8
+1487,bowl,Out Swing,32,60,3,11.2
+2847,bowl,Seamed In,32,74,0,13.9
+6726,bowl,Full Toss,32,74,2,13.9
+5041,bowl,Out Swing,31,30,3,5.8
+19316,bowl,Full Toss,31,33,1,6.4
+7240,bowl,Seamed Out,31,51,1,9.9
+32862,bowl,Flick,31,47,3,9.1
+2411,bowl,Seamed Out,31,45,0,8.7
+7344,bowl,Seamed In,31,32,1,6.2
+1813,bowl,Seamed In,31,47,1,9.1
+7364,bowl,Inswing,31,66,4,12.8
+22920,bowl,Seamed In,30,42,1,8.4
+3174,bowl,Inswing,30,50,1,10.0
+6256,bowl,Straight,30,43,2,8.6
+4692,bowl,Inswing,30,52,1,10.4
+1758,bowl,Out Swing,30,35,1,7.0
+1107,bowl,Arm ball,30,37,1,7.4
+8746,bowl,Seamed In,30,52,1,10.4
+7240,bowl,Seamed In,30,33,1,6.6
+7322,bowl,Seamed In,30,39,3,7.8
+5379,bowl,Straight,30,50,2,10.0
+19312,bowl,Inswing,30,35,1,7.0
+7094,bowl,Seamed Out,29,42,0,8.7
+5944,bowl,Bouncer,29,29,1,6.0
+1318,bowl,Full Toss,29,61,2,12.6
+2411,bowl,Knuckle,29,37,1,7.7
+3330,bowl,Bouncer,29,37,0,7.7
+2847,bowl,Out Swing,29,30,1,6.2
+5379,bowl,Off Cutter,29,40,3,8.3
+7322,bowl,Seamed Out,28,48,1,10.3
+830,bowl,Off Cutter,28,50,2,10.7
+2639,bowl,Straight,28,60,0,12.9
+3275,bowl,Straight,28,56,3,12.0
+4489,bowl,Inswing,28,39,1,8.4
+5041,bowl,Yorker,28,18,0,3.9
+4409,bowl,Inswing,28,32,0,6.9
+1487,bowl,Seamed In,28,39,2,8.4
+22920,bowl,Seamed Out,28,30,3,6.4
+4373,bowl,Inswing,28,46,0,9.9
+403,bowl,Out Swing,28,36,0,7.7
+3628,bowl,Off Cutter,28,37,1,7.9
+7344,bowl,Seamed Out,28,34,1,7.3
+6287,bowl,Seamed In,28,57,0,12.2
+278,bowl,Off Cutter,27,67,1,14.9
+278,bowl,Inswing,27,19,2,4.2
+27964,bowl,Inswing,27,53,2,11.8
+5441,bowl,Straight,27,59,1,13.1
+29888,bowl,Seamed Out,27,57,1,12.7
+8661,bowl,Straight,27,32,1,7.1
+3275,bowl,Inswing,27,42,4,9.3
+2261,bowl,Slow Bouncer,27,43,0,9.6
+2399,bowl,Out Swing,26,39,2,9.0
+4837,bowl,Seamed In,26,22,1,5.1
+2261,bowl,Seamed Out,26,47,1,10.8
+27964,bowl,Seamed In,26,47,2,10.8
+4409,bowl,Out Swing,26,27,0,6.2
+4692,bowl,Out Swing,26,22,1,5.1
+3275,bowl,Bouncer,26,38,0,8.8
+305,bowl,Arm ball,26,23,2,5.3
+7240,bowl,Straight,26,42,1,9.7
+6669,bowl,Seamed In,25,32,0,7.7
+830,bowl,Full Toss,25,35,3,8.4
+1758,bowl,Seamed Out,25,44,1,10.6
+3697,bowl,Inswing,25,78,0,18.7
+3275,bowl,Off Cutter,25,69,0,16.6
+4265,bowl,Off Cutter,25,49,2,11.8
+7905,bowl,Off Cutter,25,40,1,9.6
+7808,bowl,Seamed Out,25,74,0,17.8
+3628,bowl,Full Toss,24,41,2,10.2
+7364,bowl,Full Toss,24,44,0,11.0
+7322,bowl,Full Toss,24,40,2,10.0
+39657,bowl,Full Toss,24,34,0,8.5
+7905,bowl,Out Swing,24,20,3,5.0
+7920,bowl,Seamed In,24,32,0,8.0
+2261,bowl,Straight,24,30,2,7.5
+7094,bowl,Off Cutter,24,37,0,9.2
+7920,bowl,Off Cutter,23,48,0,12.5
+3644,bowl,Slider,23,37,3,9.7
+39657,bowl,Inswing,23,29,1,7.6
+8661,bowl,Reverse Swing In,23,29,3,7.6
+7808,bowl,Out Swing,23,45,0,11.7
+7094,bowl,Straight,23,47,0,12.3
+3697,bowl,Leg Cut,23,57,1,14.9
+479,bowl,Slider,23,17,0,4.4
+1318,bowl,Yorker,23,18,0,4.7
+6523,bowl,Off Cutter,22,40,1,10.9
+5441,bowl,Inswing,22,29,0,7.9
+6726,bowl,Slow Bouncer,22,16,3,4.4
+2681,bowl,Out Swing,22,27,0,7.4
+1566,bowl,Off Cutter,22,48,3,13.1
+38855,bowl,Seamed In,22,35,1,9.5
+4641,bowl,Seamed In,22,29,1,7.9
+4874,bowl,Off Cutter,22,18,1,4.9
+1487,bowl,Seamed Out,22,34,2,9.3
+4489,bowl,Full Toss,22,37,0,10.1
+2399,bowl,Full Toss,22,53,1,14.5
+7920,bowl,Seamed Out,22,23,1,6.3
+7364,bowl,Out Swing,22,28,2,7.6
+6287,bowl,Full Toss,22,33,3,9.0
+5939,bowl,Inswing,22,36,1,9.8
+2411,bowl,Inswing,21,23,1,6.6
+1758,bowl,Off Cutter,21,37,0,10.6
+5939,bowl,Seamed Out,21,15,0,4.3
+4692,bowl,Straight,21,45,0,12.9
+4265,bowl,Yorker,21,14,1,4.0
+5809,bowl,Leg Cut,21,39,1,11.1
+2490,bowl,Arm ball,21,21,3,6.0
+29888,bowl,Inswing,21,27,2,7.7
+4489,bowl,Out Swing,21,36,1,10.3
+4641,bowl,Inswing,21,26,1,7.4
+2681,bowl,Slow Ball,20,23,5,6.9
+8661,bowl,Seamed In,20,17,4,5.1
+8746,bowl,Full Toss,20,64,0,19.2
+22920,bowl,Bouncer,20,17,2,5.1
+1813,bowl,Slow Bouncer,20,38,1,11.4
+5809,bowl,Straight,20,25,2,7.5
+2411,bowl,Straight,20,38,0,11.4
+5379,bowl,Bouncer,20,33,2,9.9
+39657,bowl,Seamed In,20,37,1,11.1
+4265,bowl,Out Swing,20,38,0,11.4
+4265,bowl,Seamed In,20,30,0,9.0
+829,bowl,Off Cutter,20,40,0,12.0
+4658,bowl,Arm ball,19,13,1,4.1
+6287,bowl,Bouncer,19,19,5,6.0
+829,bowl,Seamed Out,19,22,1,6.9
+4373,bowl,Bouncer,19,17,0,5.4
+6287,bowl,Seamed Out,19,35,0,11.1
+6669,bowl,Out Swing,19,24,0,7.6
+2411,bowl,Slow Bouncer,19,25,0,7.9
+6523,bowl,Out Swing,19,27,1,8.5
+4641,bowl,Seamed Out,19,23,1,7.3
+8661,bowl,Reverse Swing Out,19,23,4,7.3
+5939,bowl,Straight,18,39,1,13.0
+829,bowl,Seamed In,18,33,2,11.0
+6256,bowl,Carrom,18,30,1,10.0
+7905,bowl,Straight,18,47,1,15.7
+2636,bowl,Flipper,18,16,2,5.3
+3298,bowl,Angled In,18,26,1,8.7
+3298,bowl,Straight,18,32,3,10.7
+4219,bowl,Quicker Ball,17,31,3,10.9
+5441,bowl,Out Swing,17,13,0,4.6
+7270,bowl,Seamed Out,17,27,0,9.5
+278,bowl,Straight,17,29,1,10.2
+7344,bowl,Off Cutter,17,23,2,8.1
+6669,bowl,Inswing,16,29,1,10.9
+3174,bowl,Straight,16,28,0,10.5
+1758,bowl,Bouncer,16,24,1,9.0
+4837,bowl,Back of Hand,16,18,0,6.8
+7808,bowl,Bouncer,16,29,1,10.9
+3276,bowl,Arm ball,16,21,0,7.9
+7905,bowl,Bouncer,16,20,1,7.5
+1566,bowl,Bouncer,16,42,1,15.8
+278,bowl,Seamed Out,16,24,1,9.0
+7270,bowl,Yorker,15,15,1,6.0
+7325,bowl,Arm ball,15,10,1,4.0
+29888,bowl,Out Swing,15,29,1,11.6
+5441,bowl,Off Cutter,15,18,0,7.2
+29888,bowl,Bouncer,15,15,3,6.0
+7472,bowl,Arm ball,15,23,3,9.2
+7503,bowl,Full Toss,15,22,0,8.8
+829,bowl,Full Toss,15,14,4,5.6
+39657,bowl,Out Swing,15,23,2,9.2
+838,bowl,Arm ball,15,24,0,9.6
+2687,bowl,Arm ball,14,13,0,5.6
+19312,bowl,Seamed In,14,13,0,5.6
+39657,bowl,Seamed Out,14,21,3,9.0
+5809,bowl,Angled In,14,22,0,9.4
+7094,bowl,Inswing,14,13,0,5.6
+7270,bowl,Full Toss,14,30,1,12.9
+2639,bowl,Inswing,14,21,2,9.0
+2639,bowl,Slow Bouncer,14,20,0,8.6
+1612,bowl,Full Toss,14,24,2,10.3
+7270,bowl,Inswing,14,33,1,14.1
+6450,bowl,Flick,13,14,1,6.5
+38855,bowl,Seamed Out,13,17,0,7.8
+5939,bowl,Bouncer,13,17,1,7.8
+7920,bowl,Full Toss,13,21,1,9.7
+4816,bowl,Full Toss,13,23,0,10.6
+38855,bowl,Full Toss,13,18,0,8.3
+8746,bowl,Straight,12,37,1,18.5
+4837,bowl,Out Swing,12,12,2,6.0
+19312,bowl,Straight,12,21,0,10.5
+27964,bowl,Seamed Out,12,22,0,11.0
+3697,bowl,Seamed Out,12,13,1,6.5
+3697,bowl,Straight,12,32,1,16.0
+2687,bowl,Full Toss,12,34,0,17.0
+6523,bowl,Inswing,12,23,0,11.5
+1487,bowl,Inswing,12,26,0,13.0
+403,bowl,Inswing,11,20,0,10.9
+6256,bowl,Full Toss,11,18,1,9.8
+4837,bowl,Inswing,11,15,1,8.2
+7344,bowl,Bouncer,11,9,0,4.9
+7690,bowl,Arm ball,11,9,1,4.9
+27964,bowl,Full Toss,11,19,1,10.4
+6287,bowl,Out Swing,11,8,1,4.4
+3174,bowl,Bouncer,11,6,1,3.3
+4641,bowl,Full Toss,11,24,1,13.1
+1487,bowl,Straight,10,7,0,4.2
+19316,bowl,Arm ball,10,4,0,2.4
+4219,bowl,Full Toss,10,15,1,9.0
+1487,bowl,Full Toss,10,20,0,12.0
+7270,bowl,Bouncer,10,12,0,7.2
+19312,bowl,Full Toss,10,15,1,9.0
+8746,bowl,Bouncer,10,17,2,10.2
+4641,bowl,Out Swing,10,16,1,9.6
+4722,bowl,Full Toss,9,9,1,6.0
+7967,bowl,Full Toss,9,17,1,11.3
+2876,bowl,Full Toss,9,22,0,14.7
+32862,bowl,Arm ball,9,15,0,10.0
+479,bowl,Flipper,9,10,0,6.7
+19316,bowl,Googly,9,11,0,7.3
+4823,bowl,Arm ball,8,6,0,4.5
+6669,bowl,Slow Bouncer,8,14,1,10.5
+38855,bowl,Slow Bouncer,8,9,0,6.8
+2984,bowl,Arm ball,8,7,0,5.2
+2636,bowl,Full Toss,7,13,1,11.1
+6450,bowl,Arm ball,7,1,0,0.9
+403,bowl,Bouncer,7,7,1,6.0
+403,bowl,Off Cutter,7,15,0,12.9
+3276,bowl,Full Toss,7,3,2,2.6
+6161,bowl,Full Toss,7,11,0,9.4
+1107,bowl,Full Toss,6,17,0,17.0
+6512,bowl,Arm ball,6,10,0,10.0
+36982,bowl,Full Toss,6,8,0,8.0
+2984,bowl,Full Toss,6,5,0,5.0
+2984,bowl,Googly,6,6,0,6.0
+7325,bowl,Full Toss,6,14,0,14.0
+305,bowl,Full Toss,6,14,0,14.0
+4900,bowl,Full Toss,6,13,0,13.0
+7503,bowl,Slider,6,7,0,7.0
+1596,bowl,Arm ball,6,11,0,11.0
+2526,bowl,Full Toss,6,12,1,12.0
+27964,bowl,Straight,6,5,1,5.0
+2984,bowl,Quicker Ball,5,13,0,15.6
+7690,bowl,Leg Break,5,11,0,13.2
+2526,bowl,Carrom,5,9,0,10.8
+32862,bowl,Googly,5,6,0,7.2
+7094,bowl,Bouncer,5,5,1,6.0
+2490,bowl,Full Toss,5,10,0,12.0
+6450,bowl,Full Toss,5,6,2,7.2
+4101,bowl,Full Toss,5,8,0,9.6
+479,bowl,Full Toss,5,10,0,12.0
+32862,bowl,Full Toss,4,6,0,9.0
+2636,bowl,Top Spin,4,8,0,12.0
+838,bowl,Full Toss,4,6,0,9.0
+2687,bowl,Quicker Ball,4,7,0,10.5
+19316,bowl,Flick,4,8,0,12.0
+5837,bowl,Full Toss,4,12,0,18.0
+3644,bowl,Straight,4,3,0,4.5
+1107,bowl,Yorker,4,1,0,1.5
+3644,bowl,Full Toss,3,8,0,16.0
+2636,bowl,Yorker,3,1,0,2.0
+3644,bowl,Quicker Ball,3,5,0,10.0
+7690,bowl,Googly,3,4,0,8.0
+7503,bowl,Quicker Ball,3,4,0,8.0
+6512,bowl,Full Toss,3,3,0,6.0
+4658,bowl,Full Toss,3,7,0,14.0
+781,bowl,Straight,3,10,0,20.0
+4219,bowl,Carrom,3,7,0,14.0
+1596,bowl,Full Toss,2,2,0,6.0
+2417,bowl,Full Toss,2,5,0,15.0
+36982,bowl,Yorker,2,0,1,0.0
+1612,bowl,Yorker,2,0,0,0.0
+4722,bowl,Flipper,2,3,0,9.0
+4823,bowl,Full Toss,2,2,0,6.0
+4900,bowl,Flipper,2,2,0,6.0
+4900,bowl,Slider,2,5,0,15.0
+2526,bowl,Flipper,2,6,0,18.0
+7967,bowl,Yorker,1,1,0,6.0
+4219,bowl,Bouncer,1,4,0,24.0
+5837,bowl,Leg Break,1,0,1,0.0
+4101,bowl,Off Break,1,0,0,0.0
+479,bowl,Top Spin,1,2,0,12.0
+5979,bowl,Flipper,1,1,0,6.0
+4101,bowl,Straight,1,0,0,0.0
+7472,bowl,Full Toss,1,6,0,36.0
+2417,bowl,Flipper,1,1,0,6.0
+4722,bowl,Straight,1,1,0,6.0
+152,bowl,Straight,1,0,1,0.0
+4823,bowl,Yorker,1,0,0,0.0
+2526,bowl,Slider,1,1,0,6.0
+7690,bowl,Yorker,1,1,0,6.0
+1596,bowl,Carrom,1,1,0,6.0
+4900,bowl,Chinaman,1,4,0,24.0
+1596,bowl,Yorker,1,1,0,6.0
+305,bowl,Straight,1,0,0,0.0
+5979,bowl,Slider,1,1,0,6.0
+6161,bowl,Quicker Ball,1,0,0,0.0
+2687,bowl,Yorker,1,0,0,0.0
+6161,bowl,Yorker,1,1,0,6.0
+3276,bowl,Doosra,1,0,0,0.0
+2876,bowl,Yorker,1,4,0,24.0
+7967,bowl,Leg Break,1,1,0,6.0
+1107,bowl,Leg Break,1,4,0,24.0
+7325,bowl,Quicker Ball,1,0,0,0.0
+838,bowl,Carrom,1,0,1,0.0
+6512,bowl,Yorker,1,0,0,0.0

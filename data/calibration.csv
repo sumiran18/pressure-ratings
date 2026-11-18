@@ -1,0 +1,41 @@
+innings,surface,bin,predicted,actual,balls
+Batting first,Exact,1,5.6,14.8,3231
+Batting first,Exact,2,15.3,15.0,5298
+Batting first,Exact,3,25.3,24.2,6409
+Batting first,Exact,4,35.2,36.3,8126
+Batting first,Exact,5,45.3,42.2,11699
+Batting first,Exact,6,55.4,46.6,19092
+Batting first,Exact,7,64.8,58.6,18166
+Batting first,Exact,8,74.7,65.1,12755
+Batting first,Exact,9,84.7,71.4,8899
+Batting first,Exact,10,95.2,80.7,6174
+Batting first,Calibrated,1,7.0,10.9,1187
+Batting first,Calibrated,2,15.8,16.2,4007
+Batting first,Calibrated,3,25.3,18.7,7848
+Batting first,Calibrated,4,35.4,37.2,12906
+Batting first,Calibrated,5,45.5,45.4,22696
+Batting first,Calibrated,6,54.7,57.0,25504
+Batting first,Calibrated,7,64.5,66.1,13709
+Batting first,Calibrated,8,74.3,69.6,7088
+Batting first,Calibrated,9,84.6,79.9,3136
+Batting first,Calibrated,10,94.5,84.3,1768
+Chasing,Exact,1,2.4,7.0,29004
+Chasing,Exact,2,14.7,28.2,8211
+Chasing,Exact,3,25.0,37.1,6802
+Chasing,Exact,4,34.8,44.5,5921
+Chasing,Exact,5,44.9,57.4,5027
+Chasing,Exact,6,55.0,66.3,4646
+Chasing,Exact,7,65.1,73.5,4636
+Chasing,Exact,8,75.0,82.6,4765
+Chasing,Exact,9,85.1,87.5,5865
+Chasing,Exact,10,97.3,96.1,16810
+Chasing,Calibrated,1,2.5,3.5,20328
+Chasing,Calibrated,2,14.8,14.3,7016
+Chasing,Calibrated,3,25.0,25.0,6575
+Chasing,Calibrated,4,35.1,34.3,6604
+Chasing,Calibrated,5,45.0,40.4,7355
+Chasing,Calibrated,6,55.0,53.7,6693
+Chasing,Calibrated,7,65.0,66.4,6486
+Chasing,Calibrated,8,75.0,77.4,6632
+Chasing,Calibrated,9,85.2,87.1,7472
+Chasing,Calibrated,10,96.9,96.5,16526

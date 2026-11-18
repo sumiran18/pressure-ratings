@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>When One Ball Decides It</title>
+<meta name="description" content="The Clutch Index: who delivers on the balls that swing a T20 match. IPL and T20I, 2022 to 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@600;700&display=swap">
+<link rel="stylesheet" href="theme.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-in">
+    <p class="hero-tag">SupeRR Selector Season 2 · Round 1</p>
+    <h1 class="hero-title">When one ball <span>decides it</span></h1>
+    <p class="hero-sub">The Clutch Index rates every batter and bowler on the deliveries that swing a T20 match, using each ball of the IPL and T20 Internationals from 2022 to 2026.</p>
+    
+  </div>
+</header>
+<main class="shell">
+  <p class="status" id="site-msg">Loading the data…</p>
+  <div id="dash-root" hidden>
+<div class="ci-wrap">
+  <p class="ci-take" id="takeaway">Across <b data-draw="kpi" data-source="summary" data-field="matches_rated" data-row="0">—</b> IPL and T20I matches since 2022, <b data-draw="kpi" data-source="summary" data-field="top_bat" data-row="0">—</b> is the batter and <b data-draw="kpi" data-source="summary" data-field="top_bowl" data-row="0">—</b> the bowler who deliver most when a single ball can change the result.</p>
+
+  <div class="ci-tabs" id="tabs" role="tablist">
+    <button class="ci-tab" role="tab" data-tab="overview" aria-selected="true">Overview</button>
+    <button class="ci-tab" role="tab" data-tab="lab" aria-selected="false">Pressure Lab</button>
+    <button class="ci-tab" role="tab" data-tab="batters" aria-selected="false">Top 10 batters</button>
+    <button class="ci-tab" role="tab" data-tab="bowlers" aria-selected="false">Top 10 bowlers</button>
+    <button class="ci-tab" role="tab" data-tab="player" aria-selected="false">Player card</button>
+    <button class="ci-tab" role="tab" data-tab="model" aria-selected="false">Model &amp; robustness</button>
+  </div>
+
+  <section class="ci-page" id="overview">
+    <div id="landing"></div>
+    <div class="ci-kpis" id="coverage">
+      <div class="ci-card"><span class="ci-big" data-draw="kpi" data-source="summary" data-field="balls_rated" data-row="0">—</span><span class="ci-lab">balls rated for pressure</span></div>
+      <div class="ci-card"><span class="ci-big" data-draw="kpi" data-source="summary" data-field="matches_rated" data-row="0">—</span><span class="ci-lab">matches, IPL and T20I, 2022–26</span></div>
+      <div class="ci-card"><span class="ci-big" data-draw="kpi" data-source="summary" data-field="batters" data-row="0">—</span><span class="ci-lab">batters eligible for ranking</span></div>
+      <div class="ci-card"><span class="ci-big" data-draw="kpi" data-source="summary" data-field="bowlers" data-row="0">—</span><span class="ci-lab">bowlers eligible for ranking</span></div>
+    </div>
+
+    <div class="ci-block" id="what-pressure">
+      <h2 class="ci-h">Pressure is how much one ball can change who wins</h2>
+      <p class="ci-p">Every ball gets a Pressure Index from 0 to 100. It is the expected swing in win probability on that ball, compared with an average ball, with a small multiplier for knockouts and finals. It is known before the ball is bowled and never uses the result. Six definitions from the research were tested on this data; this one won.</p>
+    </div>
+
+    <div class="ci-block" id="tier-evidence">
+      <h3 class="ci-h3">Mistakes rise as pressure rises</h3>
+      <p class="ci-note">Each bar compares a pressure tier with ordinary balls in the same innings, phase and wickets-down group. 1.00 means no different. Run-outs, missed yorkers (full tosses from pace bowlers) and wides and no-balls are execution errors, so a rise is a sign that the situation is being felt.</p>
+      <div class="ci-chart ci-short" id="tier-chart" data-draw="tierchart" data-source="tiers" role="img" aria-label="Run-outs, full tosses, extras and wickets by pressure tier, relative to ordinary balls"></div>
+      <div class="ci-scroll"><table class="ci-table" id="tier-table" data-source="tiers" data-row-key="tier">
+        <thead><tr><th data-field="tier">Tier</th><th class="ci-n" data-field="balls">Balls</th><th class="ci-n" data-field="leverage">Leverage (average ball = 1)</th><th class="ci-n" data-field="runout">Run-outs</th><th class="ci-n" data-field="fulltoss">Full tosses</th><th class="ci-n" data-field="extra">Wides + no-balls</th><th class="ci-n" data-field="wkt">Wickets</th><th class="ci-n" data-field="dot">Dot balls</th><th class="ci-n" data-field="chase_pct">In a chase, %</th></tr></thead>
+        <tbody data-draw="tiertable"></tbody>
+      </table></div>
+    </div>
+
+    <div class="ci-block" id="where-pressure">
+      <h3 class="ci-h3">Where pressure sits in an innings</h3>
+      <p class="ci-note">Average Pressure Index for each over and number of wickets down. Darker means more pressure. Most of it is in the chase, and it peaks in the last overs with wickets in hand on both sides of the contest.</p>
+      <div class="ci-chart" id="heat-chart" data-draw="heat" data-source="heat" role="img" aria-label="Average Pressure Index by over and wickets down, batting first and chasing"></div>
+    </div>
+
+    <div class="ci-block" id="top-moments">
+      <h3 class="ci-h3">The balls it ranks highest</h3>
+      <p class="ci-note">The single highest-pressure ball in each of the 15 most pressured matches. The index found these from the numbers alone.</p>
+      <div class="ci-scroll"><table class="ci-table" id="moments-table" data-source="moments" data-row-key="n">
+        <thead><tr><th class="ci-n" data-field="n">#</th><th data-field="match_date">Date</th><th data-field="fixture">Batting v bowling</th><th data-field="comp_name">Competition</th><th data-field="ob">Over</th><th data-field="situation">Situation</th><th data-field="striker_name">Batter</th><th data-field="bowler_name">Bowler</th><th data-field="outcome">What happened</th><th class="ci-n" data-field="wp_cal">Win chance before, %</th></tr></thead>
+        <tbody data-draw="moments"></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <section class="ci-page" id="lab" hidden>
+    <div class="ci-block" id="match-replay">
+      <h2 class="ci-h">Replay a match</h2>
+      <p class="ci-p">Pick a match to see the win probability move ball by ball, with the pressure on every ball underneath. Point at the chart to read any ball.</p>
+      <div class="ci-row"><select class="dash-select" id="match-select" data-draw="matchsel" data-source="match_balls" aria-label="Match"></select></div>
+      <div class="ci-chart ci-tall" id="worm-chart" data-draw="worm" data-source="match_balls" role="img" aria-label="Win probability of the side batting first, ball by ball, with the Pressure Index of each ball below"></div>
+      <p class="ci-note">Top: win chance of the side that batted first, on the calibrated surface. Bottom: Pressure Index of each ball; darker is higher. The dashed vertical line is the change of innings.</p>
+    </div>
+    <div class="ci-block" id="definitions">
+      <h3 class="ci-h3">Six definitions of pressure, tested</h3>
+      <p class="ci-note">Each definition's top 10% of balls. "Tight finishes" scores how well it ranks the last three overs of chases that went to the final over (0.5 is chance, 1.0 is perfect). The three error columns are relative to ordinary balls. "Dead chases" is where it ranks chases with under a 3% chance; lower is right, because a lost cause is not pressure.</p>
+      <div class="ci-scroll"><table class="ci-table" id="definitions-table" data-source="definitions" data-row-key="definition">
+        <thead><tr><th data-field="definition">Definition</th><th class="ci-n" data-field="tight_finishes">Tight finishes</th><th class="ci-n" data-field="runouts">Run-outs</th><th class="ci-n" data-field="extras">Wides + no-balls</th><th class="ci-n" data-field="fulltosses">Full tosses</th><th class="ci-n" data-field="dead_chase_pct">Dead chases, percentile</th></tr></thead>
+        <tbody data-draw="defs"></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <section class="ci-page" id="batters" hidden>
+    <div class="ci-block" id="bat-ranking">
+      <h2 class="ci-h">Top 10 batters under pressure</h2>
+      <p class="ci-p">The Clutch Index is 70% the player's estimated runs above an average batter per 100 balls at high pressure, and 30% the wins they added on pressure balls. An average batter means one facing the same bowler, at the same ground, in the same situation.</p>
+      <div class="ci-row"><label class="ci-lab" for="bat-variant">Rank by</label>
+        <select class="dash-select ci-variant" id="bat-variant" data-role="bat" aria-label="Ranking setting for batters">
+          <option value="rank">Final score</option><option value="r_ipl">IPL matches only</option><option value="r_t20i">T20Is only</option><option value="r_plan">Earlier 50/25/25 plan</option><option value="r_nostakes">No knockout multiplier</option><option value="r_innings">Pressure ranked inside each innings</option><option value="r_cutoff">Hard cut-off at PI 70</option><option value="r_equal">All seasons weighted equally</option><option value="r_2022">Without 2022</option><option value="r_2023">Without 2023</option><option value="r_2024">Without 2024</option><option value="r_2025">Without 2025</option><option value="r_2026">Without 2026</option>
+        </select>
+        <button class="ci-btn ci-more" data-role="bat" aria-pressed="false">Show 25 rows</button></div>
+      <div class="ci-scroll"><table class="ci-table ci-final" id="bat-table" data-source="batters" data-row-key="player_id">
+        <thead><tr><th class="ci-n" data-draw="rankhead" data-role="bat"></th><th class="ci-n ci-finalcol" data-field="rank">Final rank</th><th data-field="name">Batter</th><th data-field="teams">Teams since 2025</th><th class="ci-n" data-field="p_balls">Pressure balls</th><th class="ci-n" data-field="p_sr">Strike rate</th><th class="ci-n" data-field="p_xsr">Expected</th><th class="ci-n" data-field="est100">Runs above average per 100</th><th class="ci-n" data-field="wins">Wins added</th><th class="ci-n" data-field="clutch">Clutch Index</th><th class="ci-n" data-field="top10_pct">Chance of top 10, %</th><th class="ci-n" data-field="holds">Top 10 in re-rankings</th></tr></thead>
+        <tbody data-draw="ranktable" data-role="bat"></tbody>
+      </table></div>
+      <p class="ci-note">Pressure balls are those at Pressure Index 70 or above. Strike rate and expected strike rate are on those balls. "Chance of top 10" comes from 1,000 draws of the player model. The last column counts how often the player stays in the top 10 when the ranking is redone 12 other ways; choose one above to see it. The other columns always show the player's full record.</p>
+    </div>
+    <div class="ci-two">
+      <div class="ci-block" id="bat-range"><h3 class="ci-h3">How sure is each rank?</h3><p class="ci-note">Dot: final rank. Line: the range the rank falls in 90% of the time. The dashed line is the top-10 cut.</p><div class="ci-chart ci-tall" data-draw="rangechart" data-role="bat" data-source="batters" role="img" aria-label="Rank and 90% rank range for the top 15 batters"></div></div>
+      <div class="ci-block" id="bat-lift"><h3 class="ci-h3">Do they rise above their own level?</h3><p class="ci-note">Dot: runs above average per 100 balls under pressure minus the same in calmer balls. Line: the range within two standard errors. A line that crosses zero means the data cannot tell.</p><div class="ci-chart ci-tall" data-draw="liftchart" data-role="bat" data-source="batters" role="img" aria-label="Raw lift with its range for the top 15 batters"></div></div>
+    </div>
+    <div class="ci-block" id="bat-scatter"><h3 class="ci-h3">Strike rate under pressure against what an average batter would do</h3><p class="ci-note">Every eligible batter. Above the diagonal is better than expected. The top 10 are highlighted; point at any dot for the name.</p><div class="ci-chart ci-tall" data-draw="scatter" data-role="bat" data-source="batters" role="img" aria-label="Actual against expected strike rate under pressure for all eligible batters"></div></div>
+  </section>
+
+  <section class="ci-page" id="bowlers" hidden>
+    <div class="ci-block" id="bowl-ranking">
+      <h2 class="ci-h">Top 10 bowlers under pressure</h2>
+      <p class="ci-p">The same score for bowlers: 70% estimated runs saved above an average bowler per 100 balls at high pressure, wickets included at their value in runs, and 30% the wins they added on pressure balls.</p>
+      <div class="ci-row"><label class="ci-lab" for="bowl-variant">Rank by</label>
+        <select class="dash-select ci-variant" id="bowl-variant" data-role="bowl" aria-label="Ranking setting for bowlers">
+          <option value="rank">Final score</option><option value="r_ipl">IPL matches only</option><option value="r_t20i">T20Is only</option><option value="r_plan">Earlier 50/25/25 plan</option><option value="r_nostakes">No knockout multiplier</option><option value="r_innings">Pressure ranked inside each innings</option><option value="r_cutoff">Hard cut-off at PI 70</option><option value="r_equal">All seasons weighted equally</option><option value="r_2022">Without 2022</option><option value="r_2023">Without 2023</option><option value="r_2024">Without 2024</option><option value="r_2025">Without 2025</option><option value="r_2026">Without 2026</option>
+        </select>
+        <button class="ci-btn ci-more" data-role="bowl" aria-pressed="false">Show 25 rows</button></div>
+      <div class="ci-scroll"><table class="ci-table ci-final" id="bowl-table" data-source="bowlers" data-row-key="player_id">
+        <thead><tr><th class="ci-n" data-draw="rankhead" data-role="bowl"></th><th class="ci-n ci-finalcol" data-field="rank">Final rank</th><th data-field="name">Bowler</th><th data-field="teams">Teams since 2025</th><th class="ci-n" data-field="p_balls">Pressure balls</th><th class="ci-n" data-field="p_econ">Economy</th><th class="ci-n" data-field="p_xecon">Expected</th><th class="ci-n" data-field="p_wkts">Wickets</th><th class="ci-n" data-field="p_xwkts">Expected</th><th class="ci-n" data-field="est100">Runs saved above average per 100</th><th class="ci-n" data-field="wins">Wins added</th><th class="ci-n" data-field="clutch">Clutch Index</th><th class="ci-n" data-field="top10_pct">Chance of top 10, %</th><th class="ci-n" data-field="holds">Top 10 in re-rankings</th></tr></thead>
+        <tbody data-draw="ranktable" data-role="bowl"></tbody>
+      </table></div>
+      <p class="ci-note">Economy, wickets and their expected values are on balls at Pressure Index 70 or above. Players with no IPL record, such as Pakistan's bowlers, are ranked on their T20Is; "IPL matches only" above shows the list without them. The other columns always show the player's full record.</p>
+    </div>
+    <div class="ci-two">
+      <div class="ci-block" id="bowl-range"><h3 class="ci-h3">How sure is each rank?</h3><p class="ci-note">Dot: final rank. Line: the range the rank falls in 90% of the time. The dashed line is the top-10 cut.</p><div class="ci-chart ci-tall" data-draw="rangechart" data-role="bowl" data-source="bowlers" role="img" aria-label="Rank and 90% rank range for the top 15 bowlers"></div></div>
+      <div class="ci-block" id="bowl-lift"><h3 class="ci-h3">Do they rise above their own level?</h3><p class="ci-note">Dot: runs saved above average per 100 balls under pressure minus the same in calmer balls. Line: the range within two standard errors. A line that crosses zero means the data cannot tell.</p><div class="ci-chart ci-tall" data-draw="liftchart" data-role="bowl" data-source="bowlers" role="img" aria-label="Raw lift with its range for the top 15 bowlers"></div></div>
+    </div>
+    <div class="ci-block" id="bowl-scatter"><h3 class="ci-h3">Economy under pressure against what an average bowler would concede</h3><p class="ci-note">Every eligible bowler. Below the diagonal is better than expected. The top 10 are highlighted; point at any dot for the name.</p><div class="ci-chart ci-tall" data-draw="scatter" data-role="bowl" data-source="bowlers" role="img" aria-label="Actual against expected economy under pressure for all eligible bowlers"></div></div>
+  </section>
+
+  <section class="ci-page" id="player" hidden>
+    <div class="ci-block" id="player-pick">
+      <h2 class="ci-h">Player card</h2>
+      <div class="ci-row">
+        <select class="dash-select" id="role-select" aria-label="Batters or bowlers"><option value="bat">Batters</option><option value="bowl">Bowlers</option></select>
+        <select class="dash-select" id="player-select" data-draw="playersel" data-slot="a" aria-label="Player"></select>
+        <span class="ci-lab">compared with</span>
+        <select class="dash-select" id="compare-select" data-draw="playersel" data-slot="b" aria-label="Player to compare with"></select>
+      </div>
+    </div>
+    <div class="ci-block" id="scout-note">
+      <h3 class="ci-h3">Scouting note</h3>
+      <p class="ci-quote" data-draw="note" data-source="notes" data-field="note">—</p>
+      <p class="ci-note">Written by a language model from this player's numbers only, and checked by a script against the tables before it was published. Notes exist for the two top 10s; other players show a dash. The language model had no part in the ranking.</p>
+    </div>
+    <div class="ci-block" id="card-bat">
+      <h3 class="ci-h3">Key numbers</h3>
+      <div class="ci-scroll"><table class="ci-table" id="card-bat-table">
+        <thead><tr><th>Batter</th><th class="ci-n" data-draw="pcv" data-role="bat" data-f="name" data-slot="a">—</th><th class="ci-n" data-draw="pcv" data-role="bat" data-f="name" data-slot="b">—</th></tr></thead>
+        <tbody>
+          <tr><td>Final rank</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="rank" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="rank" data-slot="b">—</td></tr>
+          <tr><td>Clutch Index</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="clutch" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="clutch" data-slot="b">—</td></tr>
+          <tr><td>Chance of top 10, %</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="top10_pct" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="top10_pct" data-slot="b">—</td></tr>
+          <tr><td>Rank range, low end</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="rank_lo" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="rank_lo" data-slot="b">—</td></tr>
+          <tr><td>Rank range, high end</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="rank_hi" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="rank_hi" data-slot="b">—</td></tr>
+          <tr><td>Top 10 in re-rankings</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="holds" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="holds" data-slot="b">—</td></tr>
+          <tr><td>Pressure balls faced</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_balls" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_balls" data-slot="b">—</td></tr>
+          <tr><td>Strike rate under pressure</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_sr" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_sr" data-slot="b">—</td></tr>
+          <tr><td>Expected strike rate on those balls</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_xsr" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_xsr" data-slot="b">—</td></tr>
+          <tr><td>Strike rate in calmer balls</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="calm_sr" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="calm_sr" data-slot="b">—</td></tr>
+          <tr><td>Dismissals under pressure</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_outs" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_outs" data-slot="b">—</td></tr>
+          <tr><td>Expected dismissals</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_xouts" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_xouts" data-slot="b">—</td></tr>
+          <tr><td>Boundary balls under pressure, %</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_bdry_pct" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="p_bdry_pct" data-slot="b">—</td></tr>
+          <tr><td>Runs above average per 100 balls at high pressure</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="est100" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="est100" data-slot="b">—</td></tr>
+          <tr><td>Wins added under pressure</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="wins" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="wins" data-slot="b">—</td></tr>
+          <tr><td>Lift: pressure minus calm, runs per 100</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="raw_lift" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="raw_lift" data-slot="b">—</td></tr>
+          <tr><td>Lift range, low end</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="lift_lo" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="lift_lo" data-slot="b">—</td></tr>
+          <tr><td>Lift range, high end</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="lift_hi" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="lift_hi" data-slot="b">—</td></tr>
+          <tr><td>Pressure matches with a positive contribution, %</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="pos_share_pct" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bat" data-f="pos_share_pct" data-slot="b">—</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div class="ci-block" id="card-bowl" hidden>
+      <h3 class="ci-h3">Key numbers</h3>
+      <div class="ci-scroll"><table class="ci-table" id="card-bowl-table">
+        <thead><tr><th>Bowler</th><th class="ci-n" data-draw="pcv" data-role="bowl" data-f="name" data-slot="a">—</th><th class="ci-n" data-draw="pcv" data-role="bowl" data-f="name" data-slot="b">—</th></tr></thead>
+        <tbody>
+          <tr><td>Final rank</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="rank" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="rank" data-slot="b">—</td></tr>
+          <tr><td>Clutch Index</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="clutch" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="clutch" data-slot="b">—</td></tr>
+          <tr><td>Chance of top 10, %</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="top10_pct" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="top10_pct" data-slot="b">—</td></tr>
+          <tr><td>Rank range, low end</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="rank_lo" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="rank_lo" data-slot="b">—</td></tr>
+          <tr><td>Rank range, high end</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="rank_hi" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="rank_hi" data-slot="b">—</td></tr>
+          <tr><td>Top 10 in re-rankings</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="holds" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="holds" data-slot="b">—</td></tr>
+          <tr><td>Pressure balls bowled</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_balls" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_balls" data-slot="b">—</td></tr>
+          <tr><td>Economy under pressure</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_econ" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_econ" data-slot="b">—</td></tr>
+          <tr><td>Expected economy on those balls</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_xecon" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_xecon" data-slot="b">—</td></tr>
+          <tr><td>Economy in calmer balls</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="calm_econ" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="calm_econ" data-slot="b">—</td></tr>
+          <tr><td>Wickets under pressure</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_wkts" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_wkts" data-slot="b">—</td></tr>
+          <tr><td>Expected wickets</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_xwkts" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_xwkts" data-slot="b">—</td></tr>
+          <tr><td>Wides and no-balls per 100 pressure balls</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_extras" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="p_extras" data-slot="b">—</td></tr>
+          <tr><td>Runs saved above average per 100 balls at high pressure</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="est100" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="est100" data-slot="b">—</td></tr>
+          <tr><td>Wins added under pressure</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="wins" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="wins" data-slot="b">—</td></tr>
+          <tr><td>Lift: pressure minus calm, runs per 100</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="raw_lift" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="raw_lift" data-slot="b">—</td></tr>
+          <tr><td>Lift range, low end</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="lift_lo" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="lift_lo" data-slot="b">—</td></tr>
+          <tr><td>Lift range, high end</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="lift_hi" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="lift_hi" data-slot="b">—</td></tr>
+          <tr><td>Pressure matches with a positive contribution, %</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="pos_share_pct" data-slot="a">—</td><td class="ci-n" data-draw="pcv" data-role="bowl" data-f="pos_share_pct" data-slot="b">—</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+    <div class="ci-block" id="card-splits">
+      <h3 class="ci-h3">Where the pressure record comes from</h3>
+      <p class="ci-note">The first player's record split four ways, against what an average player would do on the same balls. Tiers cover all balls; the other three panels cover pressure balls only. For batters the figure is strike rate, for bowlers economy.</p>
+      <div class="ci-legend"><span><i class="ci-sw" data-sw="0"></i>Actual</span><span><i class="ci-sw" data-sw="m"></i>Expected for an average player</span></div>
+      <div class="ci-chart" data-draw="splits" data-source="splits" role="img" aria-label="Actual against expected rate by pressure tier, phase, matchup and competition for the selected player"></div>
+    </div>
+    <div class="ci-block" id="card-strip">
+      <h3 class="ci-h3">Match by match</h3>
+      <p class="ci-note">One bar for each match in which the first player faced or bowled pressure balls, oldest first. Up is runs above average on those balls, weighted by pressure; down is below average. Point at a bar for the match.</p>
+      <div class="ci-chart" data-draw="strip" data-source="player_matches" role="img" aria-label="Pressure contribution in each match for the selected player"></div>
+    </div>
+    <div class="ci-block" id="card-moments">
+      <h3 class="ci-h3">Their biggest pressure balls</h3>
+      <p class="ci-note">The five balls at Pressure Index 90 or above on which the first player added the most win probability.</p>
+      <div class="ci-scroll"><table class="ci-table" id="player-moments-table">
+        <thead><tr><th>Date</th><th>Batting v bowling</th><th>Over</th><th>Situation</th><th>Against</th><th>What happened</th><th class="ci-n">Win chance added, points</th></tr></thead>
+        <tbody data-draw="pmoments" data-source="player_moments"></tbody>
+      </table></div>
+    </div>
+    <div class="ci-block" id="card-styles">
+      <h3 class="ci-h3">How they play it</h3>
+      <p class="ci-note">For a batter, the six strokes played most under pressure with the strike rate on each. For a bowler, the six delivery types bowled most with the economy on each.</p>
+      <div class="ci-scroll"><table class="ci-table" id="styles-table">
+        <thead><tr><th>Stroke or delivery</th><th class="ci-n">Balls</th><th class="ci-n">Runs</th><th class="ci-n">Wickets</th><th class="ci-n">Strike rate or economy</th></tr></thead>
+        <tbody data-draw="styles" data-source="styles"></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <section class="ci-page" id="model" hidden>
+    <div class="ci-block" id="lift-finding">
+      <h2 class="ci-h">Rising under pressure is not a trait this data can measure</h2>
+      <p class="ci-p">Rate every player on a random half of the matches and again on the other half. Their lift, pressure level minus usual level, agrees at <b data-draw="kpi" data-source="summary" data-field="lift_bat" data-row="0">—</b> for batters and <b data-draw="kpi" data-source="summary" data-field="lift_bowl" data-row="0">—</b> for bowlers, where 1 would be perfect agreement and 0 none. Baseball research has found the same for fifty years. So the ranking does not reward lift separately. It ranks who is best when the pressure is on, and shows every player's lift with its range.</p>
+      <div class="ci-two">
+        <div class="ci-block"><h3 class="ci-h3">Could this data have found lift at all?</h3><p class="ci-note">A known lift was added to every player and the half-against-half test repeated. The first column is the true spread of lift between players, in runs per 100 balls.</p>
+          <div class="ci-scroll"><table class="ci-table" id="lift-test-table" data-source="lift_test" data-row-key="injected"><thead><tr><th data-field="injected">Spread injected</th><th class="ci-n" data-field="batters">Batters</th><th class="ci-n" data-field="bowlers">Bowlers</th></tr></thead><tbody data-draw="lifttest"></tbody></table></div>
+          <p class="ci-note">A true spread of 24 runs per 100 balls would show clearly. The real data looks like no lift at all. Spreads below about 16 are too small for this data to tell apart from none, so smaller differences may exist but cannot be pinned on an individual.</p></div>
+        <div class="ci-block"><h3 class="ci-h3">What predicts pressure performance in unseen matches</h3><p class="ci-note">Each rating was built on half the matches and compared with what players actually did under pressure in the other half. Higher is better. This is how the 70/30 weights were chosen.</p>
+          <div class="ci-scroll"><table class="ci-table" id="validity-table" data-source="validity" data-row-key="rating"><thead><tr><th data-field="rating">Rating</th><th class="ci-n" data-field="batters">Batters</th><th class="ci-n" data-field="bowlers">Bowlers</th></tr></thead><tbody data-draw="validity"></tbody></table></div></div>
+      </div>
+    </div>
+    <div class="ci-block" id="calibration">
+      <h3 class="ci-h3">Win probabilities that hold up</h3>
+      <p class="ci-note">Balls from matches the engine had not seen, grouped by predicted win chance for the batting side. On the diagonal, a predicted 30% wins 30% of the time. The exact method is too sure of itself; the calibrated surface is what the Pressure Index uses.</p>
+      <div class="ci-legend"><span><i class="ci-sw" data-sw="0"></i>Calibrated</span><span><i class="ci-sw" data-sw="1"></i>Exact</span></div>
+      <div class="ci-chart" data-draw="calib" data-source="calibration" role="img" aria-label="Predicted against actual win rate for the exact and calibrated surfaces, batting first and chasing"></div>
+    </div>
+    <div class="ci-two">
+      <div class="ci-block" id="ball-models"><h3 class="ci-h3">The ball model</h3><p class="ci-note">Log-loss on matches each model had never seen; lower is better. The transformer alone lost narrowly to gradient boosting. An equal blend of the two beat both and sets the average-player baseline.</p>
+        <div class="ci-scroll"><table class="ci-table" id="models-table" data-source="ball_models" data-row-key="model"><thead><tr><th data-field="model">Model</th><th class="ci-n" data-field="unseen_matches">Unseen matches</th><th class="ci-n" data-field="season_2026">Held-out 2026 season</th></tr></thead><tbody data-draw="models"></tbody></table></div></div>
+      <div class="ci-block" id="reranks"><h3 class="ci-h3">Twelve re-rankings</h3><p class="ci-note">How many of the final top 10 stay in the top 10 when one setting is changed, and how closely the whole order agrees (1 is identical).</p>
+        <div class="ci-scroll"><table class="ci-table" id="reranks-table" data-source="reranks" data-row-key="setting"><thead><tr><th data-field="setting">Setting changed</th><th class="ci-n" data-field="batters_shared">Batters kept</th><th class="ci-n" data-field="bowlers_shared">Bowlers kept</th><th class="ci-n" data-field="batters_agreement">Batters, order agreement</th><th class="ci-n" data-field="bowlers_agreement">Bowlers, order agreement</th></tr></thead><tbody data-draw="reranks"></tbody></table></div></div>
+    </div>
+    <div class="ci-block" id="limits">
+      <h3 class="ci-h3">Where it is less certain</h3>
+      <ul class="ci-list">
+        <li>The rankings say who is best when the pressure is on. They do not say who rises above their own level, so the lists favour players who are simply very good.</li>
+        <li>Only the first few places in each list are secure. The rank ranges on the two ranking pages show how close the rest are.</li>
+        <li>Pressure defined this way sits mostly in chases. Batting first in a final at 30 for 3 moves the result less per ball, so it ranks high, not extreme.</li>
+        <li>There is no fielding data, so bowlers carry their fielders' catches and drops.</li>
+        <li>Players with no IPL record are judged on T20Is alone, against different opposition. The "IPL matches only" setting shows the lists without them.</li>
+        <li>Matches cut short by rain are left out, because the data does not say when the target changed.</li>
+      </ul>
+    </div>
+    <details class="ci-block" id="sources">
+      <summary class="ci-h3">Papers and references behind the method</summary>
+      <ol class="ci-src">
+        <li>Mishra, D. (2026). The Calibration–Leverage Tradeoff in Exactly Solvable Win-Probability Models. <a href="https://arxiv.org/abs/2608.14696">arXiv:2608.14696</a>. Exact win probability for T20 chases, why it is over-confident, and the two-surface remedy.</li>
+        <li>Tango, T. (2006). Crucial Situations. The Hardball Times. The leverage index.</li>
+        <li>Bhattacharjee, D. &amp; Lemmer, H. H. (2016). Quantifying the pressure on the teams batting or bowling in the second innings of limited overs cricket matches. The published pressure index tested here as "squeeze".</li>
+        <li>Bandyopadhyay, Bhattacharjee et al. (2025). Higher order Markov models and Pressure Index in Twenty20 run chases. <a href="https://arxiv.org/abs/2505.01849">arXiv:2505.01849</a>.</li>
+        <li>ESPNcricinfo. Explainer: how Smart Stats works. <a href="https://www.espn.in/cricket/story/_/id/26312449">Article</a>.</li>
+        <li>Rafique, H. (2022). cricWAR. <a href="https://www.stat.cmu.edu/cmsac/conference/2022/assets/pdf/HassanRafique.pdf">PDF</a>. Leverage and runs above average in cricket.</li>
+        <li>Misra, V. &amp; Rajaraman, A. (2026). Delta: a leverage-weighted measure of player contributions in T20. <a href="https://www.cs.columbia.edu/~misra/delta-2026.pdf">PDF</a>.</li>
+        <li>Birnbaum, P. (2008). Clutch Hitting and the Cramer Test. <a href="https://sabr.org/journal/article/clutch-hitting-and-the-cramer-test/">SABR</a>. The test of whether clutch repeats, and how large an effect it can detect.</li>
+        <li>Brooks, H. (1989). The Statistical Mirage of Clutch Hitting. <a href="https://sabr.org/journal/article/the-statistical-mirage-of-clutch-hitting/">SABR</a>.</li>
+        <li>Efron, B. &amp; Morris, C. (1977). Stein's Paradox in Statistics. Scientific American. Why small samples are pulled toward the group.</li>
+      </ol>
+    </details>
+  </section>
+</div>
+  </div>
+  <p class="foot">Source: the Season 2 Data Pack, IPL and T20I ball by ball, 22 Jan 2022 to 1 Nov 2026. Numbers last run on 18 Nov 2026. Hover or tap a chart for its figures.</p>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="site.js"></script>
+</body>
+</html>

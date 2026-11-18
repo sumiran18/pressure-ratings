@@ -1,0 +1,6 @@
+n,ob,match_date,comp_name,fixture,striker_name,bowler_name,need,balls_left,wp_before,pi,leverage,runs,x_runs,rae,wpaa
+1,20.2,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,Rinku Singh,Yash Dayal,28,5,0.1,5.4,0.03,6,1.73,4.30,0.1
+2,20.3,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,Rinku Singh,Yash Dayal,22,4,0.5,14.2,0.43,6,1.89,4.07,0.7
+3,20.4,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,Rinku Singh,Yash Dayal,16,3,2.4,95.6,2.20,6,1.92,3.98,3.8
+4,20.5,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,Rinku Singh,Yash Dayal,10,2,11.1,99.9,10.17,6,1.95,3.96,19.3
+5,20.6,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,Rinku Singh,Yash Dayal,4,1,42.3,100.0,32.89,6,2.02,3.91,68.5

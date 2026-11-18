@@ -1,0 +1,9 @@
+rating,batters,bowlers,order
+70% pressure estimate + 30% wins (final),0.26,0.16,1
+Overall skill only,0.26,0.18,2
+Pressure estimate alone,0.24,0.17,3
+Earlier 50/25/25 plan,0.23,0.14,4
+Wins under pressure only,0.23,0.10,5
+"Raw pressure average, no model",0.19,0.12,6
+Consistency only,0.17,0.13,7
+Lift only,0.14,0.08,8

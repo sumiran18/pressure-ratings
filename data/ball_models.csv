@@ -1,0 +1,5 @@
+model,unseen_matches,season_2026,order
+Lookup table,1.6821,1.7126,1
+Gradient boosting,1.6552,1.6874,2
+Transformer,1.6580,1.6901,3
+Blend of the two (used),1.6491,,4
