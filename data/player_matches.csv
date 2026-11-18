@@ -2013,93 +2013,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 2463,bat,51385,2026-07-19,Bangladesh,Bangladesh in Zimbabwe T20I Series 2026,4,-2.97,-0.04,7 off 7
 2463,bat,50509,2026-07-26,India,India in Zimbabwe T20I Series 2026,13,-2.28,-0.04,54 off 43
 2463,bat,55559,2026-10-27,Afghanistan,Afghanistan v Zimbabwe T20I Series 2026,15,4.84,-0.01,32 off 24
-2485,bat,16654,2022-08-28,India,Mens Twenty20 Asia Cup 2022,0,-5.64,-0.05,10 off 9
-2485,bat,16658,2022-09-02,Hong Kong,Mens Twenty20 Asia Cup 2022,3,-5.01,-0.06,9 off 8
-2485,bat,16660,2022-09-04,India,Mens Twenty20 Asia Cup 2022,10,-2.89,-0.04,14 off 10
-2485,bat,16664,2022-09-09,Sri Lanka,Mens Twenty20 Asia Cup 2022,3,1.55,0.02,30 off 29
-2485,bat,16665,2022-09-11,Sri Lanka,Mens Twenty20 Asia Cup 2022,6,-10.57,-0.14,5 off 6
-2485,bat,17553,2022-09-20,England,England in Pakistan T20I Series 2022,0,1.55,0.02,31 off 24
-2485,bat,17554,2022-09-22,England,England in Pakistan T20I Series 2022,61,-1.59,0.32,110 off 66
-2485,bat,17556,2022-09-25,England,England in Pakistan T20I Series 2022,5,0.75,0.01,36 off 28
-2485,bat,17557,2022-09-28,England,England in Pakistan T20I Series 2022,1,-6.59,-0.06,9 off 12
-2485,bat,17558,2022-09-30,England,England in Pakistan T20I Series 2022,0,3.53,0.05,87 off 59
-2485,bat,17559,2022-10-02,England,England in Pakistan T20I Series 2022,4,-8.84,-0.02,4 off 4
-2485,bat,17737,2022-10-07,Bangladesh,New Zealand T20I Tri Series 2022/23,3,0.31,0.01,22 off 25
-2485,bat,17738,2022-10-08,New Zealand,New Zealand T20I Tri Series 2022/23,22,16.04,0.23,79 off 53
-2485,bat,17740,2022-10-11,New Zealand,New Zealand T20I Tri Series 2022/23,11,3.99,0.04,21 off 23
-2485,bat,17742,2022-10-13,Bangladesh,New Zealand T20I Tri Series 2022/23,40,10.62,0.11,55 off 39
-2485,bat,17743,2022-10-14,New Zealand,New Zealand T20I Tri Series 2022/23,14,-4.93,-0.08,15 off 14
-2485,bat,21403,2023-04-14,New Zealand,New Zealand in Pakistan T20I Series 2023,5,-7.08,-0.07,9 off 7
-2485,bat,21404,2023-04-15,New Zealand,New Zealand in Pakistan T20I Series 2023,2,7.44,0.07,101 off 58
-2485,bat,21405,2023-04-17,New Zealand,New Zealand in Pakistan T20I Series 2023,6,-11.45,-0.13,1 off 6
-2485,bat,21407,2023-04-24,New Zealand,New Zealand in Pakistan T20I Series 2023,8,-0.77,0.0,19 off 18
-2485,bat,28963,2024-01-12,New Zealand,Pakistan in New Zealand T20I series 2024,14,1.28,-0.03,57 off 35
-2485,bat,28964,2024-01-14,New Zealand,Pakistan in New Zealand T20I series 2024,29,1.76,-0.06,66 off 43
-2485,bat,28966,2024-01-19,New Zealand,Pakistan in New Zealand T20I series 2024,6,7.65,0.07,19 off 11
-2485,bat,28967,2024-01-21,New Zealand,Pakistan in New Zealand T20I series 2024,4,-4.04,-0.03,13 off 24
-2485,bat,31709,2024-04-21,New Zealand,New Zealand in Pakistan T20I Series 2024,3,2.64,0.03,37 off 29
-2485,bat,31710,2024-04-25,New Zealand,New Zealand in Pakistan T20I Series 2024,4,-8.0,-0.07,5 off 4
-2485,bat,31711,2024-04-27,New Zealand,New Zealand in Pakistan T20I Series 2024,7,9.01,0.09,69 off 43
-2485,bat,32290,2024-05-10,Ireland,Pakistan in Ireland T20I series 2024,12,0.74,0.0,57 off 43
-2485,bat,32292,2024-05-14,Ireland,Pakistan in Ireland T20I series 2024,26,15.46,0.22,75 off 42
-2485,bat,32611,2024-05-25,England,Pakistan in England T20I Series 2024,15,-2.54,-0.09,32 off 26
-2485,bat,32613,2024-05-30,England,Pakistan in England T20I Series 2024,7,4.04,0.04,36 off 22
-2485,bat,37356,2024-11-18,Australia,Pakistan in Australia T20I Series 2024,5,6.06,0.06,41 off 28
-2485,bat,38795,2024-12-10,South Africa,Pakistan in South Africa T20I Series 2024,4,-10.24,-0.1,0 off 4
-2485,bat,38796,2024-12-13,South Africa,Pakistan in South Africa T20I Series 2024,1,2.31,0.02,31 off 20
-2485,bat,46742,2025-11-01,South Africa,South Africa in Pakistan T20I Series 2025,29,8.84,0.09,68 off 47
-2485,bat,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,3,-11.41,-0.13,0 off 3
-2485,bat,47979,2025-11-23,Zimbabwe,Pakistan T20I Tri-Series 2025,9,6.4,0.06,74 off 52
-2490,bowl,16654,2022-08-28,India,Mens Twenty20 Asia Cup 2022,22,6.29,-0.12,3/33 in 3.4
-2490,bat,16660,2022-09-04,India,Mens Twenty20 Asia Cup 2022,20,14.18,0.23,42 off 20
-2490,bowl,16660,2022-09-04,India,Mens Twenty20 Asia Cup 2022,0,-0.13,-0.0,1/25 in 4.0
-2490,bat,16662,2022-09-07,Afghanistan,Mens Twenty20 Asia Cup 2022,5,-3.04,-0.09,4 off 5
-2490,bowl,16662,2022-09-07,Afghanistan,Mens Twenty20 Asia Cup 2022,0,0.45,0.01,1/23 in 4.0
-2490,bowl,16664,2022-09-09,Sri Lanka,Mens Twenty20 Asia Cup 2022,0,-1.47,-0.02,0/21 in 4.0
-2490,bat,16665,2022-09-11,Sri Lanka,Mens Twenty20 Asia Cup 2022,9,-6.72,-0.08,6 off 9
-2490,bowl,16665,2022-09-11,Sri Lanka,Mens Twenty20 Asia Cup 2022,6,0.98,0.01,0/3 in 1.0
-2490,bowl,17553,2022-09-20,England,England in Pakistan T20I Series 2022,24,1.16,0.08,0/20 in 4.0
-2490,bowl,17554,2022-09-22,England,England in Pakistan T20I Series 2022,0,-1.96,-0.02,1/40 in 4.0
-2490,bowl,17555,2022-09-23,England,England in Pakistan T20I Series 2022,0,-2.33,-0.02,0/34 in 4.0
-2490,bowl,17556,2022-09-25,England,England in Pakistan T20I Series 2022,25,14.09,0.29,3/35 in 4.0
-2490,bowl,17557,2022-09-28,England,England in Pakistan T20I Series 2022,12,7.52,0.09,1/9 in 2.0
-2490,bat,17558,2022-09-30,England,England in Pakistan T20I Series 2022,0,0.44,0.01,12 off 7
-2490,bowl,17558,2022-09-30,England,England in Pakistan T20I Series 2022,8,-10.78,-0.11,0/43 in 4.0
-2490,bat,17737,2022-10-07,Bangladesh,New Zealand T20I Tri Series 2022/23,0,0.1,0.0,8 off 5
-2490,bowl,17737,2022-10-07,Bangladesh,New Zealand T20I Tri Series 2022/23,24,7.26,0.14,2/25 in 4.0
-2490,bowl,17738,2022-10-08,New Zealand,New Zealand T20I Tri Series 2022/23,0,-2.11,-0.03,2/44 in 4.0
-2490,bat,17742,2022-10-13,Bangladesh,New Zealand T20I Tri Series 2022/23,20,15.79,0.62,45 off 20
-2490,bat,17743,2022-10-14,New Zealand,New Zealand T20I Tri Series 2022/23,22,15.29,0.43,38 off 22
-2490,bowl,17743,2022-10-14,New Zealand,New Zealand T20I Tri Series 2022/23,24,-2.66,-0.03,1/33 in 4.0
-2490,bowl,20880,2023-03-27,Afghanistan,Afghanistan v Pakistan T20I Series 2023,4,-2.35,-0.01,0/11 in 1.0
-2490,bat,28966,2024-01-19,New Zealand,Pakistan in New Zealand T20I series 2024,0,2.05,0.03,21 off 9
-2490,bowl,28966,2024-01-19,New Zealand,Pakistan in New Zealand T20I series 2024,24,-13.32,-0.24,0/41 in 4.0
-2490,bowl,28967,2024-01-21,New Zealand,Pakistan in New Zealand T20I series 2024,14,8.02,0.12,2/18 in 4.0
-2490,bat,44267,2025-07-24,Bangladesh,Pakistan in Bangladesh T20I Series 2025,0,1.62,0.03,27 off 15
-2490,bowl,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,25,15.76,0.16,3/23 in 4.0
-2490,bowl,41511,2025-08-02,West Indies,Pakistan in West Indies T20I Series 2025,18,19.24,0.24,3/14 in 4.0
-2490,bowl,41512,2025-08-03,West Indies,Pakistan in West Indies T20I Series 2025,19,-8.13,-0.1,1/33 in 3.0
-2490,bowl,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,12,2.5,0.04,2/23 in 4.0
-2490,bat,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,4,-0.44,0.0,12 off 16
-2490,bat,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,13,6.25,0.13,37 off 27
-2490,bowl,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,6,-2.94,-0.0,1/30 in 3.0
-2490,bat,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,8,1.58,0.02,25 off 21
-2490,bowl,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,11,66.85,0.51,5/19 in 4.0
-2490,bat,45498,2025-09-12,Oman,Asia Cup 2025,10,3.13,0.06,19 off 10
-2490,bowl,45498,2025-09-12,Oman,Asia Cup 2025,6,-2.53,-0.01,1/13 in 2.0
-2490,bat,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,1,-1.51,-0.02,4 off 5
-2490,bowl,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,18,-13.49,-0.17,0/27 in 3.0
-2490,bat,45508,2025-09-21,India,Asia Cup 2025,14,-0.25,0.0,21 off 19
-2490,bat,45509,2025-09-23,Sri Lanka,Asia Cup 2025,12,7.9,0.13,38 off 24
-2490,bat,45511,2025-09-25,Bangladesh,Asia Cup 2025,4,3.49,0.03,25 off 15
-2490,bowl,45511,2025-09-25,Bangladesh,Asia Cup 2025,18,5.73,0.17,1/14 in 3.0
-2490,bat,45513,2025-09-28,India,Asia Cup 2025,9,-2.93,-0.03,6 off 9
-2490,bowl,45513,2025-09-28,India,Asia Cup 2025,6,-1.63,-0.01,0/6 in 1.0
-2490,bat,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,11,1.83,0.25,21 off 11
-2490,bat,47981,2025-11-27,Sri Lanka,Pakistan T20I Tri-Series 2025,14,6.91,0.22,27 off 16
-2490,bowl,47982,2025-11-29,Sri Lanka,Pakistan T20I Tri-Series 2025,21,11.98,0.12,3/17 in 4.0
-2490,bat,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,1,-1.52,-0.02,15 off 14
-2490,bowl,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,14,5.72,0.21,1/25 in 4.0
 2526,bowl,16258,2022-07-18,Ireland,New Zealand in Ireland T20I Series 2022,12,3.81,0.05,1/36 in 4.0
 2526,bowl,16260,2022-07-22,Ireland,New Zealand in Ireland T20I Series 2022,0,1.74,0.02,2/27 in 4.0
 2526,bowl,16666,2022-08-04,Netherlands,New Zealand in Netherlands T20I Series 2022,7,-2.3,-0.03,1/19 in 3.0
@@ -2566,40 +2479,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 2876,bat,54210,2026-10-22,New Zealand,India in New Zealand T20I Series 2026,12,0.34,-0.16,24 off 14
 2876,bowl,54210,2026-10-22,New Zealand,India in New Zealand T20I Series 2026,4,-5.95,-0.05,1/51 in 4.0
 2876,bat,54211,2026-10-24,New Zealand,India in New Zealand T20I Series 2026,4,2.34,0.01,11 off 9
-2921,bat,16654,2022-08-28,India,Mens Twenty20 Asia Cup 2022,6,-3.61,-0.04,10 off 6
-2921,bat,16658,2022-09-02,Hong Kong,Mens Twenty20 Asia Cup 2022,24,4.32,0.07,53 off 40
-2921,bat,16660,2022-09-04,India,Mens Twenty20 Asia Cup 2022,8,-6.36,-0.08,15 off 18
-2921,bat,16662,2022-09-07,Afghanistan,Mens Twenty20 Asia Cup 2022,0,-3.11,-0.03,5 off 9
-2921,bat,16664,2022-09-09,Sri Lanka,Mens Twenty20 Asia Cup 2022,9,-0.23,-0.01,13 off 18
-2921,bat,21403,2023-04-14,New Zealand,New Zealand in Pakistan T20I Series 2023,3,2.38,0.02,47 off 34
-2921,bat,21405,2023-04-17,New Zealand,New Zealand in Pakistan T20I Series 2023,20,-7.08,-0.15,17 off 21
-2921,bat,28963,2024-01-12,New Zealand,Pakistan in New Zealand T20I series 2024,2,-4.39,-0.02,15 off 10
-2921,bat,28964,2024-01-14,New Zealand,Pakistan in New Zealand T20I series 2024,14,9.36,0.05,50 off 25
-2921,bat,28967,2024-01-21,New Zealand,Pakistan in New Zealand T20I series 2024,0,-0.64,-0.01,33 off 16
-2921,bat,31710,2024-04-25,New Zealand,New Zealand in Pakistan T20I Series 2024,44,8.65,0.08,61 off 45
-2921,bat,31711,2024-04-27,New Zealand,New Zealand in Pakistan T20I Series 2024,11,1.31,0.02,43 off 33
-2921,bat,32290,2024-05-10,Ireland,Pakistan in Ireland T20I series 2024,0,0.7,0.0,20 off 18
-2921,bat,32291,2024-05-12,Ireland,Pakistan in Ireland T20I series 2024,30,19.11,0.34,78 off 39
-2921,bat,32611,2024-05-25,England,Pakistan in England T20I Series 2024,15,4.21,0.05,45 off 21
-2921,bat,44265,2025-07-20,Bangladesh,Pakistan in Bangladesh T20I Series 2025,4,6.1,0.05,44 off 34
-2921,bat,44266,2025-07-22,Bangladesh,Pakistan in Bangladesh T20I Series 2025,4,-5.56,-0.1,8 off 8
-2921,bat,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,7,2.4,0.03,28 off 24
-2921,bat,41511,2025-08-02,West Indies,Pakistan in West Indies T20I Series 2025,1,1.59,0.01,20 off 19
-2921,bat,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,6,2.73,0.04,20 off 17
-2921,bat,45852,2025-08-30,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,3,-6.33,-0.06,6 off 7
-2921,bat,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,18,0.16,-0.04,25 off 18
-2921,bat,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,24,18.57,0.27,77 off 44
-2921,bat,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,25,6.36,0.05,27 off 26
-2921,bat,45498,2025-09-12,Oman,Asia Cup 2025,11,1.13,0.03,23 off 16
-2921,bat,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,9,5.03,0.05,50 off 35
-2921,bat,45508,2025-09-21,India,Asia Cup 2025,9,-2.89,-0.03,15 off 9
-2921,bat,45509,2025-09-23,Sri Lanka,Asia Cup 2025,11,0.06,0.01,17 off 19
-2921,bat,45511,2025-09-25,Bangladesh,Asia Cup 2025,5,-3.22,-0.03,13 off 20
-2921,bat,45513,2025-09-28,India,Asia Cup 2025,35,6.19,0.06,46 off 35
-2921,bat,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,32,11.34,0.33,44 off 31
-2921,bat,55078,2026-10-09,Sri Lanka,Sri Lanka in Pakistan T20I Series 2026,13,0.5,-0.04,21 off 13
-2921,bat,55079,2026-10-11,Sri Lanka,Sri Lanka in Pakistan T20I Series 2026,7,3.45,0.03,22 off 17
-2921,bat,55080,2026-10-13,Sri Lanka,Sri Lanka in Pakistan T20I Series 2026,2,-4.49,-0.03,12 off 7
 2933,bowl,14095,2022-03-27,Delhi Capitals,IPL 2022,12,-18.9,-0.21,0/43 in 3.2
 2933,bowl,14102,2022-04-02,Rajasthan Royals,IPL 2022,0,8.99,0.08,3/17 in 4.0
 2933,bowl,14107,2022-04-06,Kolkata Knight Riders,IPL 2022,11,-9.48,-0.19,0/26 in 3.0
@@ -2713,60 +2592,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 2984,bowl,51385,2026-07-19,Bangladesh,Bangladesh in Zimbabwe T20I Series 2026,8,-4.52,-0.06,2/38 in 4.0
 2984,bat,55559,2026-10-27,Afghanistan,Afghanistan v Zimbabwe T20I Series 2026,7,0.61,-0.01,17 off 13
 2984,bat,55560,2026-10-29,Afghanistan,Afghanistan v Zimbabwe T20I Series 2026,7,3.6,-0.0,106 off 56
-3024,bat,16654,2022-08-28,India,Mens Twenty20 Asia Cup 2022,7,2.03,0.01,43 off 42
-3024,bat,16658,2022-09-02,Hong Kong,Mens Twenty20 Asia Cup 2022,27,8.43,0.12,78 off 57
-3024,bat,16660,2022-09-04,India,Mens Twenty20 Asia Cup 2022,45,4.15,-0.1,71 off 51
-3024,bat,16662,2022-09-07,Afghanistan,Mens Twenty20 Asia Cup 2022,12,-4.25,-0.08,20 off 26
-3024,bat,16664,2022-09-09,Sri Lanka,Mens Twenty20 Asia Cup 2022,3,-5.56,-0.05,14 off 14
-3024,bat,16665,2022-09-11,Sri Lanka,Mens Twenty20 Asia Cup 2022,49,5.09,-0.03,55 off 48
-3024,bat,17553,2022-09-20,England,England in Pakistan T20I Series 2022,0,-0.46,0.0,68 off 46
-3024,bat,17554,2022-09-22,England,England in Pakistan T20I Series 2022,44,3.81,0.22,88 off 51
-3024,bat,17555,2022-09-23,England,England in Pakistan T20I Series 2022,0,0.77,-0.0,8 off 14
-3024,bat,17556,2022-09-25,England,England in Pakistan T20I Series 2022,9,1.7,0.02,88 off 66
-3024,bat,17557,2022-09-28,England,England in Pakistan T20I Series 2022,7,2.25,0.02,63 off 46
-3024,bat,17737,2022-10-07,Bangladesh,New Zealand T20I Tri Series 2022/23,8,7.67,0.09,78 off 50
-3024,bat,17738,2022-10-08,New Zealand,New Zealand T20I Tri Series 2022/23,8,-5.49,-0.07,4 off 12
-3024,bat,17740,2022-10-11,New Zealand,New Zealand T20I Tri Series 2022/23,3,-6.34,-0.06,16 off 17
-3024,bat,17742,2022-10-13,Bangladesh,New Zealand T20I Tri Series 2022/23,55,-2.43,-0.13,69 off 56
-3024,bat,17743,2022-10-14,New Zealand,New Zealand T20I Tri Series 2022/23,29,5.14,0.0,34 off 29
-3024,bat,21403,2023-04-14,New Zealand,New Zealand in Pakistan T20I Series 2023,0,-4.53,-0.04,8 off 10
-3024,bat,21404,2023-04-15,New Zealand,New Zealand in Pakistan T20I Series 2023,3,5.72,0.05,50 off 34
-3024,bat,21405,2023-04-17,New Zealand,New Zealand in Pakistan T20I Series 2023,10,0.61,-0.01,6 off 10
-3024,bat,21407,2023-04-24,New Zealand,New Zealand in Pakistan T20I Series 2023,6,8.83,0.08,98 off 62
-3024,bat,28963,2024-01-12,New Zealand,Pakistan in New Zealand T20I series 2024,4,-5.03,-0.04,25 off 14
-3024,bat,28966,2024-01-19,New Zealand,Pakistan in New Zealand T20I series 2024,7,6.41,0.06,90 off 63
-3024,bat,28967,2024-01-21,New Zealand,Pakistan in New Zealand T20I series 2024,2,2.71,0.02,38 off 38
-3024,bat,32291,2024-05-12,Ireland,Pakistan in Ireland T20I series 2024,24,8.3,0.08,75 off 45
-3024,bat,32292,2024-05-14,Ireland,Pakistan in Ireland T20I series 2024,35,12.57,0.02,56 off 38
-3024,bat,32613,2024-05-30,England,Pakistan in England T20I Series 2024,4,4.79,0.04,23 off 16
-3024,bat,37355,2024-11-16,Australia,Pakistan in Australia T20I Series 2024,24,-9.97,-0.18,16 off 26
-3024,bat,38795,2024-12-10,South Africa,Pakistan in South Africa T20I Series 2024,58,-2.23,0.01,74 off 60
-3024,bat,38796,2024-12-13,South Africa,Pakistan in South Africa T20I Series 2024,3,-6.32,-0.06,11 off 13
-3091,bat,28967,2024-01-21,New Zealand,Pakistan in New Zealand T20I series 2024,1,-1.26,-0.01,19 off 14
-3091,bat,37355,2024-11-16,Australia,Pakistan in Australia T20I Series 2024,10,-9.8,-0.13,5 off 10
-3091,bat,42743,2025-05-30,Bangladesh,Bangladesh in Pakistan T20I Series 2025,9,9.9,0.09,74 off 41
-3091,bat,44267,2025-07-24,Bangladesh,Pakistan in Bangladesh T20I Series 2025,5,3.46,0.04,63 off 41
-3091,bat,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,2,-4.32,-0.04,14 off 12
-3091,bat,41511,2025-08-02,West Indies,Pakistan in West Indies T20I Series 2025,0,-6.95,-0.07,3 off 7
-3091,bat,41512,2025-08-03,West Indies,Pakistan in West Indies T20I Series 2025,8,4.55,0.04,74 off 53
-3091,bat,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,0,-2.05,-0.02,21 off 10
-3091,bat,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,13,-2.94,-0.02,18 off 13
-3091,bat,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,3,-2.4,-0.03,16 off 11
-3091,bat,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,3,-11.24,-0.11,0 off 3
-3091,bat,45498,2025-09-12,Oman,Asia Cup 2025,9,2.34,0.03,29 off 29
-3091,bat,45500,2025-09-14,India,Asia Cup 2025,0,0.61,0.01,40 off 44
-3091,bat,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,4,-10.43,-0.12,5 off 12
-3091,bat,45508,2025-09-21,India,Asia Cup 2025,24,8.72,0.08,58 off 44
-3091,bat,45509,2025-09-23,Sri Lanka,Asia Cup 2025,5,7.77,0.05,24 off 15
-3091,bat,45513,2025-09-28,India,Asia Cup 2025,38,19.26,0.16,57 off 38
-3091,bat,46740,2025-10-28,South Africa,South Africa in Pakistan T20I Series 2025,10,-5.06,-0.04,24 off 18
-3091,bat,46742,2025-11-01,South Africa,South Africa in Pakistan T20I Series 2025,11,0.83,-0.02,19 off 18
-3091,bat,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,15,-2.76,-0.04,16 off 15
-3091,bat,47979,2025-11-23,Zimbabwe,Pakistan T20I Tri-Series 2025,3,5.44,0.05,63 off 41
-3091,bat,47981,2025-11-27,Sri Lanka,Pakistan T20I Tri-Series 2025,7,-6.09,-0.08,9 off 7
-3091,bat,55078,2026-10-09,Sri Lanka,Sri Lanka in Pakistan T20I Series 2026,32,16.59,0.18,89 off 53
-3091,bat,55079,2026-10-11,Sri Lanka,Sri Lanka in Pakistan T20I Series 2026,6,5.43,0.06,73 off 43
-3091,bat,55080,2026-10-13,Sri Lanka,Sri Lanka in Pakistan T20I Series 2026,1,7.64,0.07,76 off 47
 3125,bat,13512,2022-01-23,England,England in West Indies T20I Series 2022,12,-1.97,-0.05,24 off 22
 3125,bat,13513,2022-01-26,England,England in West Indies T20I Series 2022,9,9.64,0.09,70 off 42
 3125,bat,13514,2022-01-29,England,England in West Indies T20I Series 2022,8,0.55,-0.01,22 off 16
@@ -3147,24 +2972,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 3374,bat,39811,2025-03-23,Pakistan,Pakistan in New Zealand T20I Series 2025,2,3.57,0.02,24 off 16
 3374,bat,47965,2025-11-05,West Indies,West Indies in New Zealand T20I Series 2025,11,-8.42,-0.17,7 off 11
 3374,bat,47966,2025-11-06,West Indies,West Indies in New Zealand T20I Series 2025,0,5.31,0.06,78 off 28
-3489,bat,39810,2025-03-21,New Zealand,Pakistan in New Zealand T20I Series 2025,18,0.88,-0.06,51 off 31
-3489,bat,42744,2025-06-01,Bangladesh,Bangladesh in Pakistan T20I Series 2025,3,-0.25,-0.02,15 off 12
-3489,bat,44266,2025-07-22,Bangladesh,Pakistan in Bangladesh T20I Series 2025,19,-2.09,-0.03,9 off 23
-3489,bat,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,0,-1.27,-0.01,11 off 10
-3489,bat,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,0,-0.87,-0.01,53 off 36
-3489,bat,45852,2025-08-30,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,5,-1.42,-0.01,5 off 9
-3489,bat,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,15,6.76,0.08,20 off 15
-3489,bat,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,5,-7.02,-0.09,7 off 5
-3489,bat,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,9,0.62,0.01,24 off 27
-3489,bat,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,5,-2.15,-0.05,20 off 27
-3489,bat,45508,2025-09-21,India,Asia Cup 2025,13,-0.14,-0.01,17 off 13
-3489,bat,45509,2025-09-23,Sri Lanka,Asia Cup 2025,4,-5.83,-0.09,5 off 6
-3489,bat,45511,2025-09-25,Bangladesh,Asia Cup 2025,5,1.13,0.01,19 off 23
-3489,bat,45513,2025-09-28,India,Asia Cup 2025,7,-2.76,-0.04,8 off 7
-3489,bat,46742,2025-11-01,South Africa,South Africa in Pakistan T20I Series 2025,8,2.33,0.05,33 off 25
-3489,bat,47981,2025-11-27,Sri Lanka,Pakistan T20I Tri-Series 2025,23,10.43,-0.2,63 off 44
-3489,bat,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,9,3.3,0.03,39 off 27
-3489,bat,48916,2026-01-31,Australia,Australia in Pakistan T20I Series 2026,8,13.83,0.11,76 off 40
 3605,bat,14105,2022-04-04,Lucknow Super Giants,IPL 2022,13,-5.01,-0.1,12 off 13
 3605,bat,14114,2022-04-11,Gujarat Titans,IPL 2022,4,-0.85,-0.01,12 off 8
 3605,bat,14118,2022-04-15,Kolkata Knight Riders,IPL 2022,20,10.04,0.22,68 off 36
@@ -5299,26 +5106,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 5944,bowl,50942,2026-05-26,Royal Challengers Bengaluru,IPL 2026,7,-13.84,-0.09,0/46 in 3.0
 5944,bowl,50944,2026-05-29,Rajasthan Royals,IPL 2026,6,0.8,0.01,1/42 in 4.0
 5944,bowl,50945,2026-05-31,Royal Challengers Bengaluru,IPL 2026,6,-2.19,-0.01,1/36 in 4.0
-5979,bowl,31709,2024-04-21,New Zealand,New Zealand in Pakistan T20I Series 2024,18,-3.5,-0.03,0/31 in 4.0
-5979,bowl,37926,2024-12-01,Zimbabwe,Pakistan in Zimbabwe T20I Series 2024,18,10.04,0.06,3/28 in 3.3
-5979,bowl,37927,2024-12-03,Zimbabwe,Pakistan in Zimbabwe T20I Series 2024,0,-3.25,-0.03,1/21 in 3.0
-5979,bowl,38796,2024-12-13,South Africa,Pakistan in South Africa T20I Series 2024,25,-1.0,0.08,0/29 in 4.0
-5979,bowl,39810,2025-03-21,New Zealand,Pakistan in New Zealand T20I Series 2025,0,-6.35,-0.06,2/43 in 3.0
-5979,bowl,39811,2025-03-23,New Zealand,Pakistan in New Zealand T20I Series 2025,1,-5.94,-0.04,2/41 in 4.0
-5979,bowl,42742,2025-05-28,Bangladesh,Bangladesh in Pakistan T20I Series 2025,12,-9.17,-0.02,0/35 in 4.0
-5979,bowl,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,17,18.79,0.12,4/9 in 4.0
-5979,bowl,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,16,8.77,0.04,2/17 in 4.0
-5979,bowl,45498,2025-09-12,Oman,Asia Cup 2025,6,-0.89,0.02,1/12 in 3.4
-5979,bowl,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,24,16.59,0.24,2/13 in 4.0
-5979,bowl,45508,2025-09-21,India,Asia Cup 2025,6,-3.89,-0.06,1/42 in 4.0
-5979,bowl,45509,2025-09-23,Sri Lanka,Asia Cup 2025,0,3.51,0.03,1/8 in 4.0
-5979,bowl,45511,2025-09-25,Bangladesh,Asia Cup 2025,18,-11.96,-0.16,0/23 in 3.0
-5979,bowl,45513,2025-09-28,India,Asia Cup 2025,25,1.38,0.0,1/29 in 4.0
-5979,bowl,46740,2025-10-28,South Africa,South Africa in Pakistan T20I Series 2025,3,-5.18,-0.04,1/42 in 4.0
-5979,bowl,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,0,1.82,0.02,1/28 in 4.0
-5979,bowl,47982,2025-11-29,Sri Lanka,Pakistan T20I Tri-Series 2025,25,7.99,0.09,2/18 in 4.0
-5979,bowl,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,15,15.77,0.38,2/10 in 4.0
-5979,bowl,48916,2026-01-31,Australia,Australia in Pakistan T20I Series 2026,6,12.21,0.06,3/14 in 3.0
 6059,bat,13524,2022-02-20,West Indies,West Indies in India T20I Series 2022,0,-7.11,-0.07,4 off 8
 6059,bat,14110,2022-04-09,Sunrisers Hyderabad,IPL 2022,0,-4.56,-0.05,16 off 13
 6059,bat,14115,2022-04-12,Royal Challengers Bengaluru,IPL 2022,1,-2.92,-0.03,17 off 16
@@ -5718,43 +5505,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 6314,bat,50378,2026-05-13,Kolkata Knight Riders,IPL 2026,26,6.32,0.1,39 off 27
 6314,bat,50382,2026-05-17,Punjab Kings,IPL 2026,2,4.01,0.03,45 off 25
 6314,bat,50942,2026-05-26,Gujarat Titans,IPL 2026,12,8.51,0.07,30 off 19
-6355,bowl,21403,2023-04-14,New Zealand,New Zealand in Pakistan T20I Series 2023,8,2.05,0.01,1/11 in 2.0
-6355,bowl,21404,2023-04-15,New Zealand,New Zealand in Pakistan T20I Series 2023,4,-2.09,-0.01,0/25 in 4.0
-6355,bowl,21405,2023-04-17,New Zealand,New Zealand in Pakistan T20I Series 2023,1,5.59,0.05,2/33 in 4.0
-6355,bowl,21407,2023-04-24,New Zealand,New Zealand in Pakistan T20I Series 2023,12,-2.17,-0.23,2/48 in 4.0
-6355,bowl,28963,2024-01-12,New Zealand,Pakistan in New Zealand T20I series 2024,5,-7.72,-0.07,3/46 in 4.0
-6355,bowl,28964,2024-01-14,New Zealand,Pakistan in New Zealand T20I series 2024,2,-4.6,-0.04,0/30 in 4.0
-6355,bowl,28965,2024-01-17,New Zealand,Pakistan in New Zealand T20I series 2024,1,-4.04,-0.04,1/43 in 4.0
-6355,bowl,28966,2024-01-19,New Zealand,Pakistan in New Zealand T20I series 2024,26,14.29,0.15,3/34 in 4.0
-6355,bowl,28967,2024-01-21,New Zealand,Pakistan in New Zealand T20I series 2024,5,1.63,-0.02,2/20 in 3.2
-6355,bowl,31708,2024-04-20,New Zealand,New Zealand in Pakistan T20I Series 2024,5,5.99,0.06,3/13 in 3.1
-6355,bowl,31709,2024-04-21,New Zealand,New Zealand in Pakistan T20I Series 2024,20,-14.29,-0.26,0/37 in 3.2
-6355,bowl,31711,2024-04-27,New Zealand,New Zealand in Pakistan T20I Series 2024,26,18.16,0.32,4/30 in 4.0
-6355,bowl,32290,2024-05-10,Ireland,Pakistan in Ireland T20I series 2024,26,4.72,0.26,1/26 in 4.0
-6355,bowl,32291,2024-05-12,Ireland,Pakistan in Ireland T20I series 2024,2,8.21,0.08,3/49 in 4.0
-6355,bowl,32292,2024-05-14,Ireland,Pakistan in Ireland T20I series 2024,2,8.41,0.08,3/14 in 4.0
-6355,bowl,32611,2024-05-25,England,Pakistan in England T20I Series 2024,0,-1.95,-0.02,3/36 in 4.0
-6355,bowl,32613,2024-05-30,England,Pakistan in England T20I Series 2024,14,-3.3,-0.05,0/20 in 3.0
-6355,bowl,37355,2024-11-16,Australia,Pakistan in Australia T20I Series 2024,0,-2.28,-0.02,0/39 in 4.0
-6355,bowl,38796,2024-12-13,South Africa,Pakistan in South Africa T20I Series 2024,20,-2.3,0.05,0/37 in 4.0
-6355,bowl,39810,2025-03-21,New Zealand,Pakistan in New Zealand T20I Series 2025,6,-1.22,-0.01,2/36 in 4.0
-6355,bowl,39811,2025-03-23,New Zealand,Pakistan in New Zealand T20I Series 2025,0,-5.26,-0.05,0/49 in 4.0
-6355,bowl,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,15,5.36,0.05,1/27 in 4.0
-6355,bowl,41511,2025-08-02,West Indies,Pakistan in West Indies T20I Series 2025,19,-3.63,-0.04,1/31 in 4.0
-6355,bowl,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,12,6.35,0.07,2/21 in 4.0
-6355,bowl,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,6,-1.23,-0.02,0/27 in 4.0
-6355,bowl,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,12,0.78,0.05,1/23 in 4.0
-6355,bowl,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,13,10.66,0.11,1/7 in 2.0
-6355,bowl,45498,2025-09-12,Oman,Asia Cup 2025,13,-10.01,-0.12,1/20 in 4.0
-6355,bowl,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,19,7.29,0.08,2/16 in 3.0
-6355,bowl,45508,2025-09-21,India,Asia Cup 2025,15,-9.12,-0.11,0/40 in 3.5
-6355,bowl,45509,2025-09-23,Sri Lanka,Asia Cup 2025,16,17.96,0.16,3/28 in 4.0
-6355,bowl,45511,2025-09-25,Bangladesh,Asia Cup 2025,24,25.06,0.25,3/17 in 4.0
-6355,bowl,45513,2025-09-28,India,Asia Cup 2025,24,17.15,0.27,1/20 in 4.0
-6355,bowl,46740,2025-10-28,South Africa,South Africa in Pakistan T20I Series 2025,0,-4.25,-0.04,1/45 in 4.0
-6355,bowl,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,0,1.71,0.02,1/34 in 4.0
-6355,bowl,47982,2025-11-29,Sri Lanka,Pakistan T20I Tri-Series 2025,19,9.24,0.07,3/18 in 3.0
-6355,bowl,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,12,-6.78,-0.05,0/29 in 3.0
 6396,bat,14102,2022-04-02,Rajasthan Royals,IPL 2022,3,-6.24,-0.13,1 off 3
 6396,bat,14137,2022-04-30,Rajasthan Royals,IPL 2022,9,7.8,0.33,20 off 9
 6396,bat,14150,2022-05-09,Kolkata Knight Riders,IPL 2022,9,-2.24,-0.05,13 off 9
@@ -6727,45 +6477,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 7344,bowl,47243,2025-12-02,Ireland,Ireland in Bangladesh T20I Series 2025,3,-0.28,-0.01,2/21 in 3.0
 7344,bowl,50188,2026-04-27,New Zealand,New Zealand in Bangladesh T20I Series 2026,6,-4.46,-0.04,1/36 in 4.0
 7344,bowl,50597,2026-06-17,Australia,Australia in Bangladesh T20I Series 2026,2,-2.41,-0.03,1/22 in 3.0
-7364,bowl,16654,2022-08-28,India,Mens Twenty20 Asia Cup 2022,26,-4.39,-0.33,0/35 in 4.0
-7364,bowl,16660,2022-09-04,India,Mens Twenty20 Asia Cup 2022,0,-1.33,-0.02,1/38 in 4.0
-7364,bowl,16662,2022-09-07,Afghanistan,Mens Twenty20 Asia Cup 2022,0,5.06,0.05,2/26 in 4.0
-7364,bowl,16664,2022-09-09,Sri Lanka,Mens Twenty20 Asia Cup 2022,5,10.33,0.09,2/19 in 3.0
-7364,bowl,16665,2022-09-11,Sri Lanka,Mens Twenty20 Asia Cup 2022,24,18.98,0.17,3/29 in 4.0
-7364,bowl,17553,2022-09-20,England,England in Pakistan T20I Series 2022,12,2.05,0.05,1/23 in 4.0
-7364,bowl,17554,2022-09-22,England,England in Pakistan T20I Series 2022,6,-2.12,-0.02,2/30 in 4.0
-7364,bowl,17555,2022-09-23,England,England in Pakistan T20I Series 2022,6,-2.69,-0.02,0/40 in 4.0
-7364,bowl,17556,2022-09-25,England,England in Pakistan T20I Series 2022,22,2.25,0.24,3/32 in 4.0
-7364,bowl,17557,2022-09-28,England,England in Pakistan T20I Series 2022,25,-2.42,0.01,2/41 in 4.0
-7364,bowl,17559,2022-10-02,England,England in Pakistan T20I Series 2022,1,2.24,0.01,0/24 in 4.0
-7364,bowl,17737,2022-10-07,Bangladesh,New Zealand T20I Tri Series 2022/23,12,7.86,0.08,1/38 in 4.0
-7364,bowl,17738,2022-10-08,New Zealand,New Zealand T20I Tri Series 2022/23,6,-0.04,0.01,3/28 in 4.0
-7364,bowl,17743,2022-10-14,New Zealand,New Zealand T20I Tri Series 2022/23,25,12.01,0.12,2/22 in 4.0
-7364,bowl,21404,2023-04-15,New Zealand,New Zealand in Pakistan T20I Series 2023,11,7.06,0.05,4/27 in 4.0
-7364,bowl,21405,2023-04-17,New Zealand,New Zealand in Pakistan T20I Series 2023,11,2.45,0.03,2/31 in 4.0
-7364,bowl,21407,2023-04-24,New Zealand,New Zealand in Pakistan T20I Series 2023,14,-5.78,-0.08,0/39 in 4.0
-7364,bowl,28964,2024-01-14,New Zealand,Pakistan in New Zealand T20I series 2024,5,-7.5,-0.06,3/38 in 4.0
-7364,bowl,28965,2024-01-17,New Zealand,Pakistan in New Zealand T20I series 2024,8,-2.99,-0.02,2/60 in 4.0
-7364,bowl,28966,2024-01-19,New Zealand,Pakistan in New Zealand T20I series 2024,16,-4.71,-0.08,0/29 in 3.1
-7364,bowl,32611,2024-05-25,England,Pakistan in England T20I Series 2024,6,-6.39,-0.06,2/34 in 4.0
-7364,bowl,37355,2024-11-16,Australia,Pakistan in Australia T20I Series 2024,0,9.23,0.08,4/22 in 4.0
-7364,bowl,37926,2024-12-01,Zimbabwe,Pakistan in Zimbabwe T20I Series 2024,12,11.42,0.14,2/17 in 3.0
-7364,bowl,37927,2024-12-03,Zimbabwe,Pakistan in Zimbabwe T20I Series 2024,6,6.04,0.07,1/13 in 2.0
-7364,bowl,38795,2024-12-10,South Africa,Pakistan in South Africa T20I Series 2024,0,-1.06,-0.01,0/41 in 4.0
-7364,bowl,38796,2024-12-13,South Africa,Pakistan in South Africa T20I Series 2024,18,-16.47,-0.34,0/57 in 4.0
-7364,bowl,39810,2025-03-21,New Zealand,Pakistan in New Zealand T20I Series 2025,1,7.41,0.06,3/29 in 4.0
-7364,bowl,39811,2025-03-23,New Zealand,Pakistan in New Zealand T20I Series 2025,3,0.97,-0.0,3/27 in 4.0
-7364,bowl,42742,2025-05-28,Bangladesh,Bangladesh in Pakistan T20I Series 2025,12,-6.18,-0.01,0/36 in 3.0
-7364,bowl,42743,2025-05-30,Bangladesh,Bangladesh in Pakistan T20I Series 2025,6,6.11,0.07,1/23 in 2.0
-7364,bowl,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,12,-3.31,-0.02,0/41 in 4.0
-7364,bowl,41512,2025-08-03,West Indies,Pakistan in West Indies T20I Series 2025,25,7.09,0.25,1/34 in 4.0
-7364,bowl,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,7,12.65,0.22,4/31 in 3.5
-7364,bowl,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,6,-5.97,-0.07,0/38 in 3.0
-7364,bowl,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,15,0.21,0.02,2/19 in 2.4
-7364,bowl,45508,2025-09-21,India,Asia Cup 2025,9,-1.19,-0.06,2/26 in 4.0
-7364,bowl,45509,2025-09-23,Sri Lanka,Asia Cup 2025,7,1.62,0.02,2/37 in 4.0
-7364,bowl,45511,2025-09-25,Bangladesh,Asia Cup 2025,18,10.44,0.07,3/33 in 4.0
-7364,bowl,45513,2025-09-28,India,Asia Cup 2025,23,-20.44,-0.87,0/50 in 3.4
 7472,bowl,14120,2022-04-16,Delhi Capitals,IPL 2022,6,2.24,0.05,0/19 in 2.0
 7472,bowl,14124,2022-04-19,Lucknow Super Giants,IPL 2022,15,-4.6,-0.03,0/25 in 4.0
 7472,bowl,14136,2022-04-30,Gujarat Titans,IPL 2022,11,5.8,0.14,2/26 in 3.0
@@ -6881,56 +6592,6 @@ player_id,role,match_id,date,vs,comp,p_balls,value,wins,line
 7544,bat,50382,2026-05-17,Punjab Kings,IPL 2026,0,1.52,0.01,73 off 40
 7544,bat,50942,2026-05-26,Gujarat Titans,IPL 2026,2,-3.36,-0.03,19 off 7
 7544,bat,50945,2026-05-31,Gujarat Titans,IPL 2026,9,12.02,0.07,32 off 16
-7690,bat,20878,2023-03-24,Afghanistan,Afghanistan v Pakistan T20I Series 2023,0,-0.19,-0.0,17 off 15
-7690,bat,20880,2023-03-27,Afghanistan,Afghanistan v Pakistan T20I Series 2023,0,1.38,0.01,49 off 40
-7690,bat,21403,2023-04-14,New Zealand,New Zealand in Pakistan T20I Series 2023,0,2.61,0.03,47 off 27
-7690,bat,21405,2023-04-17,New Zealand,New Zealand in Pakistan T20I Series 2023,10,-6.99,-0.06,10 off 10
-7690,bat,31709,2024-04-21,New Zealand,New Zealand in Pakistan T20I Series 2024,6,4.15,0.04,32 off 22
-7690,bat,31710,2024-04-25,New Zealand,New Zealand in Pakistan T20I Series 2024,15,-3.27,-0.04,20 off 15
-7690,bowl,31711,2024-04-27,New Zealand,New Zealand in Pakistan T20I Series 2024,13,-7.29,-0.1,0/20 in 2.0
-7690,bat,32290,2024-05-10,Ireland,Pakistan in Ireland T20I series 2024,5,4.41,-0.01,45 off 29
-7690,bat,32292,2024-05-14,Ireland,Pakistan in Ireland T20I series 2024,11,-4.83,-0.06,14 off 11
-7690,bat,32611,2024-05-25,England,Pakistan in England T20I Series 2024,1,-8.88,-0.04,2 off 7
-7690,bat,37926,2024-12-01,Zimbabwe,Pakistan in Zimbabwe T20I Series 2024,9,5.23,0.05,24 off 18
-7690,bat,38795,2024-12-10,South Africa,Pakistan in South Africa T20I Series 2024,8,-0.63,-0.02,31 off 15
-7690,bat,38796,2024-12-13,South Africa,Pakistan in South Africa T20I Series 2024,12,7.91,0.07,98 off 56
-7690,bat,42744,2025-06-01,Bangladesh,Bangladesh in Pakistan T20I Series 2025,14,6.75,0.0,45 off 29
-7690,bowl,42744,2025-06-01,Bangladesh,Bangladesh in Pakistan T20I Series 2025,0,-7.28,-0.07,0/24 in 2.0
-7690,bat,44267,2025-07-24,Bangladesh,Pakistan in Bangladesh T20I Series 2025,3,1.65,0.02,21 off 15
-7690,bat,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,5,4.42,0.04,57 off 38
-7690,bowl,41510,2025-07-31,West Indies,Pakistan in West Indies T20I Series 2025,5,6.81,0.02,2/20 in 2.0
-7690,bat,41511,2025-08-02,West Indies,Pakistan in West Indies T20I Series 2025,0,-5.23,-0.05,7 off 9
-7690,bowl,41511,2025-08-02,West Indies,Pakistan in West Indies T20I Series 2025,23,8.3,0.15,2/20 in 4.0
-7690,bat,41512,2025-08-03,West Indies,Pakistan in West Indies T20I Series 2025,9,1.63,0.02,66 off 49
-7690,bowl,41512,2025-08-03,West Indies,Pakistan in West Indies T20I Series 2025,25,-4.48,-0.03,1/38 in 4.0
-7690,bat,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,3,2.09,0.02,14 off 16
-7690,bowl,45851,2025-08-29,Afghanistan,United Arab Emirates T20I Tri-Series 2025,12,-7.56,-0.09,0/21 in 2.0
-7690,bat,45852,2025-08-30,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,15,16.59,0.18,69 off 38
-7690,bowl,45854,2025-09-02,Afghanistan,United Arab Emirates T20I Tri-Series 2025,6,5.32,0.06,1/18 in 4.0
-7690,bat,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,6,-4.27,-0.06,11 off 10
-7690,bowl,45855,2025-09-04,United Arab Emirates,United Arab Emirates T20I Tri-Series 2025,3,-1.5,-0.0,0/29 in 3.0
-7690,bat,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,19,1.8,0.01,17 off 19
-7690,bowl,45857,2025-09-07,Afghanistan,United Arab Emirates T20I Tri-Series 2025,12,-0.44,0.01,0/10 in 3.0
-7690,bowl,45498,2025-09-12,Oman,Asia Cup 2025,12,21.75,0.2,2/8 in 2.0
-7690,bowl,45504,2025-09-17,United Arab Emirates,Asia Cup 2025,25,9.15,0.19,1/18 in 4.0
-7690,bat,45508,2025-09-21,India,Asia Cup 2025,13,1.81,0.02,21 off 17
-7690,bowl,45508,2025-09-21,India,Asia Cup 2025,13,-6.97,-0.09,0/35 in 3.0
-7690,bowl,45511,2025-09-25,Bangladesh,Asia Cup 2025,24,14.69,0.35,2/16 in 4.0
-7690,bat,45513,2025-09-28,India,Asia Cup 2025,11,-0.56,-0.01,14 off 11
-7690,bowl,45513,2025-09-28,India,Asia Cup 2025,18,0.61,0.09,0/16 in 3.0
-7690,bat,46740,2025-10-28,South Africa,South Africa in Pakistan T20I Series 2025,11,-8.73,-0.07,37 off 28
-7690,bowl,46740,2025-10-28,South Africa,South Africa in Pakistan T20I Series 2025,0,1.57,0.01,2/31 in 4.0
-7690,bat,46742,2025-11-01,South Africa,South Africa in Pakistan T20I Series 2025,2,-9.71,-0.09,0 off 6
-7690,bat,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,26,-7.25,-0.11,22 off 26
-7690,bowl,47976,2025-11-17,Zimbabwe,Pakistan T20I Tri-Series 2025,0,-0.51,0.02,1/31 in 4.0
-7690,bat,47979,2025-11-23,Zimbabwe,Pakistan T20I Tri-Series 2025,0,-1.18,-0.01,13 off 8
-7690,bat,47981,2025-11-27,Sri Lanka,Pakistan T20I Tri-Series 2025,16,0.41,-0.01,27 off 18
-7690,bowl,47982,2025-11-29,Sri Lanka,Pakistan T20I Tri-Series 2025,18,7.66,0.07,1/17 in 4.0
-7690,bat,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,4,5.97,0.05,40 off 22
-7690,bowl,48915,2026-01-29,Australia,Australia in Pakistan T20I Series 2026,18,10.11,0.06,2/29 in 3.0
-7690,bat,48916,2026-01-31,Australia,Australia in Pakistan T20I Series 2026,4,-0.98,0.0,23 off 11
-7690,bowl,48916,2026-01-31,Australia,Australia in Pakistan T20I Series 2026,2,4.86,0.02,1/32 in 3.0
-7690,bat,48917,2026-02-01,Australia,Australia in Pakistan T20I Series 2026,6,7.22,0.07,56 off 37
 7808,bowl,14110,2022-04-09,Chennai Super Kings,IPL 2022,6,1.65,0.02,1/30 in 4.0
 7808,bowl,14114,2022-04-11,Gujarat Titans,IPL 2022,6,-0.29,-0.0,1/27 in 4.0
 7808,bowl,14118,2022-04-15,Kolkata Knight Riders,IPL 2022,0,-0.52,-0.01,1/26 in 4.0

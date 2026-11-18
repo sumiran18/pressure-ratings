@@ -7,7 +7,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 838,bat,2025-08-16,South Africa in Australia T20I Series 2025,Australia v South Africa,20.5,4 needed off 2,Lungi Ngidi,4 runs,100.0,60.3
 2436,bat,2022-06-11,Australia in Sri Lanka T20I Series 2022,Sri Lanka v Australia,20.7,7 needed off 2,Kane Richardson,6 runs,100.0,59.8
 4489,bowl,2026-04-08,IPL 2026,Delhi Capitals v Gujarat Titans,20.6,2 needed off 1,David Miller,WICKET (RunOut),100.0,59.7
-3330,bat,2022-08-28,Mens Twenty20 Asia Cup 2022,India v Pakistan,20.4,6 needed off 3,Mohammad Nawaz,6 runs,99.9,51.3
 8101,bat,2025-03-24,IPL 2025,Delhi Capitals v Lucknow Super Giants,20.3,5 needed off 4,Shahbaz Ahmed,6 runs,99.9,51.3
 3926,bat,2023-04-13,IPL 2023,Gujarat Titans v Punjab Kings,20.5,4 needed off 2,Sam Curran,4 runs,100.0,51.0
 4755,bat,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,20.4,13 needed off 3,Yash Dayal,"wide / no-ball, 7",99.9,48.8
@@ -32,12 +31,10 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 813,bat,2024-04-16,IPL 2024,Rajasthan Royals v Kolkata Knight Riders,20.1,9 needed off 6,Varun Chakravarthy,6 runs,99.8,36.3
 3297,bat,2024-04-13,IPL 2024,Rajasthan Royals v Punjab Kings,20.3,10 needed off 4,Arshdeep Singh,6 runs,99.9,35.7
 1077,bat,2022-05-24,IPL 2022,Gujarat Titans v Rajasthan Royals,20.2,10 needed off 5,Prasidh Krishna,6 runs,99.9,35.1
-7897,bat,2025-09-28,Asia Cup 2025,India v Pakistan,20.2,8 needed off 5,Haris Rauf,6 runs,99.9,34.9
 6280,bat,2023-12-16,England in West Indies T20I Series 2023,England v West Indies,20.5,3 needed off 2,Andre Russell,6 runs,99.9,34.6
 4755,bat,2025-04-14,IPL 2025,Chennai Super Kings v Lucknow Super Giants,19.2,20 needed off 11,Shardul Thakur,"wide / no-ball, 7",99.1,34.3
 5379,bowl,2024-05-19,Netherlands Tri-Nation T20I Series 2024,Netherlands v Ireland,20.7,3 needed off 1,Tim Pringle,1 run,100.0,34.1
 2639,bat,2024-04-23,IPL 2024,Lucknow Super Giants v Chennai Super Kings,20.3,7 needed off 4,Mustafizur Rahman,"wide / no-ball, 5",99.5,33.1
-7364,bowl,2022-09-25,England in Pakistan T20I Series 2022,England v Pakistan,19.4,5 needed off 9,Olly Stone,WICKET (Bowled),94.5,32.6
 2639,bowl,2022-05-18,IPL 2022,Kolkata Knight Riders v Lucknow Super Giants,20.6,3 needed off 1,Umesh Yadav,WICKET (Bowled),100.0,31.9
 3697,bowl,2025-11-06,West Indies in New Zealand T20I Series 2025,West Indies v New Zealand,20.5,6 needed off 3,Rovman Powell,WICKET (Caught),99.9,30.7
 4837,bowl,2022-04-18,IPL 2022,Kolkata Knight Riders v Rajasthan Royals,20.2,9 needed off 5,Sheldon Jackson,WICKET (Caught),99.9,30.5
@@ -70,7 +67,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 6396,bat,2023-05-16,IPL 2023,Mumbai Indians v Lucknow Super Giants,19.7,17 needed off 7,Naveen ul Haq,6 runs,99.8,25.1
 4219,bat,2022-04-07,IPL 2022,Lucknow Super Giants v Delhi Capitals,19.3,17 needed off 10,Mustafizur Rahman,6 runs,98.5,25.1
 2876,bat,2022-03-27,IPL 2022,Delhi Capitals v Mumbai Indians,18.1,28 needed off 18,Daniel Sams,6 runs,99.4,24.9
-6355,bowl,2025-08-02,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,20.2,7 needed off 5,Romario Shepherd,WICKET (LBW),99.8,24.9
 838,bat,2025-08-16,South Africa in Australia T20I Series 2025,Australia v South Africa,20.2,8 needed off 5,Lungi Ngidi,4 runs,99.8,24.7
 2876,bowl,2023-01-03,Sri Lanka in India T20I Series 2023,Sri Lanka v India,20.5,5 needed off 3,Chamika Karunaratne,dot ball,99.9,24.7
 6396,bat,2023-04-11,IPL 2023,Mumbai Indians v Delhi Capitals,19.6,11 needed off 7,Mustafizur Rahman,6 runs,98.8,24.6
@@ -79,23 +75,18 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4708,bat,2022-05-18,IPL 2022,Kolkata Knight Riders v Lucknow Super Giants,20.3,11 needed off 4,Marcus Stoinis,6 runs,99.8,24.4
 7344,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,20.3,8 needed off 4,Aayan Afzal Khan,WICKET (Caught),99.9,24.3
 2681,bowl,2024-12-16,Bangladesh in West Indies T20I Series 2024,West Indies v Bangladesh,18.1,20 needed off 18,Romario Shepherd,WICKET (Caught),97.8,24.2
-4373,bowl,2025-07-22,Pakistan in Bangladesh T20I Series 2025,Pakistan v Bangladesh,20.2,9 needed off 5,Ahmed Daniyal,WICKET (Caught),99.9,24.1
 7260,bat,2025-04-16,IPL 2025,Rajasthan Royals v Delhi Capitals,19.4,19 needed off 10,Mohit Sharma,6 runs,99.5,24.0
-4755,bat,2025-09-28,Asia Cup 2025,India v Pakistan,18.7,23 needed off 13,Haris Rauf,6 runs,99.7,24.0
-2490,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,19.1,22 needed off 12,Eshan Malinga,6 runs,99.3,23.9
 2639,bat,2024-04-23,IPL 2024,Lucknow Super Giants v Chennai Super Kings,20.1,17 needed off 6,Mustafizur Rahman,6 runs,99.9,23.9
 8647,bat,2024-10-20,Mens T20 Emerging Teams Asia Cup 2024,Afghanistan A v Bangladesh A,18.6,22 needed off 14,Abu Haider,6 runs,99.5,23.9
 4854,bat,2023-04-08,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,20.6,2 needed off 2,Lahiru Kumara,2 runs,99.9,23.8
 2436,bat,2025-09-26,Asia Cup 2025,Sri Lanka v India,18.3,31 needed off 16,Axar Patel,6 runs,99.6,23.5
 8647,bat,2024-10-20,Mens T20 Emerging Teams Asia Cup 2024,Afghanistan A v Bangladesh A,18.5,28 needed off 15,Abu Haider,6 runs,99.6,23.4
-152,bat,2022-08-28,Mens Twenty20 Asia Cup 2022,India v Pakistan,18.6,27 needed off 14,Naseem Shah,6 runs,99.3,23.3
 2436,bat,2022-09-06,Mens Twenty20 Asia Cup 2022,Sri Lanka v India,18.5,28 needed off 14,Hardik Pandya,6 runs,99.5,23.3
 6676,bowl,2025-10-03,Afghanistan v Bangladesh T20I Series 2025,Bangladesh v Afghanistan,18.5,19 needed off 14,Mohammad Rishad Hossain,WICKET (Bowled),98.9,23.3
 6725,bat,2026-06-15,Sri Lanka in West Indies T20I Series 2026,West Indies v Sri Lanka,20.4,5 needed off 4,Dasun Shanaka,4 runs,99.4,23.2
 5041,bowl,2024-04-24,IPL 2024,Gujarat Titans v Delhi Capitals,20.6,5 needed off 1,Rashid Khan,dot ball,100.0,23.1
 813,bat,2024-04-16,IPL 2024,Rajasthan Royals v Kolkata Knight Riders,20.5,3 needed off 2,Varun Chakravarthy,2 runs,100.0,23.0
 479,bowl,2025-01-25,England in India T20I Series 2025,India v England,17.6,20 needed off 19,Arshdeep Singh,WICKET (Caught),97.6,22.9
-3174,bowl,2023-04-17,New Zealand in Pakistan T20I Series 2023,Pakistan v New Zealand,19.4,15 needed off 10,Faheem Ashraf,WICKET (Caught),99.6,22.7
 796,bat,2022-10-05,West Indies in Australia T20I Series 2022,Australia v West Indies,20.1,11 needed off 6,Sheldon Cottrell,4 runs,99.8,22.4
 4755,bat,2026-05-10,IPL 2026,Chennai Super Kings v Lucknow Super Giants,20.3,8 needed off 6,Aiden Markram,6 runs,98.0,22.4
 8746,bowl,2026-04-09,IPL 2026,Lucknow Super Giants v Kolkata Knight Riders,20.4,7 needed off 3,Mukul Choudhary,dot ball,99.9,22.3
@@ -110,7 +101,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 8661,bowl,2024-02-17,Afghanistan in Sri Lanka T20I Series 2024,Afghanistan v Sri Lanka,19.3,13 needed off 10,Noor Ahmad,WICKET (Bowled),99.0,22.0
 7905,bowl,2025-05-19,Bangladesh in United Arab Emirates T20I Series 2025,United Arab Emirates v Bangladesh,20.4,4 needed off 4,Dhruv Parashar,WICKET (Bowled),99.7,22.0
 2876,bowl,2023-01-03,Sri Lanka in India T20I Series 2023,Sri Lanka v India,20.6,5 needed off 2,Chamika Karunaratne,WICKET (RunOut),100.0,21.9
-2490,bowl,2022-09-25,England in Pakistan T20I Series 2022,England v Pakistan,14.2,61 needed off 41,Moeen Ali,WICKET (Bowled),94.0,21.9
 8746,bowl,2026-04-09,IPL 2026,Lucknow Super Giants v Kolkata Knight Riders,20.3,7 needed off 4,Mukul Choudhary,dot ball,99.9,21.8
 7897,bat,2026-10-24,India in New Zealand T20I Series 2026,India v New Zealand,19.6,17 needed off 7,Nathan Smith,6 runs,99.6,21.8
 6676,bowl,2024-12-09,Afghanistan in Zimbabwe T20I Series 2024,Zimbabwe v Afghanistan,20.4,3 needed off 3,Tashinga Musekiwa,dot ball,99.1,21.8
@@ -119,11 +109,9 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 813,bat,2024-04-16,IPL 2024,Rajasthan Royals v Kolkata Knight Riders,19.4,18 needed off 9,Harshit Rana,6 runs,99.4,21.6
 4219,bat,2026-05-10,IPL 2026,Royal Challengers Bengaluru v Mumbai Indians,18.5,24 needed off 14,Allah Ghazanfar,6 runs,99.2,21.6
 3697,bowl,2025-11-06,West Indies in New Zealand T20I Series 2025,West Indies v New Zealand,20.7,5 needed off 1,Matthew Forde,1 run,100.0,21.5
-2399,bowl,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,20.4,7 needed off 3,Faheem Ashraf,dot ball,99.9,21.5
 8101,bat,2024-04-04,IPL 2024,Punjab Kings v Gujarat Titans,19.2,24 needed off 11,Mohit Sharma,6 runs,99.2,21.4
 22920,bowl,2025-11-09,West Indies in New Zealand T20I Series 2025,West Indies v New Zealand,19.6,12 needed off 7,Shamar Springer,WICKET (Caught),99.7,21.4
 7322,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,20.6,5 needed off 2,Ravindra Jadeja,1 run,100.0,21.4
-2399,bowl,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,20.5,7 needed off 2,Faheem Ashraf,WICKET (Caught),100.0,21.4
 6806,bowl,2026-04-04,IPL 2026,Gujarat Titans v Rajasthan Royals,20.5,7 needed off 3,Rashid Khan,dot ball,99.9,21.2
 6806,bowl,2026-04-04,IPL 2026,Gujarat Titans v Rajasthan Royals,20.6,7 needed off 2,Rashid Khan,WICKET (Caught),100.0,21.2
 4373,bowl,2022-09-01,Mens Twenty20 Asia Cup 2022,Sri Lanka v Bangladesh,15.3,53 needed off 34,Kusal Mendis,WICKET (Caught),94.7,21.2
@@ -147,19 +135,16 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4101,bowl,2023-08-17,New Zealand in United Arab Emirates T20I Series 2023,United Arab Emirates v New Zealand,7.6,94 needed off 79,Asif Khan,WICKET (Caught),90.5,20.5
 3297,bat,2024-04-13,IPL 2024,Rajasthan Royals v Punjab Kings,18.6,26 needed off 13,Harshal Patel,6 runs,99.3,20.3
 8101,bat,2026-05-11,IPL 2026,Delhi Capitals v Punjab Kings,19.4,12 needed off 9,Yash Thakur,6 runs,97.7,20.3
-7690,bowl,2025-09-25,Asia Cup 2025,Bangladesh v Pakistan,12.4,73 needed off 51,Nurul Hasan,WICKET (Caught),96.3,20.3
 4812,bat,2022-08-09,Afghanistan in Ireland T20I Series 2022,Ireland v Afghanistan,19.2,22 needed off 11,FazalHaq Farooqi,6 runs,99.2,20.2
 8746,bowl,2025-05-07,IPL 2025,Chennai Super Kings v Kolkata Knight Riders,19.7,8 needed off 7,Noor Ahmad,WICKET (Caught),98.8,20.2
 3653,bowl,2025-04-19,IPL 2025,Rajasthan Royals v Lucknow Super Giants,20.3,6 needed off 4,Shimron Hetmyer,WICKET (Caught),99.6,20.1
 7808,bowl,2025-04-15,IPL 2025,Kolkata Knight Riders v Punjab Kings,13.5,33 needed off 44,Harshit Rana,WICKET (Bowled),93.2,20.0
-2490,bowl,2025-09-25,Asia Cup 2025,Bangladesh v Pakistan,8.6,92 needed off 73,Mahedi Hasan,WICKET (Caught),92.1,20.0
 29888,bowl,2025-09-26,Asia Cup 2025,Sri Lanka v India,20.1,12 needed off 6,Pathum Nissanka,WICKET (Caught),99.9,20.0
 8661,bowl,2024-02-17,Afghanistan in Sri Lanka T20I Series 2024,Afghanistan v Sri Lanka,19.6,11 needed off 7,Naveen ul Haq,WICKET (Bowled),99.7,19.9
 2633,bowl,2022-10-05,West Indies in Australia T20I Series 2022,Australia v West Indies,8.5,88 needed off 74,Tim David,WICKET (Caught),90.7,19.9
 7897,bat,2023-05-03,IPL 2023,Mumbai Indians v Punjab Kings,17.4,37 needed off 21,Arshdeep Singh,6 runs,97.9,19.9
 6256,bowl,2024-11-10,India in South Africa T20I Series 2024,South Africa v India,13.2,59 needed off 47,David Miller,WICKET (Bowled),95.1,19.9
 4265,bowl,2022-05-17,IPL 2022,Mumbai Indians v Sunrisers Hyderabad,18.8,19 needed off 13,Tim David,WICKET (RunOut),98.4,19.8
-3954,bat,2024-05-10,Pakistan in Ireland T20I series 2024,Ireland v Pakistan,17.5,37 needed off 20,Abbas Afridi,6 runs,98.8,19.7
 2876,bowl,2023-01-03,Sri Lanka in India T20I Series 2023,Sri Lanka v India,20.7,4 needed off 1,Chamika Karunaratne,WICKET (RunOut),100.0,19.6
 2984,bowl,2024-01-14,Zimbabwe in Sri Lanka T20I Series 2024,Sri Lanka v Zimbabwe,14.4,61 needed off 39,Charith Asalanka,WICKET (Caught),94.6,19.6
 19316,bowl,2023-05-23,IPL 2023,Gujarat Titans v Chennai Super Kings,6.5,132 needed off 86,Hardik Pandya,WICKET (Caught),93.5,19.6
@@ -169,9 +154,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 3653,bowl,2022-04-04,IPL 2022,Sunrisers Hyderabad v Lucknow Super Giants,18.4,27 needed off 15,Abdul Samad,WICKET (Caught),98.8,19.4
 4708,bat,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,20.5,10 needed off 2,Yash Dayal,6 runs,99.9,19.3
 2984,bat,2023-04-30,IPL 2023,Punjab Kings v Chennai Super Kings,19.6,15 needed off 8,Tushar Deshpande,4 runs,99.7,19.3
-2490,bowl,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Afghanistan v Pakistan,6.5,113 needed off 86,Darwish Rasooli,WICKET (LBW),95.6,19.2
 3330,bat,2022-09-25,Australia in India T20I Series 2022,India v Australia,19.1,21 needed off 12,Josh Hazlewood,6 runs,98.2,19.2
-39657,bowl,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,19.2,16 needed off 11,Mohammad Nawaz,WICKET (Caught),97.8,19.2
 4900,bowl,2025-01-02,Sri Lanka in New Zealand T20I Series 2024/25,New Zealand v Sri Lanka,16.1,51 needed off 30,Mitchell Hay,WICKET (Bowled),98.0,19.1
 830,bowl,2025-04-24,IPL 2025,Rajasthan Royals v Royal Challengers Bengaluru,19.3,17 needed off 10,Dhruv Jurel,WICKET (Caught),99.0,19.1
 2681,bowl,2022-09-01,Mens Twenty20 Asia Cup 2022,Sri Lanka v Bangladesh,16.3,45 needed off 28,Wanindu Hasaranga,WICKET (Caught),98.3,19.1
@@ -185,22 +168,17 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 403,bowl,2024-03-24,IPL 2024,Mumbai Indians v Gujarat Titans,20.3,9 needed off 4,Hardik Pandya,WICKET (Caught),99.9,18.9
 7967,bowl,2022-06-14,Afghanistan in Zimbabwe T20I Series 2022,Zimbabwe v Afghanistan,11.4,70 needed off 58,Clive Madande,WICKET (Caught),93.2,18.9
 37052,bat,2026-10-22,India in New Zealand T20I Series 2026,India v New Zealand,20.1,8 needed off 6,Matt Henry,4 runs,98.8,18.8
-6355,bowl,2024-04-27,New Zealand in Pakistan T20I Series 2024,New Zealand v Pakistan,15.2,54 needed off 35,Jimmy Neesham,WICKET (Caught),96.2,18.8
-7690,bowl,2025-09-17,Asia Cup 2025,United Arab Emirates v Pakistan,6.3,110 needed off 88,Muhammad Zohaib,WICKET (Bowled),91.9,18.7
 8647,bat,2024-10-20,Mens T20 Emerging Teams Asia Cup 2024,Afghanistan A v Bangladesh A,20.1,6 needed off 6,Abu Haider,6 runs,99.2,18.7
+7897,bat,2024-03-24,IPL 2024,Mumbai Indians v Gujarat Titans,19.1,27 needed off 12,Spencer Johnson,6 runs,99.6,18.7
 8746,bowl,2023-05-04,IPL 2023,Sunrisers Hyderabad v Kolkata Knight Riders,19.2,20 needed off 12,Marco Jansen,WICKET (Caught),99.0,18.6
 7503,bowl,2024-11-10,India in South Africa T20I Series 2024,South Africa v India,16.4,39 needed off 27,Andile Simelane,WICKET (Bowled),97.9,18.5
 5041,bowl,2023-12-03,Australia in India T20I Series 2023,Australia v India,17.3,32 needed off 22,Matthew Short,WICKET (Caught),97.0,18.5
 6423,bat,2023-05-19,IPL 2023,Rajasthan Royals v Punjab Kings,18.2,32 needed off 18,Kagiso Rabada,6 runs,98.0,18.4
 6464,bowl,2023-12-03,Australia in India T20I Series 2023,Australia v India,20.1,10 needed off 6,Matthew Wade,dot ball,99.8,18.4
-2490,bat,2022-10-14,New Zealand T20I Tri Series 2022/23,Pakistan v New Zealand,17.6,29 needed off 19,Blair Tickner,6 runs,99.4,18.4
-1107,bowl,2025-09-02,United Arab Emirates T20I Tri-Series 2025,Pakistan v Afghanistan,8.4,108 needed off 75,Fakhar Zaman,WICKET (Caught),90.3,18.4
 2876,bat,2023-04-20,IPL 2023,Delhi Capitals v Kolkata Knight Riders,20.2,5 needed off 5,Kulwant Khejroliya,"wide / no-ball, 3",98.2,18.3
 8661,bowl,2023-04-30,IPL 2023,Punjab Kings v Chennai Super Kings,18.1,31 needed off 18,Sam Curran,WICKET (Bowled),97.6,18.3
 4986,bat,2023-12-13,England in West Indies T20I Series 2023,West Indies v England,16.5,43 needed off 26,Liam Livingstone,6 runs,98.9,18.3
 6256,bowl,2025-01-31,England in India T20I Series 2025,England v India,15.5,49 needed off 32,Brydon Carse,WICKET (Caught),96.2,18.3
-2490,bat,2025-11-17,Pakistan T20I Tri-Series 2025,Pakistan v Zimbabwe,17.5,30 needed off 20,Brad Evans,6 runs,97.4,18.3
-39657,bowl,2024-10-25,Mens T20 Emerging Teams Asia Cup 2024,Pakistan A v Sri Lanka A,6.6,45/2 batting first,Qasim Akram,WICKET (Caught),94.4,18.3
 6272,bat,2026-05-14,IPL 2026,Mumbai Indians v Punjab Kings,19.1,28 needed off 12,Arshdeep Singh,6 runs,99.4,18.3
 4874,bowl,2023-12-09,Ireland in Zimbabwe T20I Series 2023/24,Ireland v Zimbabwe,17.1,37 needed off 24,Harry Tector,WICKET (Bowled),96.8,18.2
 2681,bowl,2025-09-16,Asia Cup 2025,Afghanistan v Bangladesh,16.4,46 needed off 27,Azmatullah Omarzai,WICKET (Caught),98.8,18.1
@@ -210,7 +188,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 2261,bowl,2023-04-10,IPL 2023,Lucknow Super Giants v Royal Challengers Bengaluru,20.2,4 needed off 5,Mark Wood,WICKET (Bowled),97.8,17.9
 4692,bowl,2026-10-22,India in New Zealand T20I Series 2026,India v New Zealand,15.4,59 needed off 34,Axar Patel,WICKET (Caught),96.8,17.9
 1318,bowl,2024-05-03,IPL 2024,Mumbai Indians v Kolkata Knight Riders,16.3,50 needed off 28,Suryakumar Yadav,WICKET (Caught),98.8,17.8
-6355,bowl,2025-09-28,Asia Cup 2025,India v Pakistan,3.3,137 needed off 106,Suryakumar Yadav,WICKET (Caught),92.3,17.8
 2436,bat,2025-09-15,Asia Cup 2025,Sri Lanka v Hong Kong,18.3,22 needed off 16,Yasim Murtaza,"wide / no-ball, 2",99.4,17.8
 4722,bowl,2022-05-10,IPL 2022,Lucknow Super Giants v Gujarat Titans,12.3,81 needed off 53,Deepak Hooda,WICKET (RunOut),97.1,17.8
 4986,bat,2023-12-13,England in West Indies T20I Series 2023,West Indies v England,16.6,37 needed off 25,Liam Livingstone,6 runs,98.0,17.8
@@ -238,13 +215,9 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 796,bat,2023-12-03,Australia in India T20I Series 2023,Australia v India,19.3,15 needed off 10,Mukesh Kumar,4 runs,99.5,17.4
 4986,bat,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,19.6,19 needed off 7,Patrick Cummins,6 runs,99.7,17.3
 2639,bowl,2024-04-27,IPL 2024,Rajasthan Royals v Lucknow Super Giants,7.1,137 needed off 84,Yashasvi Jaiswal,WICKET (Caught),91.3,17.3
-2485,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,15.5,56 needed off 32,Adil Rashid,6 runs,97.3,17.2
 20702,bat,2026-04-18,IPL 2026,Delhi Capitals v Royal Challengers Bengaluru,18.4,34 needed off 15,Bhuvneshwar Kumar,6 runs,99.2,17.2
-7364,bowl,2025-09-25,Asia Cup 2025,Bangladesh v Pakistan,6.1,107 needed off 90,Mohammad Saif Hassan,WICKET (Caught),90.7,17.2
 1612,bowl,2022-04-26,IPL 2022,Royal Challengers Bengaluru v Rajasthan Royals,13.4,73 needed off 45,Shahbaz Ahmed,WICKET (RunOut),97.2,17.2
 3125,bat,2022-04-04,IPL 2022,Sunrisers Hyderabad v Lucknow Super Giants,18.1,33 needed off 18,Avesh Khan,6 runs,97.4,17.2
-1596,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,20.4,14 needed off 4,Aamer Jamal,6 runs,99.7,17.1
-2485,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,17.5,31 needed off 20,David Willey,6 runs,98.1,17.1
 6288,bat,2023-05-21,IPL 2023,Gujarat Titans v Royal Challengers Bengaluru,19.3,17 needed off 11,Harshal Patel,6 runs,98.6,17.1
 2687,bowl,2025-11-05,West Indies in New Zealand T20I Series 2025,New Zealand v West Indies,10.5,95 needed off 63,Mark Chapman,WICKET (Caught),90.6,17.1
 3275,bowl,2022-04-23,IPL 2022,Kolkata Knight Riders v Gujarat Titans,20.2,12 needed off 5,Andre Russell,WICKET (Caught),99.8,17.1
@@ -255,7 +228,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 3653,bowl,2024-04-10,IPL 2024,Gujarat Titans v Rajasthan Royals,20.4,5 needed off 3,Rashid Khan,1 run,99.9,17.0
 2876,bowl,2026-04-25,IPL 2026,Punjab Kings v Delhi Capitals,7.5,139 needed off 80,Priyansh Arya,WICKET (Caught),92.9,17.0
 781,bowl,2025-04-29,IPL 2025,Delhi Capitals v Kolkata Knight Riders,14.2,69 needed off 41,Axar Patel,WICKET (Caught),94.2,17.0
-2490,bowl,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Afghanistan v Pakistan,6.6,113 needed off 85,Azmatullah Omarzai,WICKET (Caught),96.2,16.8
 19316,bowl,2024-02-17,Afghanistan in Sri Lanka T20I Series 2024,Afghanistan v Sri Lanka,18.1,24 needed off 18,Qais Ahmad,WICKET (Caught),97.8,16.8
 2756,bat,2024-04-26,IPL 2024,Punjab Kings v Kolkata Knight Riders,17.6,40 needed off 19,Dushmantha Chameera,6 runs,99.3,16.8
 3297,bat,2025-04-19,IPL 2025,Rajasthan Royals v Lucknow Super Giants,19.6,13 needed off 7,Prince Yadav,4 runs,99.3,16.8
@@ -265,10 +237,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4641,bowl,2025-08-16,South Africa in Australia T20I Series 2025,Australia v South Africa,20.3,4 needed off 4,Glenn Maxwell,dot ball,99.7,16.8
 3644,bowl,2022-05-16,IPL 2022,Punjab Kings v Delhi Capitals,10.3,93 needed off 64,Harpreet Brar,WICKET (Bowled),97.0,16.8
 7260,bat,2025-04-16,IPL 2025,Rajasthan Royals v Delhi Capitals,17.3,42 needed off 22,Mohit Sharma,6 runs,98.6,16.8
-6355,bowl,2024-05-10,Pakistan in Ireland T20I series 2024,Ireland v Pakistan,19.5,16 needed off 9,Andrew Balbirnie,WICKET (Bowled),99.3,16.8
 5041,bowl,2024-01-17,Afghanistan in India T20I Series 2024,Afghanistan v India,20.7,5 needed off 2,Gulbadin Naib,2 runs,100.0,16.7
-3330,bat,2022-08-28,Mens Twenty20 Asia Cup 2022,India v Pakistan,19.6,11 needed off 7,Haris Rauf,4 runs,99.0,16.7
-3024,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,19.4,14 needed off 9,Luke Wood,4 runs,99.4,16.7
 1318,bowl,2024-04-21,IPL 2024,Royal Challengers Bengaluru v Kolkata Knight Riders,12.4,85 needed off 51,Rajat Patidar,WICKET (Caught),93.8,16.7
 2933,bowl,2025-04-13,IPL 2025,Delhi Capitals v Mumbai Indians,19.5,14 needed off 8,Kuldeep Yadav,WICKET (RunOut),99.7,16.7
 3697,bowl,2023-08-19,New Zealand in United Arab Emirates T20I Series 2023,United Arab Emirates v New Zealand,6.6,103 needed off 86,Vriitya Aravind,WICKET (Bowled),91.7,16.6
@@ -278,7 +247,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 3647,bat,2026-04-25,IPL 2026,Punjab Kings v Delhi Capitals,17.3,38 needed off 22,T Natarajan,6 runs,98.2,16.6
 3672,bat,2022-02-20,Sri Lanka in Australia T20I Series 2022,Sri Lanka v Australia,19.6,15 needed off 8,Jhye Richardson,4 runs,99.5,16.5
 1758,bowl,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,19.1,20 needed off 12,Dhruv Jurel,WICKET (Caught),98.7,16.5
-7690,bowl,2025-08-02,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,14.6,64 needed off 38,Roston Chase,WICKET (Caught),96.4,16.5
 1566,bowl,2023-04-16,IPL 2023,Rajasthan Royals v Gujarat Titans,19.2,17 needed off 11,Dhruv Jurel,WICKET (Caught),98.7,16.5
 2261,bowl,2023-04-10,IPL 2023,Lucknow Super Giants v Royal Challengers Bengaluru,20.5,1 needed off 2,Jaydev Unadkat,WICKET (Caught),98.9,16.5
 3647,bat,2026-04-25,IPL 2026,Punjab Kings v Delhi Capitals,16.6,45 needed off 26,Kuldeep Yadav,6 runs,98.1,16.4
@@ -287,11 +255,8 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 20702,bat,2025-05-24,IPL 2025,Delhi Capitals v Punjab Kings,19.6,12 needed off 7,Arshdeep Singh,4 runs,99.0,16.4
 3644,bowl,2023-04-24,IPL 2023,Sunrisers Hyderabad v Delhi Capitals,14.3,66 needed off 40,Abhishek Sharma,WICKET (Caught),91.4,16.3
 6450,bowl,2025-11-02,Afghanistan in Zimbabwe T20I Series 2025,Zimbabwe v Afghanistan,16.4,49 needed off 27,Ryan Burl,WICKET (Bowled),98.4,16.3
-3330,bat,2022-08-28,Mens Twenty20 Asia Cup 2022,India v Pakistan,19.4,15 needed off 9,Haris Rauf,4 runs,99.1,16.3
 829,bowl,2025-04-16,IPL 2025,Rajasthan Royals v Delhi Capitals,20.5,3 needed off 2,Shimron Hetmyer,1 run,99.9,16.3
-6512,bowl,2022-10-14,New Zealand T20I Tri Series 2022/23,Pakistan v New Zealand,5.2,135 needed off 95,Babar Azam,WICKET (Caught),94.7,16.3
 6287,bowl,2023-05-20,IPL 2023,Kolkata Knight Riders v Lucknow Super Giants,14.4,69 needed off 39,Rahmanullah Gurbaz,WICKET (Caught),95.8,16.3
-2490,bowl,2022-08-28,Mens Twenty20 Asia Cup 2022,India v Pakistan,20.3,6 needed off 4,Hardik Pandya,dot ball,99.7,16.2
 6523,bowl,2025-09-03,Sri Lanka in Zimbabwe T20I Series 2025,Sri Lanka v Zimbabwe,16.3,51 needed off 28,Nuwanidu Fernando,WICKET (Caught),98.4,16.2
 6423,bat,2023-04-19,IPL 2023,Rajasthan Royals v Lucknow Super Giants,19.4,26 needed off 9,Naveen ul Haq,6 runs,99.7,16.2
 4369,bat,2026-10-09,West Indies in India T20I Series 2026,West Indies v India,17.2,45 needed off 23,Kuldeep Yadav,6 runs,98.9,16.1
@@ -300,54 +265,44 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 2417,bowl,2026-05-18,IPL 2026,Sunrisers Hyderabad v Chennai Super Kings,8.4,125 needed off 75,Abhishek Sharma,WICKET (Caught),94.6,16.1
 6460,bat,2022-03-31,IPL 2022,Lucknow Super Giants v Chennai Super Kings,20.3,7 needed off 6,Mukesh Choudhary,6 runs,98.4,16.1
 3174,bowl,2024-12-28,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,19.2,20 needed off 11,Pathum Nissanka,WICKET (Caught),99.2,16.1
-1487,bowl,2024-01-14,Pakistan in New Zealand T20I series 2024,Pakistan v New Zealand,10.4,98 needed off 63,Fakhar Zaman,WICKET (Bowled),90.4,16.1
 6288,bat,2023-05-21,IPL 2023,Gujarat Titans v Royal Challengers Bengaluru,18.1,34 needed off 18,Mohammed Siraj,6 runs,98.7,16.1
 4641,bowl,2026-05-24,IPL 2026,Kolkata Knight Riders v Delhi Capitals,9.3,117 needed off 70,Manish Pandey,WICKET (Caught),93.6,16.1
 3647,bat,2025-06-01,IPL 2025,Punjab Kings v Mumbai Indians,19.3,16 needed off 11,Ashwani Kumar,6 runs,98.6,16.0
 4369,bat,2023-12-13,England in West Indies T20I Series 2023,West Indies v England,15.2,55 needed off 35,Rehan Ahmed,6 runs,94.7,16.0
 4986,bat,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,20.3,10 needed off 4,Bhuvneshwar Kumar,4 runs,99.9,16.0
-2490,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,18.2,35 needed off 17,Dushmantha Chameera,6 runs,99.2,16.0
 2639,bat,2024-04-23,IPL 2024,Lucknow Super Giants v Chennai Super Kings,20.2,11 needed off 5,Mustafizur Rahman,4 runs,99.8,16.0
 4409,bat,2024-03-23,IPL 2024,Punjab Kings v Delhi Capitals,18.2,27 needed off 17,Mitchell Marsh,6 runs,97.4,16.0
 2639,bowl,2026-05-03,IPL 2026,Gujarat Titans v Punjab Kings,20.4,4 needed off 4,Arshad Khan,dot ball,99.0,16.0
 2756,bat,2024-04-26,IPL 2024,Punjab Kings v Kolkata Knight Riders,17.4,46 needed off 21,Dushmantha Chameera,6 runs,99.1,15.9
 4106,bat,2025-01-02,Sri Lanka in New Zealand T20I Series 2024/25,New Zealand v Sri Lanka,15.5,57 needed off 32,Charith Asalanka,6 runs,96.9,15.9
 2411,bowl,2023-04-12,IPL 2023,Chennai Super Kings v Rajasthan Royals,20.6,7 needed off 3,Mahendra Singh Dhoni,1 run,99.9,15.9
-2485,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,19.2,19 needed off 11,Luke Wood,4 runs,99.6,15.9
 6423,bat,2024-04-13,IPL 2024,Rajasthan Royals v Punjab Kings,17.2,43 needed off 23,Arshdeep Singh,6 runs,97.5,15.9
 3125,bat,2023-05-13,IPL 2023,Lucknow Super Giants v Sunrisers Hyderabad,16.6,50 needed off 26,Abhishek Sharma,6 runs,98.4,15.8
 6676,bowl,2025-10-03,Afghanistan v Bangladesh T20I Series 2025,Bangladesh v Afghanistan,18.3,21 needed off 16,Mohammad Saifuddin,WICKET (Caught),97.6,15.8
 3916,bat,2023-04-30,IPL 2023,Punjab Kings v Chennai Super Kings,17.2,47 needed off 23,Ravindra Jadeja,6 runs,98.2,15.8
-4722,bowl,2022-09-07,Mens Twenty20 Asia Cup 2022,Pakistan v Afghanistan,17.2,33 needed off 23,Shadab Khan,WICKET (Caught),94.6,15.8
 2633,bowl,2022-01-30,England in West Indies T20I Series 2022,England v West Indies,11.1,94 needed off 60,Moeen Ali,WICKET (Caught),90.6,15.8
 37052,bat,2025-04-07,IPL 2025,Mumbai Indians v Royal Challengers Bengaluru,18.5,34 needed off 14,Bhuvneshwar Kumar,6 runs,99.5,15.7
 830,bowl,2025-06-03,IPL 2025,Punjab Kings v Royal Challengers Bengaluru,5.7,148 needed off 91,Priyansh Arya,WICKET (Caught),93.2,15.7
-5979,bowl,2025-09-28,Asia Cup 2025,India v Pakistan,13.2,70 needed off 47,Sanju Samson,WICKET (Caught),96.2,15.7
 1612,bowl,2022-04-18,IPL 2022,Kolkata Knight Riders v Rajasthan Royals,17.1,40 needed off 24,Venkatesh Iyer,WICKET (Stump),97.7,15.7
 2261,bowl,2023-04-23,IPL 2023,Rajasthan Royals v Royal Challengers Bengaluru,20.4,10 needed off 3,Ravichandran Ashwin,WICKET (Caught),99.9,15.7
 152,bat,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,17.5,41 needed off 20,Lungi Ngidi,6 runs,98.3,15.7
 3916,bat,2024-05-15,IPL 2024,Punjab Kings v Rajasthan Royals,15.2,56 needed off 35,Ravichandran Ashwin,6 runs,93.0,15.6
 2417,bowl,2023-04-29,IPL 2023,Delhi Capitals v Sunrisers Hyderabad,14.2,73 needed off 41,Mitchell Marsh,WICKET (Caught),94.8,15.6
 4219,bowl,2025-04-24,IPL 2025,Rajasthan Royals v Royal Challengers Bengaluru,14.4,72 needed off 40,Nitish Rana,WICKET (Caught),95.4,15.6
-2399,bowl,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,20.1,10 needed off 6,Salman Agha,dot ball,99.5,15.6
 4703,bat,2026-04-05,IPL 2026,Lucknow Super Giants v Sunrisers Hyderabad,20.1,9 needed off 6,Jaydev Unadkat,4 runs,99.2,15.6
-7240,bowl,2022-09-07,Mens Twenty20 Asia Cup 2022,Pakistan v Afghanistan,18.1,25 needed off 18,Mohammad Nawaz,WICKET (LBW),97.3,15.5
 4219,bowl,2023-05-20,IPL 2023,Kolkata Knight Riders v Lucknow Super Giants,10.6,95 needed off 61,Jason Roy,WICKET (Bowled),91.5,15.5
 2463,bat,2025-11-02,Afghanistan in Zimbabwe T20I Series 2025,Zimbabwe v Afghanistan,16.3,55 needed off 28,Mujeeb Ur Rahman,6 runs,98.7,15.5
 20702,bat,2026-05-01,IPL 2026,Delhi Capitals v Rajasthan Royals,18.5,24 needed off 15,Tushar Deshpande,6 runs,96.7,15.5
 4816,bowl,2024-05-07,IPL 2024,Rajasthan Royals v Delhi Capitals,17.4,42 needed off 21,Shubham Dubey,WICKET (Caught),98.5,15.5
 4409,bowl,2023-12-22,England in West Indies T20I Series 2023,West Indies v England,19.5,10 needed off 8,Andre Russell,WICKET (Caught),97.3,15.5
-2921,bat,2025-11-17,Pakistan T20I Tri-Series 2025,Pakistan v Zimbabwe,15.2,56 needed off 35,Graeme Cremer,6 runs,94.8,15.5
 4265,bowl,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,18.4,21 needed off 15,Shimron Hetmyer,WICKET (Caught),95.4,15.4
 4391,bat,2024-03-23,IPL 2024,Punjab Kings v Delhi Capitals,15.7,51 needed off 31,Mitchell Marsh,6 runs,93.8,15.4
 7920,bowl,2023-05-13,IPL 2023,Delhi Capitals v Punjab Kings,16.4,50 needed off 27,Aman Khan,WICKET (Caught),98.7,15.4
-3024,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,15.1,65 needed off 36,Adil Rashid,6 runs,97.1,15.3
 7322,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,20.5,6 needed off 3,Shivam Dube,1 run,99.9,15.3
 7503,bowl,2026-04-04,IPL 2026,Gujarat Titans v Rajasthan Royals,15.5,52 needed off 32,Rashid Khan,WICKET (RunOut),95.5,15.3
 4409,bowl,2024-04-13,IPL 2024,Rajasthan Royals v Punjab Kings,19.6,10 needed off 7,Keshav Maharaj,WICKET (Caught),98.6,15.3
 781,bowl,2024-04-21,IPL 2024,Royal Challengers Bengaluru v Kolkata Knight Riders,13.6,68 needed off 43,Mahipal Lomror,WICKET (Caught),95.2,15.3
 4219,bowl,2025-06-03,IPL 2025,Punjab Kings v Royal Challengers Bengaluru,9.3,119 needed off 70,Prabhsimran Singh,WICKET (Caught),97.1,15.3
-7364,bowl,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,19.6,15 needed off 7,Chris Woakes,WICKET (Caught),99.7,15.3
 6726,bowl,2023-08-03,India in West Indies T20I Series 2023,India v West Indies,20.4,7 needed off 3,Arshdeep Singh,dot ball,99.9,15.2
 2399,bowl,2026-06-15,Sri Lanka in West Indies T20I Series 2026,West Indies v Sri Lanka,17.9,36 needed off 19,Rovman Powell,WICKET (Caught),99.0,15.2
 32862,bowl,2024-10-27,Mens T20 Emerging Teams Asia Cup 2024,Sri Lanka A v Afghanistan A,3.3,7/1 batting first,Nuwanidu Fernando,WICKET (Stump),94.9,15.1
@@ -362,7 +317,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 781,bowl,2023-04-29,IPL 2023,Gujarat Titans v Kolkata Knight Riders,12.2,87 needed off 53,Shubman Gill,WICKET (Caught),90.0,15.0
 27964,bowl,2026-04-03,IPL 2026,Punjab Kings v Chennai Super Kings,12.5,83 needed off 50,Cooper Connolly,WICKET (Caught),92.3,15.0
 829,bowl,2025-04-16,IPL 2025,Rajasthan Royals v Delhi Capitals,20.6,2 needed off 1,Dhruv Jurel,WICKET (RunOut),100.0,15.0
-5979,bowl,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Afghanistan v Pakistan,5.5,114 needed off 93,Sediqullah Atal,WICKET (Caught),90.8,15.0
 20702,bat,2024-11-10,India in South Africa T20I Series 2024,South Africa v India,19.1,13 needed off 12,Arshdeep Singh,4 runs,98.2,15.0
 4391,bat,2023-04-30,IPL 2023,Punjab Kings v Chennai Super Kings,16.4,56 needed off 27,Tushar Deshpande,6 runs,98.8,15.0
 4722,bowl,2022-04-02,IPL 2022,Delhi Capitals v Gujarat Titans,16.7,38 needed off 25,Shardul Thakur,WICKET (LBW),99.1,14.9
@@ -401,12 +355,11 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 3644,bowl,2025-04-19,IPL 2025,Gujarat Titans v Delhi Capitals,8.3,130 needed off 76,Sai Sudharsan,WICKET (Caught),94.0,14.4
 830,bowl,2026-05-31,IPL 2026,Gujarat Titans v Royal Challengers Bengaluru,3.2,22/0 batting first,Shubman Gill,WICKET (Caught),91.5,14.4
 796,bat,2022-10-09,England in Australia T20I Series 2022,Australia v England,18.6,28 needed off 13,Sam Curran,6 runs,99.2,14.4
+3330,bat,2023-01-29,New Zealand in India T20I Series 2023,India v New Zealand,19.5,11 needed off 8,Lockie Ferguson,4 runs,97.5,14.4
 4246,bat,2025-04-16,IPL 2025,Rajasthan Royals v Delhi Capitals,16.2,56 needed off 29,Kuldeep Yadav,6 runs,98.1,14.4
-2921,bat,2024-04-25,New Zealand in Pakistan T20I Series 2024,Pakistan v New Zealand,16.1,57 needed off 30,Jacob Duffy,6 runs,98.5,14.4
 4703,bat,2026-04-05,IPL 2026,Lucknow Super Giants v Sunrisers Hyderabad,20.2,5 needed off 5,Jaydev Unadkat,4 runs,97.8,14.4
 4409,bowl,2023-05-19,IPL 2023,Rajasthan Royals v Punjab Kings,19.5,9 needed off 8,Shimron Hetmyer,WICKET (Caught),96.9,14.3
 781,bowl,2024-04-21,IPL 2024,Royal Challengers Bengaluru v Kolkata Knight Riders,13.3,72 needed off 46,Cameron Green,WICKET (Caught),93.0,14.3
-7690,bowl,2025-09-12,Asia Cup 2025,Oman v Pakistan,4.1,137 needed off 102,Aamir Kaleem,WICKET (LBW),95.0,14.3
 5041,bowl,2023-12-03,Australia in India T20I Series 2023,Australia v India,17.4,32 needed off 21,Ben Dwarshuis,WICKET (Bowled),98.3,14.3
 5379,bowl,2025-11-29,Ireland in Bangladesh T20I Series 2025,Bangladesh v Ireland,19.2,14 needed off 11,Nurul Hasan,WICKET (Bowled),96.6,14.3
 1107,bowl,2022-09-03,Mens Twenty20 Asia Cup 2022,Sri Lanka v Afghanistan,12.3,82 needed off 52,Charith Asalanka,WICKET (Bowled),91.2,14.3
@@ -420,15 +373,12 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 2463,bat,2024-05-10,Zimbabwe in Bangladesh T20I Series 2024,Zimbabwe v Bangladesh,13.5,64 needed off 44,Tanzim Sakib,6 runs,93.9,14.1
 2258,bat,2024-04-27,IPL 2024,Rajasthan Royals v Lucknow Super Giants,18.3,25 needed off 16,Mohsin Khan,6 runs,97.3,14.1
 4900,bowl,2022-05-04,IPL 2022,Chennai Super Kings v Royal Challengers Bengaluru,15.1,65 needed off 36,Devon Conway,WICKET (Caught),95.7,14.1
-39657,bowl,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,19.6,10 needed off 7,Faheem Ashraf,dot ball,99.1,14.1
 1612,bowl,2022-04-18,IPL 2022,Kolkata Knight Riders v Rajasthan Royals,13.6,70 needed off 43,Nitish Rana,WICKET (Caught),93.4,14.1
 3276,bowl,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,South Africa v West Indies,17.3,42 needed off 22,Rassie van der Dussen,WICKET (Caught),98.9,14.1
 29888,bowl,2025-05-04,IPL 2025,Rajasthan Royals v Kolkata Knight Riders,16.6,44 needed off 26,Shimron Hetmyer,WICKET (Caught),98.3,14.0
-7364,bowl,2022-10-14,New Zealand T20I Tri Series 2022/23,New Zealand v Pakistan,6.2,47/1 batting first,Devon Conway,WICKET (Bowled),91.2,14.0
 6651,bat,2023-07-14,Afghanistan in Bangladesh T20I Series 2023,Bangladesh v Afghanistan,17.3,33 needed off 22,FazalHaq Farooqi,6 runs,95.8,14.0
 5809,bowl,2024-05-17,IPL 2024,Mumbai Indians v Lucknow Super Giants,9.4,127 needed off 69,Dewald Brevis,WICKET (Caught),95.6,14.0
 278,bowl,2022-03-30,IPL 2022,Royal Challengers Bengaluru v Kolkata Knight Riders,18.3,22 needed off 17,Sherfane Rutherford,WICKET (Caught),97.0,14.0
-768,bat,2024-12-13,Pakistan in South Africa T20I Series 2024,South Africa v Pakistan,16.3,51 needed off 28,Haris Rauf,6 runs,97.5,14.0
 3330,bowl,2026-04-29,IPL 2026,Sunrisers Hyderabad v Mumbai Indians,10.4,111 needed off 63,Travis Head,WICKET (Caught),91.6,13.9
 4409,bat,2024-05-15,IPL 2024,Punjab Kings v Rajasthan Royals,19.2,14 needed off 11,Avesh Khan,6 runs,95.7,13.9
 19316,bowl,2023-04-17,IPL 2023,Royal Challengers Bengaluru v Chennai Super Kings,13.1,86 needed off 48,Glenn Maxwell,WICKET (Caught),94.4,13.9
@@ -438,6 +388,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 2984,bowl,2024-07-06,India in Zimbabwe T20I Series 2024,India v Zimbabwe,13.5,55 needed off 44,Ravi Bishnoi,WICKET (LBW),94.0,13.9
 27964,bowl,2026-04-11,IPL 2026,Delhi Capitals v Chennai Super Kings,6.2,152 needed off 89,Pathum Nissanka,WICKET (Caught),90.9,13.9
 152,bowl,2023-05-23,IPL 2023,Gujarat Titans v Chennai Super Kings,11.3,101 needed off 58,Dasun Shanaka,WICKET (Caught),95.9,13.8
+4722,bowl,2024-04-04,IPL 2024,Punjab Kings v Gujarat Titans,16.3,50 needed off 28,Jitesh Sharma,WICKET (Caught),98.6,13.8
 7325,bowl,2025-05-18,IPL 2025,Rajasthan Royals v Punjab Kings,14.2,76 needed off 41,Riyan Parag,WICKET (Bowled),94.9,13.8
 4391,bat,2024-11-15,England in West Indies T20I Series 2024,England v West Indies,12.4,70 needed off 51,Alzarri Joseph,6 runs,92.6,13.8
 5441,bowl,2024-05-24,Netherlands Tri-Nation T20I Series 2024,Netherlands v Ireland,19.6,11 needed off 7,Wesley Barresi,dot ball,98.9,13.8
@@ -453,6 +404,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 88,bat,2022-05-19,IPL 2022,Royal Challengers Bengaluru v Gujarat Titans,15.3,54 needed off 34,Rashid Khan,WICKET (Caught),96.6,13.7
 403,bowl,2022-09-20,Australia in India T20I Series 2022,Australia v India,12.3,87 needed off 52,Steven Smith,WICKET (Caught),93.0,13.7
 360,bowl,2022-05-17,IPL 2022,Mumbai Indians v Sunrisers Hyderabad,19.2,19 needed off 11,Sanjay Yadav,WICKET (Caught),99.5,13.7
+3330,bat,2024-03-24,IPL 2024,Mumbai Indians v Gujarat Titans,20.1,19 needed off 6,Umesh Yadav,6 runs,99.5,13.7
 7059,bat,2025-06-01,IPL 2025,Punjab Kings v Mumbai Indians,16.1,57 needed off 30,Ashwani Kumar,6 runs,98.2,13.7
 5441,bowl,2024-03-15,Afghanistan v Ireland T20I Series 2024,Afghanistan v Ireland,9.3,100 needed off 70,Ibrahim Zadran,WICKET (Caught),91.1,13.7
 4874,bowl,2025-09-03,Sri Lanka in Zimbabwe T20I Series 2025,Sri Lanka v Zimbabwe,13.3,73 needed off 46,Kusal Mendis,WICKET (Caught),92.4,13.7
@@ -461,14 +413,10 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4391,bat,2024-11-15,England in West Indies T20I Series 2024,England v West Indies,18.5,15 needed off 14,Alzarri Joseph,6 runs,92.4,13.6
 4816,bowl,2023-05-02,IPL 2023,Gujarat Titans v Delhi Capitals,18.1,37 needed off 18,Abhinav Manohar,WICKET (Caught),98.6,13.6
 3628,bowl,2022-04-08,IPL 2022,Gujarat Titans v Punjab Kings,19.6,20 needed off 8,Shubman Gill,WICKET (Caught),99.8,13.6
-7240,bowl,2022-09-07,Mens Twenty20 Asia Cup 2022,Pakistan v Afghanistan,18.6,21 needed off 13,Khushdil Shah,WICKET (Bowled),99.4,13.6
 781,bowl,2026-04-26,IPL 2026,Lucknow Super Giants v Kolkata Knight Riders,13.2,78 needed off 47,Rishabh Pant,WICKET (Caught),92.8,13.6
-768,bat,2024-12-13,Pakistan in South Africa T20I Series 2024,South Africa v Pakistan,16.4,45 needed off 27,Haris Rauf,6 runs,97.1,13.6
 7094,bowl,2024-05-19,Netherlands Tri-Nation T20I Series 2024,Netherlands v Ireland,13.1,70 needed off 48,Max ODowd,WICKET (Caught),95.7,13.6
 4101,bowl,2023-04-03,IPL 2023,Lucknow Super Giants v Chennai Super Kings,7.6,136 needed off 79,Deepak Hooda,WICKET (Caught),93.9,13.6
-2490,bat,2022-10-13,New Zealand T20I Tri Series 2022/23,Pakistan v Bangladesh,15.5,55 needed off 32,Shakib Al Hasan,6 runs,95.5,13.5
 4900,bowl,2022-04-16,IPL 2022,Delhi Capitals v Royal Challengers Bengaluru,12.3,96 needed off 52,David Warner,WICKET (LBW),97.0,13.5
-3024,bat,2024-12-10,Pakistan in South Africa T20I Series 2024,Pakistan v South Africa,17.7,43 needed off 20,Kwena Maphaka,6 runs,98.7,13.5
 7905,bowl,2024-12-18,Bangladesh in West Indies T20I Series 2024,West Indies v Bangladesh,9.3,88 needed off 70,Romario Shepherd,WICKET (Caught),93.0,13.5
 2320,bowl,2025-06-01,IPL 2025,Punjab Kings v Mumbai Indians,3.1,191 needed off 108,Prabhsimran Singh,WICKET (Caught),92.4,13.5
 6161,bowl,2023-05-19,IPL 2023,Rajasthan Royals v Punjab Kings,11.5,98 needed off 56,Sanju Samson,WICKET (Caught),93.2,13.5
@@ -477,7 +425,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4117,bat,2026-05-18,IPL 2026,Sunrisers Hyderabad v Chennai Super Kings,18.8,19 needed off 13,Mukesh Choudhary,6 runs,97.0,13.4
 6669,bowl,2023-05-16,IPL 2023,Mumbai Indians v Lucknow Super Giants,20.1,11 needed off 6,Cameron Green,dot ball,99.6,13.3
 305,bowl,2022-04-18,IPL 2022,Kolkata Knight Riders v Rajasthan Royals,14.4,69 needed off 39,Andre Russell,WICKET (Bowled),94.4,13.3
-6355,bowl,2025-08-02,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,20.4,6 needed off 3,Jason Holder,1 run,99.9,13.3
 39657,bowl,2026-04-18,IPL 2026,Chennai Super Kings v Sunrisers Hyderabad,16.4,47 needed off 27,Matthew Short,WICKET (Caught),98.5,13.3
 6423,bat,2023-05-19,IPL 2023,Rajasthan Royals v Punjab Kings,18.3,26 needed off 17,Kagiso Rabada,6 runs,97.1,13.3
 2633,bowl,2022-04-04,IPL 2022,Sunrisers Hyderabad v Lucknow Super Giants,20.1,16 needed off 6,Washington Sundar,WICKET (Caught),99.7,13.3
@@ -488,17 +435,14 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 2984,bowl,2025-09-03,Sri Lanka in Zimbabwe T20I Series 2025,Sri Lanka v Zimbabwe,14.1,70 needed off 42,Charith Asalanka,WICKET (Caught),94.5,13.2
 7270,bowl,2023-04-11,IPL 2023,Mumbai Indians v Delhi Capitals,20.3,4 needed off 4,Tim David,dot ball,97.4,13.2
 1699,bat,2023-04-22,IPL 2023,Mumbai Indians v Punjab Kings,17.6,46 needed off 19,Sam Curran,6 runs,99.1,13.1
-39657,bowl,2024-10-25,Mens T20 Emerging Teams Asia Cup 2024,Pakistan A v Sri Lanka A,6.2,43/1 batting first,Mohammad Haris,WICKET (Bowled),92.2,13.1
 6651,bat,2024-05-05,Zimbabwe in Bangladesh T20I Series 2024,Bangladesh v Zimbabwe,17.3,32 needed off 22,Luke Jongwe,6 runs,95.9,13.1
 7967,bowl,2026-04-03,IPL 2026,Punjab Kings v Chennai Super Kings,9.5,116 needed off 68,Prabhsimran Singh,WICKET (RunOut),95.1,13.1
 4823,bat,2025-11-02,India in Australia T20I Series 2025,India v Australia,12.3,76 needed off 52,Nathan Ellis,6 runs,93.6,13.1
 6676,bowl,2025-05-18,IPL 2025,Rajasthan Royals v Punjab Kings,11.2,106 needed off 59,Sanju Samson,WICKET (Caught),92.6,13.1
-7364,bowl,2022-09-25,England in Pakistan T20I Series 2022,England v Pakistan,17.3,37 needed off 22,David Willey,WICKET (Bowled),98.8,13.1
 6726,bowl,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,South Africa v West Indies,12.6,84 needed off 49,Ryan Rickelton,WICKET (Caught),94.5,13.0
 152,bowl,2026-05-01,IPL 2026,Delhi Capitals v Rajasthan Royals,10.3,116 needed off 64,Pathum Nissanka,WICKET (LBW),95.9,13.0
-4106,bat,2024-01-19,Pakistan in New Zealand T20I series 2024,New Zealand v Pakistan,16.4,41 needed off 27,Shaheen Afridi,6 runs,93.1,13.0
-4853,bat,2024-01-19,Pakistan in New Zealand T20I series 2024,New Zealand v Pakistan,17.2,33 needed off 23,Haris Rauf,6 runs,92.6,13.0
 2639,bat,2023-05-13,IPL 2023,Lucknow Super Giants v Sunrisers Hyderabad,16.3,62 needed off 29,Abhishek Sharma,6 runs,98.3,13.0
+4373,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,11.5,76 needed off 56,Rizwan CP,WICKET (Caught),92.8,13.0
 2258,bat,2024-04-27,IPL 2024,Rajasthan Royals v Lucknow Super Giants,16.6,43 needed off 25,Ravi Bishnoi,6 runs,97.6,13.0
 7260,bat,2025-04-24,IPL 2025,Rajasthan Royals v Royal Challengers Bengaluru,18.1,40 needed off 18,Bhuvneshwar Kumar,6 runs,99.2,13.0
 4391,bat,2022-03-27,IPL 2022,Punjab Kings v Royal Challengers Bengaluru,13.3,82 needed off 46,Wanindu Hasaranga,6 runs,95.3,12.9
@@ -508,7 +452,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 2847,bowl,2025-04-08,IPL 2025,Kolkata Knight Riders v Lucknow Super Giants,13.11,77 needed off 43,Ajinkya Rahane,WICKET (Caught),95.1,12.9
 5939,bat,2024-09-07,Australia in Scotland T20I Series 2024,Australia v Scotland,11.4,63 needed off 57,CB Sole,6 runs,92.0,12.9
 20702,bat,2024-03-28,IPL 2024,Delhi Capitals v Rajasthan Royals,19.1,32 needed off 12,Sandeep Sharma,6 runs,99.2,12.9
-768,bat,2024-12-13,Pakistan in South Africa T20I Series 2024,South Africa v Pakistan,15.3,64 needed off 34,Jahandad Khan,6 runs,96.7,12.9
 1566,bowl,2022-04-14,IPL 2022,Rajasthan Royals v Gujarat Titans,13.5,77 needed off 44,Shimron Hetmyer,WICKET (Caught),95.8,12.8
 3298,bowl,2026-05-17,IPL 2026,Delhi Capitals v Rajasthan Royals,13.3,72 needed off 46,Sahil Parakh,WICKET (Caught),90.9,12.8
 2411,bowl,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,20.4,7 needed off 3,Abdul Samad,1 run,99.9,12.8
@@ -516,7 +459,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 38855,bowl,2022-08-30,Mens Twenty20 Asia Cup 2022,Afghanistan v Bangladesh,13.6,66 needed off 43,Mohammad Nabi,WICKET (LBW),90.8,12.7
 3174,bowl,2026-04-03,IPL 2026,Punjab Kings v Chennai Super Kings,18.1,24 needed off 18,Nehal Wadhera,WICKET (Caught),93.7,12.7
 37052,bat,2026-10-22,India in New Zealand T20I Series 2026,India v New Zealand,18.6,20 needed off 13,Nathan Smith,4 runs,98.5,12.7
-2921,bat,2025-11-17,Pakistan T20I Tri-Series 2025,Pakistan v Zimbabwe,14.5,65 needed off 38,Tinotenda Maposa,6 runs,96.4,12.7
 22920,bowl,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,16.1,60 needed off 30,Kusal Perera,WICKET (Bowled),98.2,12.7
 7808,bowl,2025-04-15,IPL 2025,Kolkata Knight Riders v Punjab Kings,16.1,17 needed off 30,Andre Russell,WICKET (Bowled),99.0,12.7
 953,bat,2025-04-10,IPL 2025,Delhi Capitals v Royal Challengers Bengaluru,15.6,49 needed off 31,Josh Hazlewood,6 runs,93.0,12.7
@@ -532,14 +474,15 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4219,bat,2025-04-27,IPL 2025,Royal Challengers Bengaluru v Delhi Capitals,14.3,67 needed off 40,Kuldeep Yadav,6 runs,95.5,12.5
 2417,bowl,2026-04-14,IPL 2026,Kolkata Knight Riders v Chennai Super Kings,10.3,114 needed off 64,Angkrish Raghuvanshi,WICKET (Caught),91.9,12.5
 4101,bowl,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,17.5,44 needed off 20,Josh Inglis,WICKET (Caught),99.0,12.5
+4755,bat,2025-05-07,IPL 2025,Chennai Super Kings v Kolkata Knight Riders,17.5,29 needed off 21,Harshit Rana,6 runs,96.6,12.5
 7325,bowl,2025-05-24,IPL 2025,Delhi Capitals v Punjab Kings,7.4,142 needed off 81,Faf du Plessis,WICKET (Caught),93.2,12.5
 7472,bowl,2024-05-24,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,12.1,97 needed off 54,Riyan Parag,WICKET (Caught),96.0,12.5
 6423,bat,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,14.6,66 needed off 38,T Natarajan,6 runs,95.4,12.5
 4117,bat,2023-05-03,IPL 2023,Mumbai Indians v Punjab Kings,15.5,59 needed off 33,Arshdeep Singh,6 runs,95.6,12.5
-2258,bat,2025-09-28,Asia Cup 2025,India v Pakistan,12.5,77 needed off 50,Saim Ayub,6 runs,96.2,12.5
 3916,bat,2022-05-16,IPL 2022,Punjab Kings v Delhi Capitals,7.6,105 needed off 79,Axar Patel,4 runs,97.2,12.5
 6669,bowl,2023-05-16,IPL 2023,Mumbai Indians v Lucknow Super Giants,20.3,10 needed off 4,Tim David,1 run,99.9,12.4
 6523,bowl,2026-07-15,Bangladesh in Zimbabwe T20I Series 2026,Bangladesh v Zimbabwe,17.4,41 needed off 21,Mahedi Hasan,WICKET (Caught),99.0,12.4
+2399,bowl,2022-03-28,IPL 2022,Gujarat Titans v Lucknow Super Giants,19.6,11 needed off 7,Rahul Tewatia,dot ball,99.5,12.4
 24017,bat,2024-05-12,Zimbabwe in Bangladesh T20I Series 2024,Zimbabwe v Bangladesh,15.1,55 needed off 36,Soumya Sarkar,6 runs,93.6,12.4
 5809,bowl,2023-05-16,IPL 2023,Mumbai Indians v Lucknow Super Giants,19.5,17 needed off 9,Tim David,dot ball,99.3,12.4
 4489,bowl,2026-04-08,IPL 2026,Delhi Capitals v Gujarat Titans,9.1,135 needed off 72,Pathum Nissanka,WICKET (Caught),96.1,12.4
@@ -583,9 +526,8 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 953,bat,2025-04-10,IPL 2025,Delhi Capitals v Royal Challengers Bengaluru,13.3,79 needed off 46,Liam Livingstone,6 runs,93.7,11.9
 1699,bat,2023-11-23,Australia in India T20I Series 2023,India v Australia,17.5,32 needed off 22,Nathan Ellis,6 runs,94.4,11.9
 6651,bat,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,13.3,71 needed off 46,Dunith Wellalage,6 runs,95.8,11.9
-7690,bowl,2025-09-25,Asia Cup 2025,Bangladesh v Pakistan,14.5,63 needed off 38,Jaker Ali Anik,WICKET (Caught),96.7,11.9
-152,bat,2022-08-28,Mens Twenty20 Asia Cup 2022,India v Pakistan,18.2,31 needed off 18,Naseem Shah,4 runs,98.4,11.9
 7344,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,20.4,8 needed off 3,Junaid Siddique,WICKET (Caught),99.7,11.9
+2399,bowl,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe v Sri Lanka,18.4,31 needed off 15,Ryan Burl,WICKET (Caught),99.3,11.9
 1566,bowl,2023-04-22,IPL 2023,Lucknow Super Giants v Gujarat Titans,19.5,13 needed off 8,Lokesh Rahul,dot ball,98.1,11.9
 829,bowl,2025-04-16,IPL 2025,Rajasthan Royals v Delhi Capitals,18.4,28 needed off 15,Nitish Rana,WICKET (LBW),99.2,11.9
 4369,bat,2026-10-09,West Indies in India T20I Series 2026,West Indies v India,17.1,51 needed off 24,Kuldeep Yadav,6 runs,98.8,11.9
@@ -593,7 +535,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 6161,bowl,2023-05-08,IPL 2023,Kolkata Knight Riders v Punjab Kings,16.2,56 needed off 29,Nitish Rana,WICKET (Caught),97.9,11.8
 4117,bat,2026-05-18,IPL 2026,Sunrisers Hyderabad v Chennai Super Kings,18.7,23 needed off 14,Mukesh Choudhary,4 runs,98.3,11.8
 278,bowl,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,20.6,6 needed off 2,Tim David,2 runs,100.0,11.8
-2526,bowl,2022-10-14,New Zealand T20I Tri Series 2022/23,Pakistan v New Zealand,12.3,90 needed off 52,Mohammad Rizwan,WICKET (LBW),97.2,11.8
 4260,bat,2023-05-04,IPL 2023,Sunrisers Hyderabad v Kolkata Knight Riders,11.5,89 needed off 56,Anukul Roy,6 runs,91.7,11.8
 818,bat,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,16.6,54 needed off 26,Ish Sodhi,6 runs,98.5,11.8
 6460,bat,2025-04-12,IPL 2025,Lucknow Super Giants v Gujarat Titans,20.2,5 needed off 5,Sai Kishore,4 runs,97.5,11.8
@@ -617,18 +558,16 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 6161,bowl,2023-05-08,IPL 2023,Kolkata Knight Riders v Punjab Kings,14.4,65 needed off 39,Venkatesh Iyer,WICKET (Caught),92.3,11.4
 47,bat,2024-03-25,IPL 2024,Royal Challengers Bengaluru v Punjab Kings,12.1,89 needed off 54,Harshal Patel,6 runs,90.9,11.4
 7901,bat,2024-10-18,Mens T20 Emerging Teams Asia Cup 2024,Bangladesh A v Hong Kong,8.1,102 needed off 78,Ateeq Iqbal,6 runs,91.3,11.4
-3374,bat,2024-04-21,New Zealand in Pakistan T20I Series 2024,New Zealand v Pakistan,14.2,70 needed off 41,Shadab Khan,6 runs,94.3,11.3
 5039,bat,2026-05-13,IPL 2026,Royal Challengers Bengaluru v Kolkata Knight Riders,16.5,42 needed off 26,Sunil Narine,6 runs,95.4,11.3
 1758,bowl,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,16.5,43 needed off 26,Riyan Parag,WICKET (Caught),92.5,11.3
 4780,bat,2024-10-22,Mens T20 Emerging Teams Asia Cup 2024,Bangladesh A v Sri Lanka A,5.4,119 needed off 93,Nipun Ransika,6 runs,92.4,11.3
 7905,bowl,2024-12-16,Bangladesh in West Indies T20I Series 2024,West Indies v Bangladesh,19.5,11 needed off 8,Alzarri Joseph,dot ball,99.6,11.3
-3374,bat,2023-04-24,New Zealand in Pakistan T20I Series 2023,New Zealand v Pakistan,14.6,68 needed off 37,Shaheen Afridi,6 runs,96.3,11.2
-3489,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,17.5,43 needed off 20,Maheesh Theekshana,6 runs,98.7,11.2
 22920,bowl,2025-11-09,West Indies in New Zealand T20I Series 2025,West Indies v New Zealand,19.4,13 needed off 9,Romario Shepherd,dot ball,99.6,11.2
 6512,bowl,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,12.4,90 needed off 51,Kamindu Mendis,WICKET (Caught),95.1,11.2
 2636,bowl,2023-04-27,IPL 2023,Chennai Super Kings v Rajasthan Royals,6.6,161 needed off 85,Devon Conway,WICKET (Caught),93.2,11.2
 4780,bat,2024-10-22,Mens T20 Emerging Teams Asia Cup 2024,Bangladesh A v Sri Lanka A,6.6,109 needed off 86,Eshan Malinga,6 runs,92.8,11.2
 4853,bat,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,19.3,29 needed off 10,Kuldip Yadav,6 runs,99.0,11.2
+2399,bowl,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe v Sri Lanka,14.3,69 needed off 40,Sikandar Raza,WICKET (Caught),95.3,11.1
 6059,bat,2025-03-30,IPL 2025,Chennai Super Kings v Rajasthan Royals,16.4,60 needed off 27,Wanindu Hasaranga,6 runs,98.2,11.1
 2847,bowl,2022-04-07,IPL 2022,Lucknow Super Giants v Delhi Capitals,20.2,5 needed off 5,Ayush Badoni,dot ball,98.5,11.1
 818,bat,2024-09-07,Australia in Scotland T20I Series 2024,Australia v Scotland,7.2,104 needed off 83,CB Sole,6 runs,91.0,11.1
@@ -636,18 +575,15 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 403,bowl,2024-03-24,IPL 2024,Mumbai Indians v Gujarat Titans,20.4,9 needed off 3,Piyush Chawla,WICKET (Caught),99.9,11.0
 4736,bat,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,15.7,65 needed off 33,Tim Southee,6 runs,96.6,11.0
 6281,bat,2025-04-12,IPL 2025,Sunrisers Hyderabad v Punjab Kings,15.3,59 needed off 34,Yuzvendra Chahal,6 runs,94.7,11.0
+3330,bat,2024-03-24,IPL 2024,Mumbai Indians v Gujarat Titans,20.2,13 needed off 5,Umesh Yadav,4 runs,99.8,11.0
 2639,bat,2023-05-13,IPL 2023,Lucknow Super Giants v Sunrisers Hyderabad,16.1,69 needed off 30,Abhishek Sharma,6 runs,97.5,11.0
 953,bat,2026-05-01,IPL 2026,Delhi Capitals v Rajasthan Royals,14.4,67 needed off 39,Nandre Burger,6 runs,95.4,11.0
 4489,bowl,2022-04-18,IPL 2022,Kolkata Knight Riders v Rajasthan Royals,19.7,11 needed off 7,Umesh Yadav,dot ball,99.8,11.0
 4823,bat,2023-04-24,IPL 2023,Sunrisers Hyderabad v Delhi Capitals,19.5,18 needed off 8,Anrich Nortje,4 runs,99.6,10.9
 4854,bat,2025-03-23,IPL 2025,Chennai Super Kings v Mumbai Indians,18.3,20 needed off 16,Vignesh Puthur,6 runs,92.8,10.9
-3374,bat,2024-04-21,New Zealand in Pakistan T20I Series 2024,New Zealand v Pakistan,16.1,44 needed off 30,Naseem Shah,6 runs,92.4,10.9
 6448,bat,2024-02-17,Afghanistan in Sri Lanka T20I Series 2024,Afghanistan v Sri Lanka,16.4,42 needed off 27,Wanindu Hasaranga,4 runs,97.9,10.9
 4219,bowl,2022-04-24,IPL 2022,Mumbai Indians v Lucknow Super Giants,10.4,110 needed off 63,Rohit Sharma,WICKET (Caught),91.5,10.9
-3330,bowl,2022-09-04,Mens Twenty20 Asia Cup 2022,Pakistan v India,17.6,35 needed off 20,Mohammad Rizwan,WICKET (Caught),97.8,10.9
 6819,bat,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,13.2,83 needed off 47,Bhuvneshwar Kumar,6 runs,94.6,10.9
-3024,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,13.6,81 needed off 43,Moeen Ali,6 runs,96.0,10.9
-360,bowl,2022-09-04,Mens Twenty20 Asia Cup 2022,Pakistan v India,16.3,46 needed off 28,Mohammad Nawaz,WICKET (Caught),96.7,10.9
 6281,bat,2025-04-12,IPL 2025,Sunrisers Hyderabad v Punjab Kings,14.3,69 needed off 40,Arshdeep Singh,6 runs,94.8,10.8
 4117,bat,2026-05-18,IPL 2026,Sunrisers Hyderabad v Chennai Super Kings,13.2,81 needed off 47,Anshul Kamboj,6 runs,94.0,10.8
 360,bowl,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,20.4,6 needed off 3,Rovman Powell,2 runs,99.9,10.8
@@ -655,6 +591,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 6669,bowl,2022-05-01,IPL 2022,Delhi Capitals v Lucknow Super Giants,13.7,76 needed off 43,Rishabh Pant,WICKET (Bowled),93.8,10.7
 305,bowl,2022-09-06,Mens Twenty20 Asia Cup 2022,Sri Lanka v India,14.5,64 needed off 38,Danushka Gunathilaka,WICKET (Caught),95.2,10.7
 818,bat,2023-04-29,IPL 2023,Delhi Capitals v Sunrisers Hyderabad,14.1,79 needed off 42,Akeal Hosein,6 runs,94.5,10.7
+360,bowl,2022-06-28,India in Ireland T20I Series 2022,Ireland v India,18.2,37 needed off 18,Harry Tector,WICKET (Caught),99.3,10.7
 5441,bowl,2023-12-07,Ireland in Zimbabwe T20I Series 2023/24,Zimbabwe v Ireland,20.1,9 needed off 6,Trevor Gwandu,dot ball,99.7,10.7
 220,bat,2022-04-16,IPL 2022,Delhi Capitals v Royal Challengers Bengaluru,11.3,109 needed off 58,Harshal Patel,6 runs,97.0,10.7
 6287,bowl,2023-05-16,IPL 2023,Mumbai Indians v Lucknow Super Giants,15.1,63 needed off 36,Suryakumar Yadav,WICKET (Bowled),95.0,10.6
@@ -666,10 +603,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 3672,bat,2022-02-20,Sri Lanka in Australia T20I Series 2022,Sri Lanka v Australia,18.3,27 needed off 17,Kane Richardson,4 runs,97.5,10.6
 6272,bat,2024-04-28,IPL 2024,Royal Challengers Bengaluru v Gujarat Titans,13.6,73 needed off 43,Sai Kishore,6 runs,96.3,10.6
 6674,bat,2026-01-22,Afghanistan v West Indies T20I Series 2026,Afghanistan v West Indies,18.2,34 needed off 17,Khary Pierre,4 runs,99.4,10.6
-6725,bat,2025-08-03,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,15.4,67 needed off 33,Saim Ayub,6 runs,96.9,10.5
-2921,bat,2024-05-12,Pakistan in Ireland T20I series 2024,Pakistan v Ireland,13.6,65 needed off 43,Craig Young,6 runs,91.7,10.5
 23311,bat,2025-06-08,West Indies in England T20I Series 2025,England v West Indies,16.2,42 needed off 29,Alzarri Joseph,6 runs,94.4,10.5
-768,bat,2024-12-13,Pakistan in South Africa T20I Series 2024,South Africa v Pakistan,14.1,81 needed off 42,Abrar Ahmed,6 runs,96.2,10.5
 3275,bowl,2023-12-14,England in West Indies T20I Series 2023,England v West Indies,10.3,112 needed off 64,William Jacks,WICKET (Caught),93.1,10.5
 3628,bowl,2022-04-13,IPL 2022,Mumbai Indians v Punjab Kings,19.4,22 needed off 9,Suryakumar Yadav,WICKET (Caught),99.7,10.5
 50284,bat,2026-05-19,IPL 2026,Rajasthan Royals v Lucknow Super Giants,11.6,96 needed off 56,Prince Yadav,6 runs,94.7,10.5
@@ -689,9 +623,8 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 7920,bowl,2023-04-22,IPL 2023,Mumbai Indians v Punjab Kings,16.3,56 needed off 28,Cameron Green,WICKET (Caught),98.7,10.3
 7216,bat,2025-04-30,IPL 2025,Punjab Kings v Chennai Super Kings,11.3,101 needed off 59,Matheesha Pathirana,6 runs,94.0,10.3
 4780,bat,2024-10-22,Mens T20 Emerging Teams Asia Cup 2024,Bangladesh A v Sri Lanka A,3.4,135 needed off 105,Sahan Arachchige,6 runs,90.7,10.3
-2921,bat,2024-05-12,Pakistan in Ireland T20I series 2024,Pakistan v Ireland,13.4,75 needed off 45,Craig Young,6 runs,93.9,10.2
 36982,bowl,2023-04-26,IPL 2023,Royal Challengers Bengaluru v Kolkata Knight Riders,15.5,65 needed off 32,Dinesh Karthik,WICKET (RunOut),95.3,10.2
-3374,bat,2024-04-21,New Zealand in Pakistan T20I Series 2024,New Zealand v Pakistan,12.4,86 needed off 51,Iftikhar Ahmed,6 runs,93.1,10.2
+6725,bat,2025-03-25,IPL 2025,Gujarat Titans v Punjab Kings,14.4,82 needed off 39,Marcus Stoinis,6 runs,97.1,10.2
 7472,bowl,2025-03-24,IPL 2025,Delhi Capitals v Lucknow Super Giants,20.1,6 needed off 6,Mohit Sharma,dot ball,99.8,10.2
 220,bat,2022-10-09,England in Australia T20I Series 2022,Australia v England,16.4,45 needed off 27,Moeen Ali,4 runs,98.6,10.2
 6931,bat,2025-09-26,Asia Cup 2025,Sri Lanka v India,11.4,84 needed off 57,Harshit Rana,6 runs,93.2,10.1
@@ -723,15 +656,12 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 6819,bat,2023-04-23,IPL 2023,Rajasthan Royals v Royal Challengers Bengaluru,8.1,133 needed off 78,Glenn Maxwell,6 runs,94.0,9.8
 838,bowl,2022-04-19,IPL 2022,Lucknow Super Giants v Royal Challengers Bengaluru,14.4,74 needed off 39,Krunal Pandya,WICKET (Caught),92.9,9.8
 47,bat,2026-05-13,IPL 2026,Royal Challengers Bengaluru v Kolkata Knight Riders,17.4,30 needed off 21,Anukul Roy,6 runs,90.3,9.7
-2671,bat,2022-10-07,New Zealand T20I Tri Series 2022/23,Bangladesh v Pakistan,12.2,92 needed off 53,Shadab Khan,6 runs,94.2,9.7
 7059,bat,2026-04-03,IPL 2026,Punjab Kings v Chennai Super Kings,16.3,42 needed off 28,Rahul Chahar,6 runs,95.3,9.7
 23450,bat,2025-05-18,IPL 2025,Gujarat Titans v Delhi Capitals,12.1,96 needed off 54,T Natarajan,6 runs,95.9,9.7
 6931,bat,2025-09-15,Asia Cup 2025,Sri Lanka v Hong Kong,4.1,139 needed off 102,Ayush Shukla,6 runs,91.8,9.7
 2681,bowl,2023-03-14,England in Bangladesh T20I Series 2023,England v Bangladesh,17.2,40 needed off 23,Moeen Ali,WICKET (Caught),97.3,9.6
-1596,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,19.2,28 needed off 11,Haris Rauf,6 runs,98.4,9.6
 7901,bat,2024-10-22,Mens T20 Emerging Teams Asia Cup 2024,Bangladesh A v Sri Lanka A,3.1,146 needed off 108,Sahan Arachchige,6 runs,91.1,9.6
 50284,bat,2026-05-19,IPL 2026,Rajasthan Royals v Lucknow Super Giants,11.7,90 needed off 55,Prince Yadav,6 runs,90.5,9.6
-2485,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,16.7,40 needed off 25,Luke Wood,4 runs,97.9,9.6
 4692,bowl,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,11.3,105 needed off 58,Glenn Maxwell,WICKET (Bowled),94.9,9.6
 6287,bowl,2026-05-11,IPL 2026,Delhi Capitals v Punjab Kings,19.1,17 needed off 12,Madhav Tiwari,dot ball,97.7,9.5
 6314,bat,2023-05-19,IPL 2023,Rajasthan Royals v Punjab Kings,10.3,111 needed off 64,Arshdeep Singh,6 runs,94.2,9.5
@@ -751,7 +681,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 6161,bowl,2022-04-08,IPL 2022,Gujarat Titans v Punjab Kings,15.4,57 needed off 33,Sai Sudharsan,WICKET (Caught),96.7,9.3
 6314,bat,2026-04-24,IPL 2026,Royal Challengers Bengaluru v Gujarat Titans,9.6,110 needed off 67,Prasidh Krishna,6 runs,92.8,9.3
 2367,bat,2025-04-12,IPL 2025,Sunrisers Hyderabad v Punjab Kings,9.3,135 needed off 70,Glenn Maxwell,6 runs,96.9,9.3
-6448,bat,2023-03-26,Afghanistan v Pakistan T20I Series 2023,Afghanistan v Pakistan,16.5,44 needed off 26,Shadab Khan,4 runs,97.3,9.2
 1440,bat,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,17.4,55 needed off 22,Obed McCoy,6 runs,97.8,9.2
 2847,bowl,2022-02-20,West Indies in India T20I Series 2022,West Indies v India,18.1,37 needed off 18,Nicholas Pooran,WICKET (Caught),98.8,9.2
 4641,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,17.3,42 needed off 22,Dewald Brevis,WICKET (LBW),97.9,9.2
@@ -764,7 +693,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 22565,bat,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,3.6,141 needed off 103,Mohammad Saifuddin,6 runs,91.2,9.1
 2633,bowl,2025-10-30,West Indies in Bangladesh T20I Series 2025,Bangladesh v West Indies,19.1,26 needed off 12,Shamim Hossain,WICKET (Bowled),99.5,9.1
 4736,bat,2025-06-03,IPL 2025,Punjab Kings v Royal Challengers Bengaluru,6.5,145 needed off 86,Yash Dayal,6 runs,96.8,9.1
-1596,bat,2022-09-25,England in Pakistan T20I Series 2022,England v Pakistan,10.4,93 needed off 63,Mohammad Nawaz,6 runs,91.6,9.1
 6819,bat,2024-05-24,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,6.1,144 needed off 90,Bhuvneshwar Kumar,6 runs,94.3,9.1
 4854,bat,2023-08-17,New Zealand in United Arab Emirates T20I Series 2023,New Zealand v United Arab Emirates,20.1,140/6 batting first,Ali Naseer,6 runs,93.4,9.1
 126,bat,2026-05-04,IPL 2026,Mumbai Indians v Lucknow Super Giants,9.1,131 needed off 72,Manimaran Siddharth,6 runs,95.5,9.1
@@ -785,7 +713,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4780,bat,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,5.4,130 needed off 93,Nuwan Thushara,6 runs,93.1,8.9
 4854,bat,2023-04-02,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,18.5,33 needed off 14,Chamika Karunaratne,6 runs,98.2,8.9
 22920,bowl,2026-10-24,India in New Zealand T20I Series 2026,India v New Zealand,20.4,4 needed off 3,Namboori Tilak Varma,1 run,99.9,8.9
-6512,bowl,2022-10-14,New Zealand T20I Tri Series 2022/23,Pakistan v New Zealand,11.1,100 needed off 60,Shan Masood,WICKET (Caught),95.4,8.9
 7344,bowl,2025-05-21,Bangladesh in United Arab Emirates T20I Series 2025,United Arab Emirates v Bangladesh,2.4,149 needed off 112,Muhammad Waseem,WICKET (Caught),91.4,8.9
 7322,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,20.2,14 needed off 5,Ravindra Jadeja,1 run,99.9,8.8
 7059,bat,2026-04-25,IPL 2026,Punjab Kings v Delhi Capitals,14.7,79 needed off 39,T Natarajan,6 runs,95.2,8.8
@@ -803,7 +730,6 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 126,bat,2022-05-17,IPL 2022,Mumbai Indians v Sunrisers Hyderabad,9.3,130 needed off 72,Umran Malik,"wide / no-ball, 5",93.5,8.7
 6819,bat,2025-04-24,IPL 2025,Rajasthan Royals v Royal Challengers Bengaluru,6.4,140 needed off 87,Josh Hazlewood,6 runs,90.6,8.6
 992,bat,2025-05-27,IPL 2025,Royal Challengers Bengaluru v Lucknow Super Giants,15.6,55 needed off 31,Shahbaz Ahmed,4 runs,96.5,8.6
-2485,bat,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,16.2,48 needed off 30,Luke Wood,4 runs,97.5,8.6
 2671,bat,2023-12-27,Bangladesh in New Zealand T20I Series 2023,Bangladesh v New Zealand,18.1,24 needed off 18,Benjamin Sears,4 runs,95.5,8.6
 813,bat,2024-04-06,IPL 2024,Rajasthan Royals v Royal Challengers Bengaluru,6.4,142 needed off 87,Mayank Dagar,6 runs,91.5,8.6
 4007,bat,2026-05-04,IPL 2026,Mumbai Indians v Lucknow Super Giants,8.5,139 needed off 75,Avesh Khan,6 runs,95.7,8.6
@@ -823,7 +749,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 5553,bat,2023-12-16,England in West Indies T20I Series 2023,England v West Indies,19.4,29 needed off 9,Alzarri Joseph,6 runs,91.9,8.4
 23450,bat,2022-05-06,IPL 2022,Gujarat Titans v Mumbai Indians,14.3,66 needed off 40,Riley Meredith,4 runs,91.8,8.3
 4106,bat,2025-01-02,Sri Lanka in New Zealand T20I Series 2024/25,New Zealand v Sri Lanka,15.3,69 needed off 34,Charith Asalanka,6 runs,96.7,8.3
-3024,bat,2024-05-12,Pakistan in Ireland T20I series 2024,Pakistan v Ireland,12.1,93 needed off 54,Benjamin White,6 runs,93.9,8.3
+4106,bat,2023-04-02,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,12.7,87 needed off 49,Dilshan Madushanka,6 runs,94.5,8.3
 126,bat,2026-05-04,IPL 2026,Mumbai Indians v Lucknow Super Giants,7.3,156 needed off 82,Manimaran Siddharth,6 runs,95.8,8.3
 4369,bat,2023-12-22,England in West Indies T20I Series 2023,West Indies v England,18.5,16 needed off 14,Rehan Ahmed,4 runs,92.8,8.3
 23450,bat,2026-04-04,IPL 2026,Gujarat Titans v Rajasthan Royals,9.5,125 needed off 68,Ravindra Jadeja,6 runs,94.0,8.2
@@ -835,15 +761,14 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 4736,bat,2025-05-26,IPL 2025,Punjab Kings v Mumbai Indians,6.2,150 needed off 89,Deepak Chahar,6 runs,91.0,8.1
 1107,bowl,2024-02-21,Afghanistan in Sri Lanka T20I Series 2024,Sri Lanka v Afghanistan,10.2,117 needed off 65,Wanindu Hasaranga,WICKET (Caught),90.9,8.1
 838,bowl,2025-04-08,IPL 2025,Chennai Super Kings v Punjab Kings,7.3,159 needed off 82,Rachin Ravindra,WICKET (Stump),96.6,8.1
-3489,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,16.7,55 needed off 26,Eshan Malinga,6 runs,98.0,8.1
 1205,bat,2024-04-26,IPL 2024,Punjab Kings v Kolkata Knight Riders,12.5,104 needed off 52,Andre Russell,6 runs,93.7,8.1
 3648,bat,2022-03-31,IPL 2022,Lucknow Super Giants v Chennai Super Kings,18.1,46 needed off 18,Dwayne Bravo,6 runs,96.8,8.0
 4007,bat,2026-03-29,IPL 2026,Mumbai Indians v Kolkata Knight Riders,9.1,125 needed off 72,Sunil Narine,6 runs,93.0,8.0
+2258,bat,2023-04-23,IPL 2023,Rajasthan Royals v Royal Challengers Bengaluru,15.4,76 needed off 33,Wanindu Hasaranga,6 runs,96.9,8.0
 2847,bowl,2022-05-21,IPL 2022,Mumbai Indians v Delhi Capitals,15.4,65 needed off 34,Dewald Brevis,WICKET (Bowled),96.7,8.0
+768,bat,2023-03-26,West Indies in South Africa T20I Series 2023,South Africa v West Indies,12.1,103 needed off 54,Odean Smith,6 runs,95.7,8.0
 152,bat,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,19.1,29 needed off 12,Bhuvneshwar Kumar,4 runs,99.3,7.9
-2636,bowl,2024-11-16,Pakistan in Australia T20I Series 2024,Pakistan v Australia,17.3,41 needed off 22,Shaheen Afridi,WICKET (Bowled),98.0,7.9
 7544,bat,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,16.4,55 needed off 27,Alzarri Joseph,4 runs,98.7,7.9
-3954,bat,2024-05-10,Pakistan in Ireland T20I series 2024,Ireland v Pakistan,10.6,105 needed off 61,Shadab Khan,6 runs,92.2,7.9
 7094,bowl,2024-05-19,Netherlands Tri-Nation T20I Series 2024,Netherlands v Ireland,6.6,112 needed off 85,Michael Levitt,WICKET (Caught),95.5,7.9
 7901,bat,2026-04-27,New Zealand in Bangladesh T20I Series 2026,Bangladesh v New Zealand,11.6,94 needed off 55,Ish Sodhi,6 runs,92.5,7.9
 305,bowl,2023-04-30,IPL 2023,Mumbai Indians v Rajasthan Royals,9.2,137 needed off 71,Ishan Kishan,WICKET (Caught),91.6,7.8
@@ -856,8 +781,10 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 1318,bowl,2023-04-26,IPL 2023,Royal Challengers Bengaluru v Kolkata Knight Riders,13.1,86 needed off 48,Virat Kohli,WICKET (Caught),91.1,7.7
 2367,bat,2026-04-29,IPL 2026,Sunrisers Hyderabad v Mumbai Indians,7.4,146 needed off 82,Ashwani Kumar,6 runs,94.0,7.7
 5039,bat,2024-04-21,IPL 2024,Royal Challengers Bengaluru v Kolkata Knight Riders,10.4,113 needed off 63,Suyash Sharma,6 runs,92.0,7.7
+3330,bowl,2022-09-06,Mens Twenty20 Asia Cup 2022,Sri Lanka v India,18.1,33 needed off 18,Bhanuka Rajapaksa,dot ball,98.8,7.7
 6448,bat,2022-08-30,Mens Twenty20 Asia Cup 2022,Afghanistan v Bangladesh,15.4,61 needed off 33,Taskin Ahmed,4 runs,96.4,7.7
 3605,bat,2023-05-04,IPL 2023,Sunrisers Hyderabad v Kolkata Knight Riders,12.3,81 needed off 52,Varun Chakravarthy,4 runs,91.6,7.7
+152,bat,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,16.5,48 needed off 26,Yash Dayal,4 runs,97.2,7.7
 4814,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,9.4,87 needed off 69,Safyaan Sharif,4 runs,92.2,7.7
 6448,bat,2022-08-30,Mens Twenty20 Asia Cup 2022,Afghanistan v Bangladesh,15.5,57 needed off 32,Taskin Ahmed,4 runs,95.8,7.7
 4874,bowl,2024-01-14,Zimbabwe in Sri Lanka T20I Series 2024,Sri Lanka v Zimbabwe,19.7,18 needed off 8,Dasun Shanaka,dot ball,99.6,7.6
@@ -870,19 +797,24 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 7544,bat,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,12.2,102 needed off 53,Yash Dayal,6 runs,92.1,7.5
 3605,bat,2023-03-26,West Indies in South Africa T20I Series 2023,South Africa v West Indies,17.5,29 needed off 20,Raymon Reifer,4 runs,94.9,7.5
 4814,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,10.3,80 needed off 64,Chris Greaves,4 runs,92.1,7.5
+39657,bowl,2024-10-27,Mens T20 Emerging Teams Asia Cup 2024,Afghanistan A v Sri Lanka A,15.6,39 needed off 31,Karim Janat,WICKET (Bowled),97.1,7.4
 1440,bat,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,14.3,91 needed off 40,Murugan Ashwin,6 runs,97.2,7.4
 7240,bowl,2023-07-14,Afghanistan in Bangladesh T20I Series 2023,Bangladesh v Afghanistan,19.6,6 needed off 7,Towhid Hridoy,dot ball,90.3,7.3
 2847,bowl,2025-04-14,IPL 2025,Chennai Super Kings v Lucknow Super Giants,19.6,10 needed off 9,Shivam Dube,dot ball,94.7,7.3
 3648,bat,2022-05-25,IPL 2022,Lucknow Super Giants v Royal Challengers Bengaluru,15.3,77 needed off 34,Wanindu Hasaranga,6 runs,97.2,7.2
 4814,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,19.4,7 needed off 9,Bradley Currie,4 runs,96.5,7.2
 36982,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,18.2,34 needed off 17,Ravindra Jadeja,dot ball,98.4,7.2
+39657,bowl,2025-05-23,IPL 2025,Royal Challengers Bengaluru v Sunrisers Hyderabad,16.6,58 needed off 25,Romario Shepherd,WICKET (Caught),98.3,7.2
 4692,bowl,2022-04-11,IPL 2022,Sunrisers Hyderabad v Gujarat Titans,18.1,28 needed off 18,Nicholas Pooran,dot ball,96.2,7.2
+152,bat,2022-04-25,IPL 2022,Chennai Super Kings v Punjab Kings,18.2,40 needed off 17,Kagiso Rabada,4 runs,99.5,7.1
 50284,bat,2026-05-19,IPL 2026,Rajasthan Royals v Lucknow Super Giants,6.3,164 needed off 88,Prince Yadav,6 runs,92.1,7.1
 1813,bowl,2023-12-01,Australia in India T20I Series 2023,Australia v India,15.4,68 needed off 33,Tim David,WICKET (Caught),96.8,7.1
-3954,bat,2024-05-10,Pakistan in Ireland T20I series 2024,Ireland v Pakistan,16.2,46 needed off 29,Naseem Shah,4 runs,93.7,7.1
 5553,bat,2025-05-23,IPL 2025,Royal Challengers Bengaluru v Sunrisers Hyderabad,6.5,166 needed off 86,Eshan Malinga,6 runs,95.1,7.1
 22565,bat,2023-08-19,New Zealand in United Arab Emirates T20I Series 2023,United Arab Emirates v New Zealand,2.2,143 needed off 113,Benjamin Lister,4 runs,90.7,7.1
+768,bat,2024-09-29,Ireland v South Africa T20I Series 2024,South Africa v Ireland,9.4,124 needed off 69,Benjamin White,6 runs,92.2,7.1
 1941,bat,2022-05-04,IPL 2022,Chennai Super Kings v Royal Challengers Bengaluru,14.3,70 needed off 40,Glenn Maxwell,4 runs,94.1,7.1
+1596,bat,2022-05-04,IPL 2022,Chennai Super Kings v Royal Challengers Bengaluru,18.1,47 needed off 18,Harshal Patel,6 runs,96.8,7.1
+39657,bowl,2024-10-27,Mens T20 Emerging Teams Asia Cup 2024,Afghanistan A v Sri Lanka A,17.3,28 needed off 22,Sediqullah Atal,dot ball,99.0,7.0
 4853,bat,2026-11-01,India in New Zealand T20I Series 2026,New Zealand v India,13.1,72 needed off 48,Varun Chakravarthy,4 runs,91.0,7.0
 6161,bowl,2022-04-08,IPL 2022,Gujarat Titans v Punjab Kings,17.5,40 needed off 21,Hardik Pandya,dot ball,98.1,7.0
 3954,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,12.3,63 needed off 52,Michael Leask,4 runs,91.3,7.0
@@ -899,6 +831,7 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 7544,bat,2023-04-09,IPL 2023,Kolkata Knight Riders v Gujarat Titans,15.6,66 needed off 32,Joshua Little,4 runs,97.2,6.6
 3727,bat,2026-04-18,IPL 2026,Chennai Super Kings v Sunrisers Hyderabad,14.7,64 needed off 37,Praful Hinge,4 runs,96.6,6.6
 2416,bat,2023-05-07,IPL 2023,Lucknow Super Giants v Gujarat Titans,5.4,175 needed off 93,Rashid Khan,6 runs,91.7,6.6
+7240,bowl,2025-11-02,Afghanistan in Zimbabwe T20I Series 2025,Zimbabwe v Afghanistan,19.4,21 needed off 9,Tashinga Musekiwa,WICKET (Caught),98.6,6.5
 4703,bat,2026-04-26,IPL 2026,Lucknow Super Giants v Kolkata Knight Riders,13.1,82 needed off 48,Sunil Narine,4 runs,94.6,6.5
 220,bat,2022-05-11,IPL 2022,Delhi Capitals v Rajasthan Royals,15.3,55 needed off 34,Yuzvendra Chahal,4 runs,90.1,6.5
 7344,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,5.2,132 needed off 95,Chirag Suri,WICKET (RunOut),92.2,6.5
@@ -906,43 +839,48 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 443,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,6.2,118 needed off 89,Safyaan Sharif,4 runs,94.5,6.4
 7808,bowl,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,20.2,16 needed off 5,Rahul Tewatia,1 run,99.7,6.4
 2101,bat,2026-01-29,West Indies in South Africa T20I Series 2026,South Africa v West Indies,8.6,133 needed off 73,Roston Chase,6 runs,93.0,6.4
+3954,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,4.5,129 needed off 98,CB Sole,4 runs,92.9,6.4
 3700,bat,2023-04-08,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,16.3,40 needed off 28,Wanindu Hasaranga,4 runs,93.8,6.4
 4816,bowl,2024-05-07,IPL 2024,Rajasthan Royals v Delhi Capitals,15.9,64 needed off 32,Sanju Samson,dot ball,97.0,6.3
 305,bowl,2024-03-24,IPL 2024,Lucknow Super Giants v Rajasthan Royals,18.3,40 needed off 16,Marcus Stoinis,WICKET (Caught),99.1,6.3
 7344,bowl,2025-05-21,Bangladesh in United Arab Emirates T20I Series 2025,United Arab Emirates v Bangladesh,17.5,30 needed off 20,Alishan Sharafu,dot ball,98.9,6.2
 7900,bat,2025-10-30,West Indies in Bangladesh T20I Series 2025,Bangladesh v West Indies,16.1,50 needed off 30,Jason Holder,4 runs,95.3,6.1
-479,bowl,2022-09-22,England in Pakistan T20I Series 2022,Pakistan v England,15.3,58 needed off 34,Babar Azam,dot ball,97.1,6.1
 3727,bat,2026-04-18,IPL 2026,Chennai Super Kings v Sunrisers Hyderabad,14.1,75 needed off 42,Praful Hinge,"wide / no-ball, 3",96.0,6.1
 5553,bat,2025-05-23,IPL 2025,Royal Challengers Bengaluru v Sunrisers Hyderabad,11.6,111 needed off 55,Nitish Reddy,6 runs,93.3,6.1
+3374,bat,2025-01-02,Sri Lanka in New Zealand T20I Series 2024/25,New Zealand v Sri Lanka,9.2,133 needed off 71,Charith Asalanka,6 runs,94.7,6.1
 7270,bowl,2023-04-24,IPL 2023,Sunrisers Hyderabad v Delhi Capitals,19.6,14 needed off 7,Washington Sundar,1 run,99.7,6.1
 3276,bowl,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,South Africa v West Indies,15.3,70 needed off 34,Andile Phehlukwayo,WICKET (Caught),96.6,6.1
 1481,bat,2025-09-07,Sri Lanka in Zimbabwe T20I Series 2025,Sri Lanka v Zimbabwe,10.1,101 needed off 66,Sikandar Raza,4 runs,90.7,6.1
+39657,bowl,2025-05-23,IPL 2025,Royal Challengers Bengaluru v Sunrisers Hyderabad,16.4,59 needed off 27,Rajat Patidar,WICKET (RunOut),98.8,6.1
 1107,bowl,2025-11-02,Afghanistan in Zimbabwe T20I Series 2025,Zimbabwe v Afghanistan,11.5,107 needed off 56,Sikandar Raza,WICKET (Bowled),92.9,6.1
 4816,bowl,2024-05-07,IPL 2024,Rajasthan Royals v Delhi Capitals,17.3,42 needed off 22,Shubham Dubey,dot ball,98.1,6.1
-4812,bat,2024-05-10,Pakistan in Ireland T20I series 2024,Ireland v Pakistan,12.5,88 needed off 50,Shadab Khan,4 runs,95.0,6.1
 5939,bowl,2024-05-12,IPL 2024,Delhi Capitals v Royal Challengers Bengaluru,11.6,98 needed off 55,Axar Patel,WICKET (RunOut),92.6,6.0
 109,bat,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,13.2,86 needed off 47,Washington Sundar,4 runs,95.4,6.0
 25669,bat,2025-11-21,Asia Cup Rising Stars 2025,India A v Bangladesh A,3.5,152 needed off 104,Jishan Alam,6 runs,94.4,6.0
+3954,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,1.2,158 needed off 119,Mark Watt,4 runs,90.7,6.0
 2671,bat,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,6.6,114 needed off 85,Dushmantha Chameera,4 runs,94.8,6.0
 3700,bat,2026-11-01,India in New Zealand T20I Series 2026,New Zealand v India,12.5,80 needed off 50,Arshdeep Singh,4 runs,91.2,6.0
 22565,bat,2023-08-19,New Zealand in United Arab Emirates T20I Series 2023,United Arab Emirates v New Zealand,4.6,119 needed off 97,Benjamin Lister,4 runs,90.6,6.0
+6448,bat,2024-02-17,Afghanistan in Sri Lanka T20I Series 2024,Afghanistan v Sri Lanka,14.1,68 needed off 42,Dasun Shanaka,4 runs,93.3,6.0
 1481,bat,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,14.2,75 needed off 41,Michael Bracewell,4 runs,96.1,5.9
 1481,bat,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,11.2,114 needed off 59,Glenn Phillips,6 runs,94.9,5.8
 4816,bowl,2024-03-23,IPL 2024,Punjab Kings v Delhi Capitals,19.5,8 needed off 8,Harpreet Brar,dot ball,96.6,5.8
 1596,bowl,2022-01-29,England in West Indies T20I Series 2022,West Indies v England,10.1,125 needed off 66,Brandon King,WICKET (Caught),94.5,5.8
 3700,bat,2026-11-01,India in New Zealand T20I Series 2026,New Zealand v India,12.6,76 needed off 49,Arshdeep Singh,4 runs,91.4,5.8
 1813,bowl,2023-03-31,IPL 2023,Gujarat Titans v Chennai Super Kings,17.5,31 needed off 20,Rahul Tewatia,dot ball,96.5,5.8
+2636,bowl,2026-06-19,Australia in Bangladesh T20I Series 2026,Bangladesh v Australia,16.6,44 needed off 25,Towhid Hridoy,dot ball,98.2,5.8
+3954,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,4.4,133 needed off 99,CB Sole,4 runs,92.0,5.8
 3727,bat,2023-12-01,Australia in India T20I Series 2023,Australia v India,15.2,75 needed off 35,Deepak Chahar,6 runs,95.1,5.8
 167,bat,2023-04-12,IPL 2023,Chennai Super Kings v Rajasthan Royals,9.5,108 needed off 68,Adam Zampa,4 runs,90.6,5.8
 2671,bat,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,6.4,118 needed off 87,Dushmantha Chameera,4 runs,93.9,5.8
 4895,bat,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,15.2,69 needed off 35,Zakary Foulkes,4 runs,96.5,5.8
-4874,bowl,2025-11-17,Pakistan T20I Tri-Series 2025,Pakistan v Zimbabwe,18.1,24 needed off 18,Usman Khan,dot ball,95.5,5.7
-4874,bowl,2025-11-17,Pakistan T20I Tri-Series 2025,Pakistan v Zimbabwe,18.6,18 needed off 14,Mohammad Nawaz,dot ball,94.7,5.7
+1596,bat,2022-05-04,IPL 2022,Chennai Super Kings v Royal Challengers Bengaluru,13.2,82 needed off 47,Harshal Patel,4 runs,91.3,5.7
 3276,bowl,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,South Africa v West Indies,17.6,41 needed off 19,Pieter Willem Mulder,WICKET (Caught),98.0,5.7
 5939,bowl,2022-09-25,Australia in India T20I Series 2022,India v Australia,16.7,39 needed off 25,Virat Kohli,dot ball,94.2,5.7
 1941,bat,2025-04-08,IPL 2025,Chennai Super Kings v Punjab Kings,14.2,96 needed off 41,Marco Jansen,6 runs,96.8,5.7
 4265,bowl,2024-05-02,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,18.5,21 needed off 14,Dhruv Jurel,dot ball,97.4,5.7
 2101,bat,2023-05-07,IPL 2023,Lucknow Super Giants v Gujarat Titans,8.7,144 needed off 73,Noor Ahmad,4 runs,97.3,5.6
+7240,bowl,2026-01-21,Afghanistan v West Indies T20I Series 2026,West Indies v Afghanistan,14.3,84 needed off 40,Shimron Hetmyer,WICKET (Caught),93.7,5.6
 443,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,4.2,138 needed off 101,CB Sole,4 runs,91.5,5.6
 25669,bat,2025-05-26,IPL 2025,Punjab Kings v Mumbai Indians,7.1,138 needed off 84,Mitchell Santner,4 runs,91.5,5.6
 7900,bat,2025-09-11,Asia Cup 2025,Bangladesh v Hong Kong,5.5,104 needed off 93,Ehsan Khan,4 runs,90.2,5.6
@@ -950,21 +888,27 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 1941,bat,2023-04-12,IPL 2023,Chennai Super Kings v Rajasthan Royals,7.5,129 needed off 80,Yuzvendra Chahal,4 runs,90.9,5.6
 2101,bat,2023-05-07,IPL 2023,Lucknow Super Giants v Gujarat Titans,8.2,151 needed off 77,Noor Ahmad,4 runs,97.0,5.4
 109,bat,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,12.7,91 needed off 49,Marco Jansen,4 runs,95.0,5.4
+1596,bat,2023-12-14,England in West Indies T20I Series 2023,England v West Indies,18.4,38 needed off 15,Alzarri Joseph,6 runs,97.4,5.3
 1941,bat,2023-04-12,IPL 2023,Chennai Super Kings v Rajasthan Royals,5.6,145 needed off 91,Adam Zampa,4 runs,90.1,5.3
 3276,bowl,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,South Africa v West Indies,17.2,42 needed off 23,Rassie van der Dussen,dot ball,99.0,5.3
 7472,bowl,2024-05-24,IPL 2024,Rajasthan Royals v Sunrisers Hyderabad,12.4,97 needed off 51,Ravichandran Ashwin,WICKET (Caught),90.9,5.3
+3374,bat,2023-04-02,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,13.2,81 needed off 47,Maheesh Theekshana,dot ball,94.8,5.3
 7472,bowl,2025-03-24,IPL 2025,Delhi Capitals v Lucknow Super Giants,20.2,6 needed off 5,Mohit Sharma,1 run,99.9,5.3
 24017,bat,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe v Sri Lanka,12.6,83 needed off 49,Wanindu Hasaranga,4 runs,92.0,5.2
+768,bat,2024-09-29,Ireland v South Africa T20I Series 2024,South Africa v Ireland,12.9,86 needed off 49,Fionn Hand,4 runs,95.2,5.2
 7325,bowl,2025-05-24,IPL 2025,Delhi Capitals v Punjab Kings,17.5,38 needed off 20,Tristan Stubbs,dot ball,97.8,5.2
+4874,bowl,2023-12-09,Ireland in Zimbabwe T20I Series 2023/24,Ireland v Zimbabwe,17.4,31 needed off 21,Mark Adair,dot ball,97.7,5.2
 4853,bat,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,19.2,35 needed off 11,Kuldip Yadav,6 runs,96.6,5.2
-2526,bowl,2024-01-14,Pakistan in New Zealand T20I series 2024,Pakistan v New Zealand,15.3,70 needed off 34,Aamer Jamal,WICKET (Stump),92.7,5.2
+768,bat,2023-03-26,West Indies in South Africa T20I Series 2023,South Africa v West Indies,13.4,70 needed off 46,Rovman Powell,4 runs,90.7,5.2
 25669,bat,2025-06-01,IPL 2025,Punjab Kings v Mumbai Indians,4.4,177 needed off 99,Reece Topley,6 runs,92.3,5.1
 167,bat,2026-05-24,IPL 2026,Kolkata Knight Riders v Delhi Capitals,9.5,116 needed off 68,Lungi Ngidi,4 runs,91.0,5.1
 4895,bat,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,13.6,81 needed off 43,Matt Henry,4 runs,95.8,5.1
 24017,bat,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe v Sri Lanka,10.4,111 needed off 63,Wanindu Hasaranga,4 runs,93.4,5.1
 25669,bat,2025-11-21,Asia Cup Rising Stars 2025,India A v Bangladesh A,9.4,111 needed off 70,Abu Haider,6 runs,91.8,5.1
+4874,bowl,2026-07-15,Bangladesh in Zimbabwe T20I Series 2026,Bangladesh v Zimbabwe,18.1,41 needed off 18,Yasir Ali Chowdhury,WICKET (Caught),97.5,5.1
 1440,bat,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,14.4,85 needed off 39,Murugan Ashwin,4 runs,97.3,5.0
 6512,bowl,2024-12-28,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,17.1,40 needed off 24,Pathum Nissanka,dot ball,96.1,5.0
+2526,bowl,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,16.4,55 needed off 28,Josh Inglis,dot ball,97.7,5.0
 25669,bat,2025-05-26,IPL 2025,Punjab Kings v Mumbai Indians,6.5,143 needed off 86,Deepak Chahar,4 runs,91.7,5.0
 992,bat,2025-06-03,IPL 2025,Royal Challengers Bengaluru v Punjab Kings,3.7,24/1 batting first,Arshdeep Singh,6 runs,90.1,4.9
 4823,bowl,2024-01-17,Afghanistan in India T20I Series 2024,Afghanistan v India,17.2,50 needed off 24,Mohammad Nabi,dot ball,98.7,4.9
@@ -975,107 +919,97 @@ player_id,role,match_date,comp_name,fixture,ob,situation,other,outcome,pi,swing
 19312,bowl,2025-01-02,Sri Lanka in New Zealand T20I Series 2024/25,New Zealand v Sri Lanka,17.2,49 needed off 23,Daryl Mitchell,WICKET (Caught),97.3,4.8
 109,bat,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,12.6,95 needed off 50,Marco Jansen,4 runs,94.6,4.8
 1596,bowl,2022-10-09,England in Australia T20I Series 2022,Australia v England,16.6,40 needed off 25,Matthew Wade,dot ball,98.0,4.8
-38855,bowl,2022-10-13,New Zealand T20I Tri Series 2022/23,Pakistan v Bangladesh,20.1,8 needed off 6,Asif Ali,1 run,97.6,4.8
+6512,bowl,2023-05-21,IPL 2023,Gujarat Titans v Royal Challengers Bengaluru,13.5,79 needed off 44,Shubman Gill,dot ball,96.6,4.8
 479,bowl,2025-01-25,England in India T20I Series 2025,India v England,17.4,21 needed off 21,Namboori Tilak Varma,dot ball,97.4,4.7
 6059,bat,2025-03-30,IPL 2025,Chennai Super Kings v Rajasthan Royals,6.5,146 needed off 86,Sandeep Sharma,4 runs,92.1,4.7
 1596,bowl,2022-07-10,India in England T20I Series 2022,India v England,19.7,25 needed off 8,Suryakumar Yadav,WICKET (Caught),99.1,4.7
 109,bat,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,9.5,119 needed off 68,Washington Sundar,4 runs,92.6,4.7
+2526,bowl,2024-02-21,Australia in New Zealand T20I Series 2024,Australia v New Zealand,16.2,56 needed off 29,Josh Inglis,dot ball,97.6,4.7
 4812,bat,2022-06-28,India in Ireland T20I Series 2022,Ireland v India,16.3,60 needed off 28,Bhuvneshwar Kumar,4 runs,98.2,4.7
 8600,bat,2022-06-12,Afghanistan in Zimbabwe T20I Series 2022,Zimbabwe v Afghanistan,10.1,115 needed off 66,Mohammad Nabi,4 runs,92.6,4.6
-1487,bowl,2023-04-17,New Zealand in Pakistan T20I Series 2023,Pakistan v New Zealand,18.5,29 needed off 14,Faheem Ashraf,dot ball,98.4,4.6
 2416,bat,2023-05-24,IPL 2023,Lucknow Super Giants v Mumbai Indians,3.1,171 needed off 108,Jason Behrendorff,4 runs,91.6,4.5
 4814,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,10.4,76 needed off 63,Chris Greaves,3 runs,90.7,4.5
 1596,bowl,2022-07-10,India in England T20I Series 2022,India v England,19.6,25 needed off 9,Suryakumar Yadav,dot ball,99.3,4.5
-3091,bat,2025-09-28,Asia Cup 2025,Pakistan v India,4.3,23/0 batting first,Jasprit Bumrah,6 runs,91.3,4.5
 88,bat,2023-05-18,IPL 2023,Royal Challengers Bengaluru v Sunrisers Hyderabad,14.2,69 needed off 41,Abhishek Sharma,4 runs,90.9,4.5
+1487,bowl,2026-05-17,IPL 2026,Delhi Capitals v Rajasthan Royals,16.3,48 needed off 28,Tristan Stubbs,dot ball,97.6,4.5
 1440,bat,2022-05-14,IPL 2022,Sunrisers Hyderabad v Kolkata Knight Riders,7.3,146 needed off 82,Varun Chakravarthy,4 runs,92.3,4.5
 38855,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,19.6,12 needed off 7,Junaid Siddique,1 run,99.4,4.4
 6450,bowl,2024-12-09,Afghanistan in Zimbabwe T20I Series 2024,Zimbabwe v Afghanistan,18.3,24 needed off 16,Wesley Madhevere,dot ball,97.6,4.4
+479,bowl,2025-01-25,England in India T20I Series 2025,India v England,17.3,21 needed off 22,Namboori Tilak Varma,dot ball,95.9,4.4
 6059,bat,2025-03-30,IPL 2025,Chennai Super Kings v Rajasthan Royals,6.3,150 needed off 88,Sandeep Sharma,4 runs,91.3,4.4
 4895,bat,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,Sri Lanka v New Zealand,13.5,85 needed off 44,Matt Henry,4 runs,95.4,4.4
-1327,bat,2025-07-31,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,11.7,113 needed off 55,Sufiyan Muqeem,6 runs,92.3,4.4
 36982,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,18.6,30 needed off 13,Ravindra Jadeja,1 run,99.3,4.3
+3174,bowl,2026-04-03,IPL 2026,Punjab Kings v Chennai Super Kings,15.3,58 needed off 34,Shreyas Iyer,dot ball,95.7,4.3
 1440,bat,2023-05-07,IPL 2023,Sunrisers Hyderabad v Rajasthan Royals,10.2,141 needed off 65,Murugan Ashwin,6 runs,92.9,4.2
 2416,bat,2023-05-07,IPL 2023,Lucknow Super Giants v Gujarat Titans,6.6,160 needed off 85,Noor Ahmad,4 runs,93.2,4.1
 7094,bowl,2024-05-19,Netherlands Tri-Nation T20I Series 2024,Netherlands v Ireland,6.4,113 needed off 87,Max ODowd,dot ball,94.5,4.1
 838,bowl,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,12.6,99 needed off 49,Rovman Powell,WICKET (Caught),95.0,4.1
 6059,bat,2025-03-30,IPL 2025,Chennai Super Kings v Rajasthan Royals,6.2,154 needed off 89,Sandeep Sharma,4 runs,90.6,4.1
 5837,bowl,2022-08-30,Mens Twenty20 Asia Cup 2022,Afghanistan v Bangladesh,16.6,43 needed off 25,Najibullah Zadran,dot ball,96.8,4.1
+6512,bowl,2023-05-21,IPL 2023,Gujarat Titans v Royal Challengers Bengaluru,13.3,85 needed off 46,Shubman Gill,dot ball,96.4,4.1
 36982,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,13.5,78 needed off 44,Ayush Mhatre,dot ball,93.9,4.1
+1487,bowl,2022-10-12,New Zealand T20I Tri Series 2022/23,Bangladesh v New Zealand,10.6,119 needed off 61,Soumya Sarkar,WICKET (Caught),94.1,4.0
 6059,bat,2025-03-30,IPL 2025,Chennai Super Kings v Rajasthan Royals,9.1,129 needed off 72,Maheesh Theekshana,4 runs,90.1,4.0
 4812,bat,2022-06-28,India in Ireland T20I Series 2022,Ireland v India,16.6,56 needed off 25,Bhuvneshwar Kumar,4 runs,98.1,4.0
+2671,bat,2026-04-27,New Zealand in Bangladesh T20I Series 2026,Bangladesh v New Zealand,9.3,123 needed off 70,Ish Sodhi,4 runs,92.2,3.9
 88,bat,2025-04-29,IPL 2025,Delhi Capitals v Kolkata Knight Riders,11.5,102 needed off 56,Harshit Rana,4 runs,91.6,3.9
 7472,bowl,2025-05-22,IPL 2025,Gujarat Titans v Lucknow Super Giants,15.6,71 needed off 31,Sherfane Rutherford,dot ball,97.1,3.9
 2416,bat,2023-05-07,IPL 2023,Lucknow Super Giants v Gujarat Titans,6.3,164 needed off 88,Noor Ahmad,4 runs,92.1,3.9
 38855,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,19.2,20 needed off 11,Junaid Siddique,dot ball,97.9,3.8
 838,bowl,2022-05-04,IPL 2022,Chennai Super Kings v Royal Challengers Bengaluru,14.6,65 needed off 37,Moeen Ali,dot ball,94.9,3.8
 838,bowl,2025-04-12,IPL 2025,Sunrisers Hyderabad v Punjab Kings,9.6,123 needed off 67,Travis Head,dot ball,96.0,3.8
+1107,bowl,2024-02-21,Afghanistan in Sri Lanka T20I Series 2024,Sri Lanka v Afghanistan,16.5,59 needed off 26,Angelo Mathews,WICKET (Caught),97.7,3.7
 36982,bowl,2025-05-03,IPL 2025,Chennai Super Kings v Royal Challengers Bengaluru,18.3,34 needed off 16,Ravindra Jadeja,1 run,98.9,3.7
 7094,bowl,2025-02-23,Ireland in Zimbabwe T20I Series 2025,Zimbabwe v Ireland,16.5,32 needed off 26,Tony Munyonga,dot ball,97.2,3.6
 5837,bowl,2022-08-30,Mens Twenty20 Asia Cup 2022,Afghanistan v Bangladesh,16.4,49 needed off 27,Najibullah Zadran,dot ball,97.3,3.6
 2687,bowl,2025-06-08,West Indies in England T20I Series 2025,England v West Indies,14.2,71 needed off 41,Harry Brook,dot ball,95.5,3.6
-5979,bowl,2025-09-25,Asia Cup 2025,Bangladesh v Pakistan,15.6,51 needed off 31,Shamim Hossain,dot ball,97.0,3.5
 88,bat,2025-04-29,IPL 2025,Delhi Capitals v Kolkata Knight Riders,12.1,97 needed off 54,Andre Russell,"wide / no-ball, 2",92.8,3.5
 2687,bowl,2025-07-25,Australia in West Indies T20I Series 2025,Australia v West Indies,12.2,75 needed off 53,Tim David,dot ball,93.8,3.5
-7690,bat,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Pakistan v Afghanistan,5.1,19/1 batting first,Mohammad Nabi,4 runs,90.9,3.4
-27964,bowl,2024-10-19,Mens T20 Emerging Teams Asia Cup 2024,Pakistan A v India A,20.4,12 needed off 3,Abbas Afridi,dot ball,98.8,3.3
-5979,bowl,2025-09-28,Asia Cup 2025,India v Pakistan,16.5,38 needed off 27,Shivam Dube,dot ball,96.2,3.2
+3374,bat,2023-04-02,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,12.4,96 needed off 52,Dilshan Madushanka,4 runs,92.0,3.2
 4658,bowl,2025-09-16,Asia Cup 2025,Afghanistan v Bangladesh,18.4,29 needed off 15,Noor Ahmad,dot ball,99.6,3.2
-5979,bowl,2024-04-21,New Zealand in Pakistan T20I Series 2024,New Zealand v Pakistan,13.3,77 needed off 46,Mark Chapman,dot ball,93.0,3.2
 8600,bat,2022-06-12,Afghanistan in Zimbabwe T20I Series 2022,Zimbabwe v Afghanistan,9.6,118 needed off 67,Rashid Khan,3 runs,93.3,3.2
 443,bat,2024-05-23,Netherlands Tri-Nation T20I Series 2024,Ireland v Scotland,3.5,143 needed off 104,Bradley Currie,3 runs,91.0,3.2
 4658,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,4.5,132 needed off 98,Muhammad Waseem,dot ball,92.1,3.2
-3489,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,15.5,66 needed off 32,Maheesh Theekshana,4 runs,94.7,3.1
 403,bowl,2022-04-15,IPL 2022,Sunrisers Hyderabad v Kolkata Knight Riders,14.2,62 needed off 41,Rahul Tripathi,dot ball,92.1,3.1
 2416,bat,2023-05-07,IPL 2023,Lucknow Super Giants v Gujarat Titans,4.8,182 needed off 97,Hardik Pandya,4 runs,90.4,3.1
 4658,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,4.6,132 needed off 97,Muhammad Waseem,dot ball,92.2,3.1
 4658,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,4.4,132 needed off 99,Muhammad Waseem,dot ball,92.0,3.0
+38855,bowl,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates v Bangladesh,3.5,141 needed off 104,Muhammad Waseem,dot ball,91.2,2.9
 19312,bowl,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,18.2,23 needed off 17,Towhid Hridoy,1 run,97.2,2.8
-3091,bat,2025-09-28,Asia Cup 2025,Pakistan v India,4.1,19/0 batting first,Jasprit Bumrah,4 runs,91.4,2.8
-6674,bat,2023-03-26,Afghanistan v Pakistan T20I Series 2023,Afghanistan v Pakistan,16.3,45 needed off 28,Shadab Khan,WICKET (RunOut),96.9,2.8
 24017,bat,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe v Sri Lanka,9.3,121 needed off 70,Angelo Mathews,3 runs,90.4,2.7
 5837,bowl,2022-09-01,Mens Twenty20 Asia Cup 2022,Sri Lanka v Bangladesh,18.1,34 needed off 18,Dasun Shanaka,1 run,98.7,2.7
-3489,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,15.3,70 needed off 34,Maheesh Theekshana,4 runs,91.9,2.6
 5837,bowl,2025-05-21,Bangladesh in United Arab Emirates T20I Series 2025,United Arab Emirates v Bangladesh,6.5,114 needed off 86,Alishan Sharafu,dot ball,94.7,2.6
-27964,bowl,2024-10-19,Mens T20 Emerging Teams Asia Cup 2024,Pakistan A v India A,20.1,17 needed off 6,Abdul Samad,WICKET (Caught),98.0,2.5
+4853,bat,2022-07-22,New Zealand in Ireland T20I Series 2022,New Zealand v Ireland,18.4,21 needed off 15,Craig Young,2 runs,95.5,2.5
 3639,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,11.3,118 needed off 58,Marcus Stoinis,4 runs,94.3,2.5
 27964,bowl,2025-05-20,IPL 2025,Rajasthan Royals v Chennai Super Kings,6.4,137 needed off 87,Sanju Samson,dot ball,90.4,2.5
+27964,bowl,2026-05-18,IPL 2026,Sunrisers Hyderabad v Chennai Super Kings,6.1,143 needed off 90,Abhishek Sharma,dot ball,90.3,2.4
+4812,bat,2022-08-09,Afghanistan in Ireland T20I Series 2022,Ireland v Afghanistan,17.1,41 needed off 24,FazalHaq Farooqi,2 runs,96.5,2.4
 7900,bat,2025-09-11,Asia Cup 2025,Bangladesh v Hong Kong,5.2,111 needed off 95,Ehsan Khan,2 runs,90.5,2.4
 19312,bowl,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,18.1,24 needed off 18,Shamim Hossain,1 run,96.9,2.4
+27964,bowl,2026-05-18,IPL 2026,Sunrisers Hyderabad v Chennai Super Kings,6.4,142 needed off 87,Ishan Kishan,dot ball,91.5,2.4
 4823,bowl,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,11.2,104 needed off 59,David Miller,dot ball,92.4,2.1
 19312,bowl,2025-09-20,Asia Cup 2025,Bangladesh v Sri Lanka,5.5,124 needed off 92,Mohammad Saif Hassan,dot ball,93.1,2.0
 4895,bat,2025-09-26,Asia Cup 2025,Sri Lanka v India,15.5,49 needed off 32,Varun Chakravarthy,2 runs,95.2,2.0
+3374,bat,2023-04-08,Sri Lanka in New Zealand T20I Series 2023,New Zealand v Sri Lanka,18.2,22 needed off 17,Kasun Rajitha,2 runs,95.6,2.0
 24017,bat,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe v Sri Lanka,10.6,107 needed off 61,Wanindu Hasaranga,2 runs,93.5,1.7
 4823,bowl,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,9.6,115 needed off 67,Wriddhiman Saha,dot ball,90.2,1.6
 4823,bowl,2024-01-17,Afghanistan in India T20I Series 2024,Afghanistan v India,17.5,49 needed off 21,Gulbadin Naib,1 run,98.2,1.6
 992,bat,2025-05-27,IPL 2025,Royal Challengers Bengaluru v Lucknow Super Giants,14.2,88 needed off 41,William ORourke,3 runs,90.3,1.5
-6674,bat,2023-03-26,Afghanistan v Pakistan T20I Series 2023,Afghanistan v Pakistan,15.2,50 needed off 35,Naseem Shah,2 runs,91.8,1.5
 7900,bat,2025-10-30,West Indies in Bangladesh T20I Series 2025,Bangladesh v West Indies,17.5,38 needed off 22,Jayden Seales,2 runs,97.0,1.4
+6674,bat,2023-05-20,IPL 2023,Kolkata Knight Riders v Lucknow Super Giants,14.2,73 needed off 41,Yash Thakur,dot ball,95.5,1.4
+6674,bat,2023-05-20,IPL 2023,Kolkata Knight Riders v Lucknow Super Giants,14.3,71 needed off 40,Yash Thakur,2 runs,95.7,1.2
 992,bat,2025-05-23,IPL 2025,Royal Challengers Bengaluru v Sunrisers Hyderabad,9.4,128 needed off 69,Harsh Dubey,2 runs,93.7,1.1
 992,bat,2025-05-27,IPL 2025,Royal Challengers Bengaluru v Lucknow Super Giants,14.6,74 needed off 37,William ORourke,2 runs,92.8,1.1
-3700,bat,2024-01-21,Pakistan in New Zealand T20I series 2024,New Zealand v Pakistan,11.3,81 needed off 58,Iftikhar Ahmed,1 run,93.3,0.9
-3489,bat,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan v Sri Lanka,16.5,58 needed off 27,Eshan Malinga,2 runs,97.7,0.7
 3639,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,8.5,129 needed off 74,Marcus Stoinis,2 runs,91.3,0.6
-1327,bat,2025-07-31,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,12.3,106 needed off 52,Mohammad Nawaz,2 runs,95.9,0.6
-7690,bat,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Pakistan v Afghanistan,3.5,15/1 batting first,FazalHaq Farooqi,1 run,90.5,0.5
-7690,bat,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Pakistan v Afghanistan,5.4,25/1 batting first,Mohammad Nabi,1 run,91.6,0.4
-7690,bat,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Pakistan v Afghanistan,3.3,13/1 batting first,FazalHaq Farooqi,1 run,90.2,0.4
 3639,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,10.5,121 needed off 62,Sean Abbott,2 runs,94.9,0.4
-7690,bat,2025-09-07,United Arab Emirates T20I Tri-Series 2025,Pakistan v Afghanistan,5.2,23/1 batting first,Mohammad Nabi,1 run,91.3,0.4
-728,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,10.1,92 needed off 66,Iftikhar Ahmed,1 run,92.0,0.4
-1327,bat,2025-07-31,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,10.6,119 needed off 62,Mohammad Nawaz,2 runs,92.6,0.3
-3091,bat,2025-09-28,Asia Cup 2025,Pakistan v India,5.2,32/0 batting first,Varun Chakravarthy,1 run,91.9,0.3
-3091,bat,2025-09-28,Asia Cup 2025,Pakistan v India,3.2,12/0 batting first,Shivam Dube,1 run,90.3,0.3
-3091,bat,2025-09-28,Asia Cup 2025,Pakistan v India,4.6,31/0 batting first,Jasprit Bumrah,1 run,90.9,0.2
-728,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,11.4,87 needed off 57,Shadab Khan,1 run,91.6,0.2
 3639,bat,2026-01-21,Afghanistan v West Indies T20I Series 2026,West Indies v Afghanistan,15.6,71 needed off 32,Gulbadin Naib,2 runs,95.2,0.2
-728,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,10.4,90 needed off 63,Iftikhar Ahmed,1 run,92.1,0.2
 8600,bat,2026-10-27,Afghanistan v Zimbabwe T20I Series 2026,Zimbabwe v Afghanistan,14.5,84 needed off 38,Mujeeb Ur Rahman,1 run,90.6,0.1
 3639,bat,2022-01-29,England in West Indies T20I Series 2022,West Indies v England,9.1,128 needed off 72,Adil Rashid,1 run,92.5,-0.0
 8600,bat,2022-06-12,Afghanistan in Zimbabwe T20I Series 2022,Zimbabwe v Afghanistan,10.2,111 needed off 65,Mohammad Nabi,1 run,90.1,-0.1
 109,bat,2022-04-27,IPL 2022,Gujarat Titans v Sunrisers Hyderabad,9.3,121 needed off 70,Washington Sundar,1 run,90.6,-0.2
-1327,bat,2025-07-31,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,8.6,126 needed off 73,Mohammad Nawaz,1 run,91.3,-0.6
-1327,bat,2025-07-31,Pakistan in West Indies T20I Series 2025,West Indies v Pakistan,9.2,125 needed off 71,Sufiyan Muqeem,1 run,92.3,-0.8
+3700,bat,2026-11-01,India in New Zealand T20I Series 2026,New Zealand v India,11.3,91 needed off 58,Abhishek Sharma,1 run,90.8,-0.6
+1327,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,8.2,132 needed off 77,Marcus Stoinis,1 run,90.1,-0.9
+1327,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,8.4,130 needed off 75,Marcus Stoinis,1 run,90.9,-1.1
 8600,bat,2026-10-27,Afghanistan v Zimbabwe T20I Series 2026,Zimbabwe v Afghanistan,16.2,71 needed off 29,Rashid Khan,WICKET (LBW),93.0,-1.6
-728,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,10.6,88 needed off 61,Iftikhar Ahmed,dot ball,92.3,-1.8
-728,bat,2022-09-28,England in Pakistan T20I Series 2022,England v Pakistan,12.3,84 needed off 52,Iftikhar Ahmed,WICKET (LBW),91.0,-12.5
+1327,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,9.2,125 needed off 71,Adam Zampa,dot ball,92.1,-2.9
+1327,bat,2024-02-09,West Indies in Australia T20I Series 2024,West Indies v Australia,9.3,125 needed off 70,Adam Zampa,WICKET (Caught),92.5,-3.9
